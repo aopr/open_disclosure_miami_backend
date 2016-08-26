@@ -1,0 +1,2 @@
+class Mony < ApplicationRecord
+end
