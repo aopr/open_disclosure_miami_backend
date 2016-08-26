@@ -38,6 +38,7 @@ ActiveRecord::Schema.define(version: 20160826223751) do
     t.string   "amount"
     t.datetime "created_at",       null: false
     t.datetime "updated_at",       null: false
+    t.string   "candidate"
   end
 
 end
