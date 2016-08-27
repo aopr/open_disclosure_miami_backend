@@ -1,1 +1,9 @@
-
+<div class="row">
+  <% @monies.each do |f| %>
+    <div class="col 4">
+      <%= f.name %>
+      <%= f.address %>
+      <%= f.city %>
+    </div>
+  <% end %>
+</div>
