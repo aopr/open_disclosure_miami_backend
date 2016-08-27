@@ -1,187 +1,187 @@
 rpt code,line number,item date,Cont/Exp,name,address 1,address 2,city,state,zip,cont. type,occupation,item type,description,amount,Amend. code,lastname
-12781,7,2016-05-19,C,Raul  Garcia,15451 SW 112th Ter,,Miami,FL,33196-4341,I,Individual<br>,CH,,1000.00,,Garcia
-12968,7,2016-05-19,C,Raul  Garcia,15451 SW 112th Ter,,Miami,FL,33196-4341,I,Individual<br>,CH,,1000.00,D,Garcia
-12968,8,2016-05-19,C,Raul  Garcia,15451 SW 112th Ter,,Miami,FL,33196-4341,I,Retired ,CH,,1000.00,A,Garcia
-12781,1,2016-05-31,C,The Realization Group,7296 sw 48 street,,Miami,Fl,33155,B,Business,CH,,1000.00,,The Realization Group
-12781,2,2016-05-31,C,"Pascual Perez & Associates,INC",1330 NorthWest 84th Avenue,,Doral ,Fl,33126,B,Architects,CH,,1000.00,,"Pascual Perez & Associates,INC"
-12781,3,2016-05-31,C,Designs By Fardella INC,15935 Assembly Loop Bay C,,Jupiter,FL,33478,B,Business,CH,,500.00,,Designs By Fardella INC
-12781,4,2016-05-31,C,Greater Florida Leadership Gro,120 S Monore Street,,Tallahassee,FL,32301,F,PC,CH,,1000.00,,Greater Florida Leadership Gro
-12781,5,2016-05-31,C,Veterans For Conservative Prin,120 S Monore Street,,tallahassee,FL,32301,F,PC,CH,,1000.00,,Veterans For Conservative Prin
-12781,6,2016-05-31,C,"The Committee For Justice, Tra",120 South Monore Street,,Tallahassee,FL,32301,F,PC,CH,,1000.00,,"The Committee For Justice, Tra"
-12781,8,2016-05-31,C,Strong Communities of SW FL,120 South Monore Street,,Tallahassee,FL,32301,F,PC,CH,,1000.00,,Strong Communities of SW FL
-12781,9,2016-05-31,C,Citizens For Principled Leader,120 South Monore Street,,Tallahassee,FL,32301,F,PC,CH,,1000.00,,Citizens For Principled Leader
-12968,1,2016-05-31,C,The Realization Group,7296 sw 48 street,,Miami,Fl,33155,B,Business,CH,,1000.00,D,The Realization Group
-12968,2,2016-05-31,C,The Realization Group,7296 sw 48 street,,Miami,Fl,33155,B,Architectural visualization -,CH,,1000.00,A,The Realization Group
-12968,3,2016-05-31,C,Designs By Fardella INC,15935 Assembly Loop Bay C,,Jupiter,FL,33478,B,Business,CH,,500.00,D,Designs By Fardella INC
-12968,4,2016-05-31,C,Designs By Fardella INC,15935 Assembly Loop Bay C,,Jupiter,FL,33478,B,Interior Designer,CH,,500.00,A,Designs By Fardella INC
-12968,5,2016-05-31,C,Designs By Fardella INC,15935 Assembly Loop Bay C,,Jupiter,FL,33478,B,Business,CH,,500.00,D,Designs By Fardella INC
-12968,6,2016-05-31,C,Designs By Fardella INC,15935 Assembly Loop Bay C,,Jupiter,FL,33478,B,Interior Designer,CH,,500.00,A,Designs By Fardella INC
-12880,1,2016-06-05,E,Jose F Martinez,9742 sw 166 court ,,Miami,Fl,33196,,,MO,Professional<br>expenses ,50.00,,Martinez
-12880,1,2016-06-08,C,Charles   Tucker III,15320 S. River Drive,,Miami,fl,33169,I,Retired,CH,,500.00,,Tucker III
-12880,5,2016-06-08,E,Donate Bucket,1779 N. University Dr #102,,Pembroke Pines,Fl,33024,,,MO,Fee,5.10,,Donate Bucket
-12880,2,2016-06-09,E,Dark Horse Strategies,3663 Sw 8th street Set 205,,Miami,Fl,33135,,,MO,WebElect/ Webpage,1005.00,,Dark Horse Strategies 
-12880,2,2016-06-11,C,Michael  Mouring,29300 SW 199 Ave,,Homestead,FL,33030,I,Retired,CH,,100.00,,Mouring
-12880,6,2016-06-11,E,Donate Bucket,1779 N. University Dr #102,,Pembroke Pines,FL,33024,,,MO,FEE,25.10,,Donate Bucket
-12880,3,2016-06-20,E,Miami-Dade County,2700 NW 87th Ave Ste 100 ,,Doral,FL,33172,,,MO,Qualifying<br>Fee,360.00,,Miami-Dade County 
-12880,4,2016-06-22,E,Hardland Clarke,15955 La Cantera Parkway ,,San Antonio,TX,78256,,,MO,Checks ,57.49,,Hardland Clarke 
-13013,3,2016-06-25,E,"Tax CPA SOLUTIONS, LLC",1290 REDBIRD AVE,,Miami Springs ,Fl,33166,,,MO,professional Services ,350.00,,"Tax CPA SOLUTIONS, LLC"
-13013,4,2016-06-25,E,"TAX CPA SOLUTIONS, LLC",1290 REDBIRD AVE,,Miami,FL,33166,,,MO,Professional Services ,350.00,,"TAX CPA SOLUTIONS, LLC"
-13013,1,2016-06-28,E,Breakthrough Strategies,12741 SW 42nd Street,,Miami,Fl,33175,,,MO,Services ,53.66,,Breakthrough Strategies
-13013,2,2016-06-28,E,Dark Horse Strategies,"3663 SW 8th Street, Suite 204B",,Miami,FL,33135,,,MO,Campaign expenses ,1425.00,,Dark Horse Strategies 
-13013,5,2016-07-05,E,The Campaign Superstore Inc,1672 NE 205th Ter,,Miami,Fl,33179,,,MO,Campaign supplies ,2172.10,,The Campaign Superstore Inc
-13042,87,2016-07-09,C,Nelson  Rodriguez,385 SW 163 Path,,Miami,Fl,33185,I,IT<br>Director,CH,,50.00,,Rodriguez
-13042,88,2016-07-09,C,Jose  Barquero,Protected under chapter 119 ,,Miami,FL,33165,I,Police<br>Officer,CH,,50.00,,Barquero
-13042,46,2016-07-10,C,Juan  J Mayol,1400 Coral Way ,,Coral Gables,FL,33134,I,Entrepreneur,CH,,1000.00,,Mayol
-13042,64,2016-07-11,C,PM2 Planning Corp,13369 SW 42nd Street,,Miami,Fl,33175,B,Drafting<br>Services ,CH,,1000.00,,PM2 Planning Corp
-13042,11,2016-07-13,C,Nicole I Arza,1768 SW 15th ST,,Miami,FL,33145-1423,I,Entrepreneur,CH,,1000.00,,Arza
-13042,47,2016-07-13,C,Windsor Investment Holdings LL,28 Tahiti Beach Island Rd,,Coral Gables ,FL,33143,B,Investment<br>Holdings,CH,,1000.00,,Windsor Investment Holdings LL
-13042,48,2016-07-13,C,Windsor Capital Corporation,28 Tahiti Beach Island Rd,,Coral Gables,Fl,33143,B,Investment<br>Corp,CH,,1000.00,,Windsor Capital Corporation
-13042,14,2016-07-14,C,Michael J Gal trust 12/13/99,10360 Grove Lane,,Cooper City ,FL,33328,O,Trust ,CH,,1000.00,,Michael J Gal trust 12/13/99
-13042,13,2016-07-15,C,Donald B Stiller,3021 NW 28th Way,,Boca Raton,FL,33434,I,Entrepreneur,CH,,1000.00,,Stiller
-13042,65,2016-07-15,C,Design Spray INC,15341 SW 144th Terrace,,Miami,Fl,33196,B,Business,CH,,500.00,,Design Spray INC
-13042,89,2016-07-15,C,Alexander  Casas,Protected under chapter 119 ,,Miami ,FL,33185,I,Chief of<br>Police,CH,,50.00,,Casas
-13042,90,2016-07-15,C,Alfredo  Balsera,2020 Ponce de Leon Blvd. Suite 1003,,Coral Gables ,Fl,33134,I,CEO ,CH,,1000.00,,Balsera
-13042,1,2016-07-17,C,2201 - 2231 West 64th St. INC,9451 Journey ends RD,,Coral Gables,FL,33156,I,Real<br>Estate ,CH,,1000.00,,2201 - 2231 West 64th St. INC
-13042,77,2016-07-17,C,Shal  Moschowits,19355 Trunberry Way Apt. 16-GR,,Aventura ,FL,33180,I,Real<br>Estate ,CH,,1000.00,,Moschowits
-13042,4,2016-07-18,C,"Happy Auto Repair, INC.",1536 W 41st Strett,,Hialeah,FL,33012-5872,B,Auto<br>Repair ,CH,,1000.00,,"Happy Auto Repair, INC."
-13042,5,2016-07-18,C,Jose   Seijas,10750 SW 40th St,,Miami,FL,33165,I,Entrepreneur,CH,,1000.00,,Seijas
-13042,7,2016-07-18,C,Liccy  Morell-Ruiz,120 SW 125 AVE ,,Miami,FL,33184,I,Entrepreneur,CH,,1000.00,,Morell-Ruiz
-13042,8,2016-07-18,C,Javier  Ruiz,120 SW 125 AVE,,Miami,FL,33184,I,Entrepreneur,CH,,1000.00,,Ruiz
-13042,9,2016-07-18,C,Eduardo  Mario Leal,16277 NW 88 PL,,Miami,FL,33018,I,Entrepreneur,CH,,1000.00,,Leal
-13042,10,2016-07-18,C,Olga  Leal,16277 NW 88 PL,,Miami,FL,33018,I,Entrepreneur,CH,,1000.00,,Leal
-13042,12,2016-07-18,C,Miguel A De. Grandy,537 San Lorenzo Ave,,Coral Gables,Fl,33146,I,Entrepreneur,CH,,1000.00,,De. Grandy
-13042,23,2016-07-18,C,"SW 40th Street Shoppes, INC",2766 NW 62nd ST,,Miami,Fl,33147,B, Real<br>Estate ,CH,,1000.00,,"SW 40th Street Shoppes, INC"
-13042,24,2016-07-18,C,3000 N.W. 62 Street INC.,2766 NW 62 ST,,Miami,Fl,33147,B, Real<br>Estate ,CH,,1000.00,,3000 N.W. 62 Street INC.
-13042,25,2016-07-18,C,8900 Coral Way LLC,2766 N.W. 62nd St,,Miami,Fl,33147,B, Real<br>Estate ,CH,,1000.00,,8900 Coral Way LLC
-13042,26,2016-07-18,C,8080 West Flager INC.,2766 NW 62 St,,Miami,Fl,33147,B, Real<br>Estate ,CH,,1000.00,,8080 West Flager INC.
-13042,27,2016-07-18,C,"MCT Express, INC.",2766 NW 62nd Strett,,Miami,Fl,33147,B,Ambulance ,CH,,1000.00,,"MCT Express, INC. "
-13042,28,2016-07-18,C,Dinah Investment Corp,2766 NW 62nd Street,,Miami,Fl,33147,B,Investment<br>company ,CH,,1000.00,,Dinah Investment Corp
-13042,29,2016-07-18,C,"Medical Care Transportation,",2766 NW 62nd Street,,Miami,Fl,33147,B,Transportation,CH,,1000.00,,"Medical Care Transportation,"
-13042,30,2016-07-18,C,American Shuttle INC.,2766 NW 62ND Street,,Miami,Fl,33147,B,Shuttle<br>Service ,CH,,1000.00,,American Shuttle INC.
-13042,31,2016-07-18,C,Limousines Of South Fl INC,2766 NW 62ND Street,,Miami,Fl,33147,B,Limousines<br>,CH,,1000.00,,Limousines Of South Fl INC
-13042,32,2016-07-18,C,Super Nice STS INC,2766 NW 62ND Street,,MIami,Fl,33147,B,Transportation,CH,,1000.00,,Super Nice STS INC
-13042,33,2016-07-18,C,D R  International Consultants,848 Brickell Ave #430,,Miami,Fl,33131,B,Consultants,CH,,1000.00,,D R  International Consultants
-13042,34,2016-07-18,C,D R International Distributor,848 Brickell Avenue ,,Miami,Fl,33131,B,Distributor<br>,CH,,1000.00,,D R International Distributor 
-13042,39,2016-07-18,C,Odebrecht Construction Inc,201 Alhambra Circle ,,Coral Gables,Fl,33134,B,Construction<br>,CH,,1000.00,,Odebrecht Construction Inc
-13042,40,2016-07-18,C,"Lanzo Construction Co., FL",125 SE 5th Court ,,Deerfield Beach,Fl,33441,B,Construction<br>,CH,,500.00,,"Lanzo Construction Co., FL"
-13042,41,2016-07-18,C,"137 Leoni, LLC",6201 SW 70th Street 2nd Floor,,Miami,Fl,33143,B,Business ,CH,,1000.00,,"137 Leoni, LLC"
-13042,42,2016-07-18,C,"6201 of Miami, LLC",6201 SW 70th Street 2nd Floor,,Miami,Fl,33143,B,Business ,CH,,1000.00,,"6201 of Miami, LLC"
-13042,43,2016-07-18,C,"831 Center, LLC",6201 SW 70th Street,,Miami,Fl,33143,B,Business ,CH,,1000.00,,"831 Center, LLC"
-13042,44,2016-07-18,C,"1401 Professional Center, LLC",6201 Sw 70th Street 2nd Floor ,,Miami,Fl,33143,B,Business ,CH,,1000.00,,"1401 Professional Center, LLC"
-13042,45,2016-07-18,C,"7501 Medley Civil, LLC",6201 SW 70th Street 2nd Floor ,,Miami,Fl,33143,B,Business  ,CH,,1000.00,,"7501 Medley Civil, LLC"
-13042,68,2016-07-18,C,Boulevard Plaza LLC,2240 NW 19th Street,,Boca Raton,Fl,33431,B,Real<br>Estate,CH,,1000.00,,Boulevard Plaza LLC
-13042,69,2016-07-18,C,"Sun Tech-Engineering, INC.","1600 W. Oakland Park Blvd, Suite 200",,F.T. Lauderdale,Fl,33311,B,Business ,CH,,1000.00,,"Sun Tech-Engineering, INC."
-13042,70,2016-07-18,C,Woolbright Holdings II LLC,2240 NW 19th Street Suite 801,,Boca Raton,Fl,33431,B,Business ,CH,,1000.00,,Woolbright Holdings II LLC
-13042,71,2016-07-18,C,Woolbright Falcon LLC,2240 NW 19th Street Suite 801,,Boca Raton,Fl,33431,B,Business ,CH,,1000.00,,Woolbright Falcon LLC
-13042,72,2016-07-18,C,Marc Wiener RA PA,851 S Federal HWY STE 203,,Boca Raton ,Fl,33432,B,Business ,CH,,1000.00,,Marc Wiener RA PA
-13042,2,2016-07-19,C,Grisel C Suri,1280 W 26th PL,,Hialeah,FL,33010,I,Entrepreneur,CH,,1000.00,,Suri
-13042,6,2016-07-19,C,Orlando P Sanchez,1697 W 58 Strett,,Hialeah,Fl,33012,I,Entrepreneur,CH,,1000.00,,Sanchez
-13042,2,2016-07-19,E,Miami-Dade County,2700 NW 87th Ave Ste 100,,Doral,Fl,33172,,,MO,Voter List,40.00,,Miami-Dade County 
-13042,86,2016-07-19,C,David J. Wiener P.A.,"2240 N.W. 19th Street, Suite 801",,Boca Raton ,Fl,33431,B,Attorney ,CH,,500.00,,David J. Wiener P.A.
-13042,3,2016-07-20,C,Lazaro  U Sanchez,7430 Miami Lakes Dr Apt E105,,Miami Lakes,Fl,33014,I,Entrepreneur,CH,,1000.00,,Sanchez
-13042,35,2016-07-20,C,Herman  Eehevarria,1175 North Shore Drive ,,Miami Beach,Fl,33141,I,Entrepreneur,CH,,1000.00,,Eehevarria 
-13042,36,2016-07-20,C,Pedro  R Pealed,6955 NW 77th Ave #204,,Miami,Fl,33166,I,Entrepreneur,CH,,1000.00,,Pealed
-13042,37,2016-07-20,C,International Management Consu,PO Box 310999,,Miami,Fl,33231,B,Consultant<br>,CH,,1000.00,,International Management Consu
-13042,38,2016-07-20,C,Meridian International Group,PO Box 331990,,Miami,Fl,33233,B,Consultant<br>,CH,,1000.00,,Meridian International Group
-13042,79,2016-07-20,C,Realtors Political Advocacy,7025 Augusta National Drive ,,Orlando ,Fl,32822,C,Political<br>Committee <br>,CH,,1000.00,,Realtors Political Advocacy 
-13042,83,2016-07-20,C,Janet  Schlang,3501 N Ocean Dr APT5B,,Hollywood,Fl,33019,I,Entrepreneur,CH,,1000.00,,Schlang 
-13042,54,2016-07-21,C,Adrian Developers,13687 SW 26 Street,,Miami,Fl,33175,B,Developers<br>,CH,,1000.00,,Adrian Developers 
-13042,55,2016-07-21,C,Adrian Homes/Jesus Subdivision,13687 SW 26 Street ,,Miami,Fl,33175,B,Construction<br>Company,CH,,1000.00,,Adrian Homes/Jesus Subdivision
-13042,56,2016-07-21,C,Four Aces Ranch I LLLP,13687 SW 26 Street,,Miami,Fl,33175,B,Developers<br> ,CH,,1000.00,,Four Aces Ranch I LLLP
-13042,57,2016-07-21,C,Pedro J Adrian,13687 SW 26 Street,,Miami,Fl,33175,I,Entrepreneur<br> ,CH,,1000.00,,Adrian 
-13042,58,2016-07-21,C,"Coral West Plaza I, LTD","2460 S.W. 137th Ave, Suite 238",,Miami,Fl,33175,B,Real<br>Estate,CH,,500.00,,"Coral West Plaza I, LTD"
-13042,59,2016-07-21,C,"Coral West Plaza II, LTD",2460 S.W. 137th Ave Suite 238,,Miami,Fl,33175,B,Real<br>Estate,CH,,500.00,,"Coral West Plaza II, LTD"
-13042,60,2016-07-21,C,"Coral West Plaza III, LTD",2460 SW 137th Ave Suite 238,,Miami,Fl,33175,B,Real<br>Estate,CH,,500.00,,"Coral West Plaza III, LTD"
-13042,61,2016-07-21,C,"Coral West Plaza IV, LTD",2460 S.W. 137th Ave Suite 238,,Miami,Fl,33175,B,Real<br>Estate,CH,,500.00,,"Coral West Plaza IV, LTD"
-13042,62,2016-07-21,C,"Miller West Plaza, INC",2460 S.W. 137th Ave Suite 238,,Miami,Fl,33175,B,Real<br>Estate,CH,,500.00,,"Miller West Plaza, INC"
-13042,63,2016-07-21,C,"Town & Country Plaza, INC.",2460 S.W. 137th Ave Suite 238,,Miami,Fl,33175,B,Real<br>Estate,CH,,500.00,,"Town & Country Plaza, INC."
-13042,73,2016-07-21,C,AdrianBuilders at Palmetto Bay,2460 Sw 137 Avenue Suite 245,,Miami,Fl,33175,B,Real<br>Estate,CH,,1000.00,,AdrianBuilders at Palmetto Bay
-13042,74,2016-07-21,C,"Hidden Lake TownHomes, LLLP",2460 Sw 137 Avenue Suite 245,,Miami,Fl,33175,B,Real<br>Estate,CH,,1000.00,,"Hidden Lake TownHomes, LLLP"
-13042,75,2016-07-21,C,"AdrianBuilders at Costa Brava,",2460 Sw 137 Avenue Suite 245,,Miami,FL,33175,B,Real<br>Estate,CH,,1000.00,,"AdrianBuilders at Costa Brava,"
-13042,76,2016-07-21,C,Delfin   Pernas,13220 SW 132 ave #2 ,,MIami,FL,33183,I,Real<br>Estate ,CH,,1000.00,,Pernas 
-13042,78,2016-07-21,C,Realtors Political Activity co,200 Monroe St,,Tallahassee ,FL,32301,C,Political<br>Committee,CH,,1000.00,,Realtors Political Activity co
-13042,80,2016-07-21,C,Realtors Political Action,200 Monore St,,Tallahassee,FL,32301,C,Political<br>Committee ,CH,,1000.00,,Realtors Political Action 
-13042,81,2016-07-21,C,Alexander E Napoles,4035 SW 98th Ave ,,Miami,Fl,33165,I,Entrepreneur,CH,,1000.00,,Napoles
-13042,82,2016-07-21,C,Denis Beaulieu Revocable Trust,2066 N. Ocean Blvd 15sE,,Boca Raton ,Fl,33431,O,Trust ,CH,,1000.00,,Denis Beaulieu Revocable Trust
-13042,85,2016-07-21,C,AL-Flex Exterminators INC,PO Box 650213,,Miami,Fl,33265,B,Exterminator,CH,,1000.00,,AL-Flex Exterminators INC
-13042,15,2016-07-22,C,Joshua  Michael Entin,17466 SW 35th CT,,Miramar,FL,33029,I,Entrepreneur,CH,,125.00,,Entin
-13042,16,2016-07-22,C,Ben J Fernandez,1837 SW 23rd St,,Miami,Fl,33145-3825,I,Entrepreneur,CH,,250.00,,Fernandez
-13042,17,2016-07-22,C,Graham  Penn,601 South Rainbow Drive ,,Hollywood,FL,33021,I,Entrepreneur,CH,,250.00,,Penn
-13042,18,2016-07-22,C,Michael J Marrero,1795 SW 16 Strett ,,Miami,Fl,33145,I,Entrepreneur,CH,,250.00,,Marrero
-13042,19,2016-07-22,C,Manuel R Llahves,3767 Carmen Ct,,Coconut Grove,Fl,33133,I,Entrepreneur,CH,,500.00,,Llahves
-13042,20,2016-07-22,C,Michael E Randell,5999 SW 94th Street,,Miami,Fl,33156,I,Entrepreneur,CH,,250.00,,Randell
-13042,21,2016-07-22,C,Michael W Larkin,20 Island Avenue ,No.709,Miami Beach,Fl,33139,I,Entrepreneur,CH,,250.00,,Larkin
-13042,22,2016-07-22,C,Jorge A Pernas,11995 SW 97th Ave,,Miami,Fl,33176,I,Entrepreneur,CH,,1000.00,,Pernas
-13042,49,2016-07-22,C,Julie   Becrow,590 Lakeview Drive,,Miami Beach ,FL,33140-2648,I,Entrepreneur,CH,,500.00,, Becrow
-13042,50,2016-07-22,C,Bercow Radell & Fernandez,200 South Biscayne Boulevard ,Suite 850,Miami,Fl,33131,B,Law Firm ,CH,,1000.00,,Bercow Radell & Fernandez
-13042,51,2016-07-22,C,"ARG Summerville Lots, LLC",2950 SW 27th Avenue Suite 300,,Miami,FL,33133,B,Real<br>Estate,CH,,1000.00,,"ARG Summerville Lots, LLC"
-13042,52,2016-07-22,C,"Treo Somi Station, LLC",2950 SW 27th Ave STE 100,,Miami,FL,33133,B,Investment<br>Company ,CH,,1000.00,,"Treo Somi Station, LLC"
-13042,53,2016-07-22,C,Adrian Management Inc.,13687 SW 26 Street ,,Miami,Fl,33175,B,Management<br>Company ,CH,,1000.00,,Adrian Management Inc.
-13042,66,2016-07-22,C,West Flagler Associates LTD,PO Box 350940,,Miami,Fl,33135,B,Business,CH,,1000.00,,West Flagler Associates LTD
-13042,67,2016-07-22,C,Prieguez Solutions LLC,4000 Malaga Ave ,,Coconut Grove,Fl,33133,B,Business,CH,,1000.00,,Prieguez Solutions LLC
-13042,1,2016-07-22,E,Dark Horse Strategies," 3663 SW 8th Street, Suite 204B",,Miami,FL,33135,,,MO,Mailer ,8840.00,,Dark Horse Strategies  
-13042,84,2016-07-22,C,Marc  Wiener,1111 SW 19th St,,Boca Raton,Fl,33486,I,Entrepreneur,CH,,1000.00,,Wiener 
-13042,3,2016-07-22,E,Donate Bucket,1779 N. University Dr #102,,Pembroke Pines,FL,33024,,,MO,Fee,57.90,,Donate Bucket
-13079,1,2016-07-24,E,ACM Screen Printing,1932 NW 21st Terrace,,Miami,FL,33142,,,MO,Printing ,346.68,,ACM Screen Printing
-13079,9,2016-07-25,C,Floridians Supporting Infrastr,2655 Lejeune Road Suite 323,,Coral Gables ,Fl,33134-5824,F,Construction,CH,,1000.00,,Floridians Supporting Infrastr
-13079,2,2016-07-25,E,Breakthrough Strategies,12741 SW 42nd Street ,,Miami,Fl,33175,,,MO,professional Fees ,450.00,,Breakthrough Strategies
-13079,3,2016-07-25,E,Breakthrough Strategies,12741 SW 42nd Street ,,Miami,Fl,33175,,,MO,Cell phone expense  ,63.00,,Breakthrough Strategies
-13079,1,2016-07-26,C,Marile  Lopez,1889 S. Bayshore Drive,,Coconut Grove ,Fl,33133,I,Entrepreneur,CH,,1000.00,,Lopez
-13079,2,2016-07-26,C,Jorge L Lopez,1889 S. Bayshore Drive,,Coconut Grove ,Fl,33133,I,Entrepreneur,CH,,1000.00,,Lopez
-13079,5,2016-07-26,C,"Jorge Luis Lopez Law Firm, LLC",131 Madeira Avenue PH,,Coral Gables ,Fl,33134,B,Law Firm ,CH,,1000.00,,"Jorge Luis Lopez Law Firm, LLC"
-13079,6,2016-07-26,C,131 Madeira Avenue LLC,131 Madeira Avenue PH ,,Coral Gables ,Fl,33134,B,Business ,CH,,1000.00,,131 Madeira Avenue LLC
-13079,7,2016-07-26,C,GJB Consulting LLC,"100 S.E. second street, 44th Floor ",,Miami,Fl,33131,B,Consulting<br>,CH,,1000.00,,GJB Consulting LLC
-13079,8,2016-07-26,C,Genovese JobLove & Battista PA,100 SE Second St 44th Pl ,,Miami ,Fl,33131,B,Law Firm ,CH,,1000.00,,Genovese JobLove & Battista PA
-13079,10,2016-07-26,C,Jorge  Negrin,539 SW 136 Place,,Miami,Fl,33184,I,Entrepreneur,CH,,1000.00,,Negrin 
-13079,12,2016-07-26,C,"Villaverde Properties, LLC",c/o Horizon Properties,"18610 NW 87 Avenue, Suite 204",Hialeah ,Fl,33015,B,Real<br>Estate ,CH,,1000.00,,"Villaverde Properties, LLC"
-13079,13,2016-07-26,C,"Sheridan Enterprises, LLC",c/o Horizon Properties,"18610 NW 87 Avenue, Suite 204",Hialeah,Fl,33015,B,Real<br>Estate<br>--,CH,,1000.00,,"Sheridan Enterprises, LLC"
-13079,14,2016-07-26,C,"Granda Shopping Plaza, LLC",c/o Horizon Properties,"18610 NW 87 Avenue, Suite 204",Hialeah,Fl,33015,B,Real<br>Estate<br>--,CH,,1000.00,,"Granda Shopping Plaza, LLC"
-13079,15,2016-07-26,C,"Arenal Building Enterprises, L",c/o Horizon Properties,"18610 NW 87 Avenue, Suite 204",Hialeah,Fl,33015,B,Real<br>Estate<br>--,CH,,1000.00,,"Arenal Building Enterprises, L"
-13079,6,2016-07-28,E,City National Bank,8725 NW 18th Ter,,Doral,FL,33172,,,MO,Deposited Item Return Fee,10.00,,City National Bank
-13079,7,2016-07-28,E,Lazaro U Sanchez,7430 Miami Lakes Dr. Apt.E105,,Miami Lakes,FL,33014,,,MO,NSF,1000.00,,Sanchez
-13079,3,2016-07-29,C,Jose M Canero,9325 sw 68 street,,Miami,Fl,33173,I,Entrepreneur,CH,,300.00,,Canero 
-13079,4,2016-07-29,C,Excalibur Towing Service,14294 SW 142nd Ave ,,Miami,Fl,33186,B,Towing<br>Service,CH,,1000.00,,Excalibur Towing Service 
-13079,4,2016-07-29,E,Tax CPA Solutions,1290 REDBIRD AVE,,Miami Springs,Fl,33166,,,MO,Professional Services ,350.00,,Tax CPA Solutions 
-13079,5,2016-07-29,E,Dark Horse Strategies,"3663 SW 8th Street, Suite 204B",,Miami,Fl,33135,,,MO,Radio/Mail/-canvas ,33290.00,,Dark Horse Strategies
-13079,11,2016-07-29,C,IBEW PAC Voluntary Fund,900 Seventh Street N.W.,,Washington,DC,20001,F,Political<br>Committee,CH,,1000.00,,IBEW PAC Voluntary Fund
-13178,1,2016-08-01,E,LS Sign Studio,7400 NW 7th St #107,,Miami,Fl,33126,,,MO,Yard Signs ,1530.00,,LS Sign Studio
-13178,2,2016-08-01,E,Tax CPA Solutions,1290 REDBIRD AVE,,Miami Springs,Fl,33166,,,MO,Professional Fees ,350.00,,Tax CPA Solutions 
-13178,1,2016-08-02,C,"Century Laguna, LLC",P.O. Box 261358,,Miami,Fl,33126,B,Real<br>Estate ,CH,,500.00,,"Century Laguna, LLC"
-13178,2,2016-08-02,C,"Century at Geralda Aventura,",PO Box 261358,,Miami,Fl,33126,B,Real<br>Estate ,CH,,500.00,,"Century at Geralda Aventura,"
-13178,3,2016-08-02,C,"Private Lending Group, LLC",PO Box 216358,,Miami,Fl,33126,B,Real<br>Estate/<br>private ,CH,,500.00,,"Private Lending Group, LLC"
-13178,4,2016-08-02,C,"Alexander Property Holdings,LL",PO Box 261358,,Miami,Fl,33126,B,Real<br>Estate ,CH,,500.00,,"Alexander Property Holdings,LL"
-13178,5,2016-08-02,C,"Century Commercial Group, LLC",PO Box 261358,,Miami,Fl,33126,B,Real<br>Estate ,CH,,500.00,,"Century Commercial Group, LLC"
-13178,3,2016-08-03,E,Breakthrough Strategies,12741 SW 42nd Street ,,Miami,Fl,33175,,,MO,Professional Fees,250.00,,Breakthrough Strategies 
-13178,4,2016-08-05,E,Donate Bucket,1779 N. University Dr #102,,Pembroke Pines,FL,33024,,,MO,Online Banking Fee,50.10,,Donate Bucket
-13178,5,2016-08-05,E,Donate Bucket,1779 N. University Dr #102 ,,Pembroke Pines,FL,33024,,,MO,Online Banking Fee,50.10,,Donate Bucket
-13178,6,2016-08-05,C,Llorente & Heckler PA,"801 Arthur Godfrey Road, Suite 401",,Miami Beach,Fl,33140,B,Law Firm ,CH,,1000.00,,Llorente & Heckler PA
-13178,7,2016-08-05,C,Alexander  Heckler,4555 North Bay Road ,,Miami Beach,Fl,33140,I,Attorney ,CH,,1000.00,,Heckler
-13211,3,2016-08-06,E,"Tax CPA Solutions, LLC",1290 Redbird Ave,,Miami Springs,FL,33166,,,MO,Professional Fees,350.00,,"Tax CPA Solutions, LLC"
-13211,24,2016-08-07,C,George  Williamson,7815 SW 104 St,,Miami,FL,33156,I,Entrepreneur,CH,,500.00,,Williamson
-13211,1,2016-08-08,E,Breakthrough Strategies,12741 SW 42nd Street,,Miami,Fl,33175,,,MO,Professional fees ,250.00,,Breakthrough Strategies
-13211,22,2016-08-08,C,Fortune Urban Construction LLC,315 S. Biscayne Blvd.,,Miami,FL,331331,B,Constructor,CH,,1000.00,,Fortune Urban Construction LLC
-13211,23,2016-08-08,C,"RUDG, LLC",315 South Biscayne Boulevard,3rd Floor,Miami,FL,33131,B,Business,CH,,1000.00,,"RUDG, LLC"
-13211,25,2016-08-08,C,Lydia  Barcelo,13171 SE 11 Lane Circle,,Miami,FL,33184,I,Retired,CH,,15.00,,Barcelo
-13211,15,2016-08-09,C,Entitlement Advisory Services,2240 NW 19st,Ste 801,Boca Raton,FL,33431,B,Consultant,CH,,1000.00,,Entitlement Advisory Services
-13211,20,2016-08-09,C,The Corradino Group,First Trust Center Suite 300 North,200 S Fifth St.,Louisville,KY,40202,B,Engineers,CH,,1000.00,,The Corradino Group
-13211,2,2016-08-10,E,Dark Horse Strategies,"3663 SW 8th Street, Suite 204B",,Miami,Fl,33135,,,MO,Direct Mail/ Sign Placement ,7415.00,,Dark Horse Strategies
-13211,2,2016-08-10,C,Rosa E Kasse,5659 W Flagler St.,,Miami,FL,33134,I,Entrepreneur,CH,,200.00,,Kasse
-13211,5,2016-08-10,C,Hispanic Transit Society of Da,PO Box 441778,,Miami,FL,33144,C,Society,CH,,500.00,,Hispanic Transit Society of Da
-13211,17,2016-08-10,C,"Floridian Partners, LLC",108 S. Monroe Street,,Tallahassee,FL,32301,B,Business,CH,,1000.00,,"Floridian Partners, LLC"
-13211,18,2016-08-10,C,Florida East Coast Industries,2855 LeJeune Road,Fourth Floor,Coral Gables,FL,33134,B,Business,CH,,1000.00,,Florida East Coast Industries
-13211,19,2016-08-10,C,"FECI Company, LLC",2855 LeJeune Road,Fourth Floor,Coral Gables,FL,33134,B,Business,CH,,1000.00,,"FECI Company, LLC"
-13211,10,2016-08-11,C,Strategic Edge Inc.,235 Catalonia Ave,,Coral Gables,FL,33134,B,Business,CH,,500.00,,Strategic Edge Inc.
-13211,16,2016-08-11,C,"Prime Strategies, LLC",108 S. Monroe St.,,Tallahassee,FL,32301,B,Business,CH,,1000.00,,"Prime Strategies, LLC"
-13211,4,2016-08-11,E,LG Sign Studio,7400 NW 7th St #107,,Miami,FL,33126,,,MO,Signs,600.00,,LG Sign Studio
-13211,1,2016-08-12,C,Law Offices of Erwin Diaz-Soli,10661 N Kendall Dr,Ste 113,Miami,FL,33176,I,Business,CH,,150.00,,Law Offices of Erwin Diaz-Soli
-13211,3,2016-08-12,C,GDB Miami Inc.,3400 SW Avenue,Suite 1004,Coconut Grove,FL,33133,B,Business,CH,,250.00,,GDB Miami Inc.
-13211,4,2016-08-12,C,Richard A Rodriguez,1121 Manati Avenue,,Coral Gables,FL,33146,I,Entrepreneur,CH,,500.00,,Rodriguez
-13211,6,2016-08-12,C,Wirth T Munroe,5301 SW 84st,,Miami,FL,33143,I,Entrepreneur,CH,,500.00,,Munroe
-13211,7,2016-08-12,C,Aurora Plumbing Corp.,301 East 10th Ave,,Hialeah,FL,33010,B,Plumbing,CH,,500.00,,Aurora Plumbing Corp.
-13211,8,2016-08-12,C,FBD Contracting Group,7406 NW 55th Street,,Miami,FL,33166,B,Contractor,CH,,500.00,,FBD Contracting Group
-13211,9,2016-08-12,C,Cema USA Inc,1550 W 34th PL,,Hialeah,FL,33012,B,Business,CH,,500.00,,Cema USA Inc
-13211,11,2016-08-12,C,NP Computer Network & Solution,8154 NW 67th St,,Miami,FL,33166,B,Security,CH,,500.00,,NP Computer Network & Solution
-13211,12,2016-08-12,C,"Page Contracting, LLC.",6060 Branchwood Dr.,,Lake Worth,FL,33467,B,Contractors,CH,,1000.00,,"Page Contracting, LLC."
-13211,13,2016-08-12,C,Soraya  Tyriver,2748 NW 28th Street,,Boca Raton,FL,33434,I,Developer,CH,,1000.00,,Tyriver
-13211,14,2016-08-12,C,Harris Sanitation Inc.,2700 N.W. 48th Street,,Pompano Beach,FL,33073,B,Sanitation,CH,,1000.00,,Harris Sanitation Inc.
-13211,21,2016-08-12,C,Southern Strategy Group of Mia,PO Box 10570,,Tallahassee,FL,32302,B,Business,CH,,1000.00,,Southern Strategy Group of Mia
+Joe A. Martinez,7,2016-05-19,C,Raul  Garcia,15451 SW 112th Ter,,Miami,FL,33196-4341,I,Individual<br>,CH,,1000.00,,Garcia
+Joe A. Martinez,7,2016-05-19,C,Raul  Garcia,15451 SW 112th Ter,,Miami,FL,33196-4341,I,Individual<br>,CH,,1000.00,D,Garcia
+Joe A. Martinez,8,2016-05-19,C,Raul  Garcia,15451 SW 112th Ter,,Miami,FL,33196-4341,I,Retired,CH,,1000.00,A,Garcia
+Joe A. Martinez,1,2016-05-31,C,The Realization Group,7296 sw 48 street,,Miami,Fl,33155,B,Business,CH,,1000.00,,The Realization Group
+Joe A. Martinez,2,2016-05-31,C,"Pascual Perez & Associates,INC",1330 NorthWest 84th Avenue,,Doral,Fl,33126,B,Architects,CH,,1000.00,,"Pascual Perez & Associates,INC"
+Joe A. Martinez,3,2016-05-31,C,Designs By Fardella INC,15935 Assembly Loop Bay C,,Jupiter,FL,33478,B,Business,CH,,500.00,,Designs By Fardella INC
+Joe A. Martinez,4,2016-05-31,C,Greater Florida Leadership Gro,120 S Monore Street,,Tallahassee,FL,32301,F,PC,CH,,1000.00,,Greater Florida Leadership Gro
+Joe A. Martinez,5,2016-05-31,C,Veterans For Conservative Prin,120 S Monore Street,,tallahassee,FL,32301,F,PC,CH,,1000.00,,Veterans For Conservative Prin
+Joe A. Martinez,6,2016-05-31,C,"The Committee For Justice, Tra",120 South Monore Street,,Tallahassee,FL,32301,F,PC,CH,,1000.00,,"The Committee For Justice, Tra"
+Joe A. Martinez,8,2016-05-31,C,Strong Communities of SW FL,120 South Monore Street,,Tallahassee,FL,32301,F,PC,CH,,1000.00,,Strong Communities of SW FL
+Joe A. Martinez,9,2016-05-31,C,Citizens For Principled Leader,120 South Monore Street,,Tallahassee,FL,32301,F,PC,CH,,1000.00,,Citizens For Principled Leader
+Joe A. Martinez,1,2016-05-31,C,The Realization Group,7296 sw 48 street,,Miami,Fl,33155,B,Business,CH,,1000.00,D,The Realization Group
+Joe A. Martinez,2,2016-05-31,C,The Realization Group,7296 sw 48 street,,Miami,Fl,33155,B,Architectural visualization -,CH,,1000.00,A,The Realization Group
+Joe A. Martinez,3,2016-05-31,C,Designs By Fardella INC,15935 Assembly Loop Bay C,,Jupiter,FL,33478,B,Business,CH,,500.00,D,Designs By Fardella INC
+Joe A. Martinez,4,2016-05-31,C,Designs By Fardella INC,15935 Assembly Loop Bay C,,Jupiter,FL,33478,B,Interior Designer,CH,,500.00,A,Designs By Fardella INC
+Joe A. Martinez,5,2016-05-31,C,Designs By Fardella INC,15935 Assembly Loop Bay C,,Jupiter,FL,33478,B,Business,CH,,500.00,D,Designs By Fardella INC
+Joe A. Martinez,6,2016-05-31,C,Designs By Fardella INC,15935 Assembly Loop Bay C,,Jupiter,FL,33478,B,Interior Designer,CH,,500.00,A,Designs By Fardella INC
+Joe A. Martinez,1,2016-06-05,E,Jose F Martinez,9742 sw 166 court,,Miami,Fl,33196,,,MO,Professional<br>expenses,50.00,,Martinez
+Joe A. Martinez,1,2016-06-08,C,Charles   Tucker III,15320 S. River Drive,,Miami,fl,33169,I,Retired,CH,,500.00,,Tucker III
+Joe A. Martinez,5,2016-06-08,E,Donate Bucket,1779 N. University Dr
+Joe A. Martinez,2,2016-06-09,E,Dark Horse Strategies,3663 Sw 8th street Set 205,,Miami,Fl,33135,,,MO,WebElect/ Webpage,1005.00,,Dark Horse Strategies
+Joe A. Martinez,2,2016-06-11,C,Michael  Mouring,29300 SW 199 Ave,,Homestead,FL,33030,I,Retired,CH,,100.00,,Mouring
+Joe A. Martinez,6,2016-06-11,E,Donate Bucket,1779 N. University Dr
+Joe A. Martinez,3,2016-06-20,E,Miami-Dade County,2700 NW 87th Ave Ste 100,,Doral,FL,33172,,,MO,Qualifying<br>Fee,360.00,,Miami-Dade County
+Joe A. Martinez,4,2016-06-22,E,Hardland Clarke,15955 La Cantera Parkway,,San Antonio,TX,78256,,,MO,Checks,57.49,,Hardland Clarke
+Joe A. Martinez,3,2016-06-25,E,"Tax CPA SOLUTIONS, LLC",1290 REDBIRD AVE,,Miami Springs,Fl,33166,,,MO,professional Services,350.00,,"Tax CPA SOLUTIONS, LLC"
+Joe A. Martinez,4,2016-06-25,E,"TAX CPA SOLUTIONS, LLC",1290 REDBIRD AVE,,Miami,FL,33166,,,MO,Professional Services,350.00,,"TAX CPA SOLUTIONS, LLC"
+Joe A. Martinez,1,2016-06-28,E,Breakthrough Strategies,12741 SW 42nd Street,,Miami,Fl,33175,,,MO,Services,53.66,,Breakthrough Strategies
+Joe A. Martinez,2,2016-06-28,E,Dark Horse Strategies,"3663 SW 8th Street, Suite 204B",,Miami,FL,33135,,,MO,Campaign expenses,1425.00,,Dark Horse Strategies
+Joe A. Martinez,5,2016-07-05,E,The Campaign Superstore Inc,1672 NE 205th Ter,,Miami,Fl,33179,,,MO,Campaign supplies,2172.10,,The Campaign Superstore Inc
+Joe A. Martinez,87,2016-07-09,C,Nelson  Rodriguez,385 SW 163 Path,,Miami,Fl,33185,I,IT<br>Director,CH,,50.00,,Rodriguez
+Joe A. Martinez,88,2016-07-09,C,Jose  Barquero,Protected under chapter 119,,Miami,FL,33165,I,Police<br>Officer,CH,,50.00,,Barquero
+Joe A. Martinez,46,2016-07-10,C,Juan  J Mayol,1400 Coral Way,,Coral Gables,FL,33134,I,Entrepreneur,CH,,1000.00,,Mayol
+Joe A. Martinez,64,2016-07-11,C,PM2 Planning Corp,13369 SW 42nd Street,,Miami,Fl,33175,B,Drafting<br>Services,CH,,1000.00,,PM2 Planning Corp
+Joe A. Martinez,11,2016-07-13,C,Nicole I Arza,1768 SW 15th ST,,Miami,FL,33145-1423,I,Entrepreneur,CH,,1000.00,,Arza
+Joe A. Martinez,47,2016-07-13,C,Windsor Investment Holdings LL,28 Tahiti Beach Island Rd,,Coral Gables,FL,33143,B,Investment<br>Holdings,CH,,1000.00,,Windsor Investment Holdings LL
+Joe A. Martinez,48,2016-07-13,C,Windsor Capital Corporation,28 Tahiti Beach Island Rd,,Coral Gables,Fl,33143,B,Investment<br>Corp,CH,,1000.00,,Windsor Capital Corporation
+Joe A. Martinez,14,2016-07-14,C,Michael J Gal trust 12/13/99,10360 Grove Lane,,Cooper City,FL,33328,O,Trust,CH,,1000.00,,Michael J Gal trust 12/13/99
+Joe A. Martinez,13,2016-07-15,C,Donald B Stiller,3021 NW 28th Way,,Boca Raton,FL,33434,I,Entrepreneur,CH,,1000.00,,Stiller
+Joe A. Martinez,65,2016-07-15,C,Design Spray INC,15341 SW 144th Terrace,,Miami,Fl,33196,B,Business,CH,,500.00,,Design Spray INC
+Joe A. Martinez,89,2016-07-15,C,Alexander  Casas,Protected under chapter 119,,Miami,FL,33185,I,Chief of<br>Police,CH,,50.00,,Casas
+Joe A. Martinez,90,2016-07-15,C,Alfredo  Balsera,2020 Ponce de Leon Blvd. Suite 1003,,Coral Gables,Fl,33134,I,CEO,CH,,1000.00,,Balsera
+Joe A. Martinez,1,2016-07-17,C,2201 - 2231 West 64th St. INC,9451 Journey ends RD,,Coral Gables,FL,33156,I,Real<br>Estate,CH,,1000.00,,2201 - 2231 West 64th St. INC
+Joe A. Martinez,77,2016-07-17,C,Shal  Moschowits,19355 Trunberry Way Apt. 16-GR,,Aventura,FL,33180,I,Real<br>Estate,CH,,1000.00,,Moschowits
+Joe A. Martinez,4,2016-07-18,C,"Happy Auto Repair, INC.",1536 W 41st Strett,,Hialeah,FL,33012-5872,B,Auto<br>Repair,CH,,1000.00,,"Happy Auto Repair, INC."
+Joe A. Martinez,5,2016-07-18,C,Jose   Seijas,10750 SW 40th St,,Miami,FL,33165,I,Entrepreneur,CH,,1000.00,,Seijas
+Joe A. Martinez,7,2016-07-18,C,Liccy  Morell-Ruiz,120 SW 125 AVE,,Miami,FL,33184,I,Entrepreneur,CH,,1000.00,,Morell-Ruiz
+Joe A. Martinez,8,2016-07-18,C,Javier  Ruiz,120 SW 125 AVE,,Miami,FL,33184,I,Entrepreneur,CH,,1000.00,,Ruiz
+Joe A. Martinez,9,2016-07-18,C,Eduardo  Mario Leal,16277 NW 88 PL,,Miami,FL,33018,I,Entrepreneur,CH,,1000.00,,Leal
+Joe A. Martinez,10,2016-07-18,C,Olga  Leal,16277 NW 88 PL,,Miami,FL,33018,I,Entrepreneur,CH,,1000.00,,Leal
+Joe A. Martinez,12,2016-07-18,C,Miguel A De. Grandy,537 San Lorenzo Ave,,Coral Gables,Fl,33146,I,Entrepreneur,CH,,1000.00,,De. Grandy
+Joe A. Martinez,23,2016-07-18,C,"SW 40th Street Shoppes, INC",2766 NW 62nd ST,,Miami,Fl,33147,B,Real<br>Estate,CH,,1000.00,,"SW 40th Street Shoppes, INC"
+Joe A. Martinez,24,2016-07-18,C,3000 N.W. 62 Street INC.,2766 NW 62 ST,,Miami,Fl,33147,B,Real<br>Estate,CH,,1000.00,,3000 N.W. 62 Street INC.
+Joe A. Martinez,25,2016-07-18,C,8900 Coral Way LLC,2766 N.W. 62nd St,,Miami,Fl,33147,B,Real<br>Estate,CH,,1000.00,,8900 Coral Way LLC
+Joe A. Martinez,26,2016-07-18,C,8080 West Flager INC.,2766 NW 62 St,,Miami,Fl,33147,B,Real<br>Estate,CH,,1000.00,,8080 West Flager INC.
+Joe A. Martinez,27,2016-07-18,C,"MCT Express, INC.",2766 NW 62nd Strett,,Miami,Fl,33147,B,Ambulance,CH,,1000.00,,"MCT Express, INC. "
+Joe A. Martinez,28,2016-07-18,C,Dinah Investment Corp,2766 NW 62nd Street,,Miami,Fl,33147,B,Investment<br>company,CH,,1000.00,,Dinah Investment Corp
+Joe A. Martinez,29,2016-07-18,C,"Medical Care Transportation,",2766 NW 62nd Street,,Miami,Fl,33147,B,Transportation,CH,,1000.00,,"Medical Care Transportation,"
+Joe A. Martinez,30,2016-07-18,C,American Shuttle INC.,2766 NW 62ND Street,,Miami,Fl,33147,B,Shuttle<br>Service,CH,,1000.00,,American Shuttle INC.
+Joe A. Martinez,31,2016-07-18,C,Limousines Of South Fl INC,2766 NW 62ND Street,,Miami,Fl,33147,B,Limousines<br>,CH,,1000.00,,Limousines Of South Fl INC
+Joe A. Martinez,32,2016-07-18,C,Super Nice STS INC,2766 NW 62ND Street,,MIami,Fl,33147,B,Transportation,CH,,1000.00,,Super Nice STS INC
+Joe A. Martinez,33,2016-07-18,C,D R  International Consultants,848 Brickell Ave
+Joe A. Martinez,34,2016-07-18,C,D R International Distributor,848 Brickell Avenue,,Miami,Fl,33131,B,Distributor<br>,CH,,1000.00,,D R International Distributor
+Joe A. Martinez,39,2016-07-18,C,Odebrecht Construction Inc,201 Alhambra Circle,,Coral Gables,Fl,33134,B,Construction<br>,CH,,1000.00,,Odebrecht Construction Inc
+Joe A. Martinez,40,2016-07-18,C,"Lanzo Construction Co., FL",125 SE 5th Court,,Deerfield Beach,Fl,33441,B,Construction<br>,CH,,500.00,,"Lanzo Construction Co., FL"
+Joe A. Martinez,41,2016-07-18,C,"137 Leoni, LLC",6201 SW 70th Street 2nd Floor,,Miami,Fl,33143,B,Business,CH,,1000.00,,"137 Leoni, LLC"
+Joe A. Martinez,42,2016-07-18,C,"6201 of Miami, LLC",6201 SW 70th Street 2nd Floor,,Miami,Fl,33143,B,Business,CH,,1000.00,,"6201 of Miami, LLC"
+Joe A. Martinez,43,2016-07-18,C,"831 Center, LLC",6201 SW 70th Street,,Miami,Fl,33143,B,Business,CH,,1000.00,,"831 Center, LLC"
+Joe A. Martinez,44,2016-07-18,C,"1401 Professional Center, LLC",6201 Sw 70th Street 2nd Floor,,Miami,Fl,33143,B,Business,CH,,1000.00,,"1401 Professional Center, LLC"
+Joe A. Martinez,45,2016-07-18,C,"7501 Medley Civil, LLC",6201 SW 70th Street 2nd Floor,,Miami,Fl,33143,B,Business,CH,,1000.00,,"7501 Medley Civil, LLC"
+Joe A. Martinez,68,2016-07-18,C,Boulevard Plaza LLC,2240 NW 19th Street,,Boca Raton,Fl,33431,B,Real<br>Estate,CH,,1000.00,,Boulevard Plaza LLC
+Joe A. Martinez,69,2016-07-18,C,"Sun Tech-Engineering, INC.","1600 W. Oakland Park Blvd, Suite 200",,F.T. Lauderdale,Fl,33311,B,Business,CH,,1000.00,,"Sun Tech-Engineering, INC."
+Joe A. Martinez,70,2016-07-18,C,Woolbright Holdings II LLC,2240 NW 19th Street Suite 801,,Boca Raton,Fl,33431,B,Business,CH,,1000.00,,Woolbright Holdings II LLC
+Joe A. Martinez,71,2016-07-18,C,Woolbright Falcon LLC,2240 NW 19th Street Suite 801,,Boca Raton,Fl,33431,B,Business,CH,,1000.00,,Woolbright Falcon LLC
+Joe A. Martinez,72,2016-07-18,C,Marc Wiener RA PA,851 S Federal HWY STE 203,,Boca Raton,Fl,33432,B,Business,CH,,1000.00,,Marc Wiener RA PA
+Joe A. Martinez,2,2016-07-19,C,Grisel C Suri,1280 W 26th PL,,Hialeah,FL,33010,I,Entrepreneur,CH,,1000.00,,Suri
+Joe A. Martinez,6,2016-07-19,C,Orlando P Sanchez,1697 W 58 Strett,,Hialeah,Fl,33012,I,Entrepreneur,CH,,1000.00,,Sanchez
+Joe A. Martinez,2,2016-07-19,E,Miami-Dade County,2700 NW 87th Ave Ste 100,,Doral,Fl,33172,,,MO,Voter List,40.00,,Miami-Dade County
+Joe A. Martinez,86,2016-07-19,C,David J. Wiener P.A.,"2240 N.W. 19th Street, Suite 801",,Boca Raton,Fl,33431,B,Attorney,CH,,500.00,,David J. Wiener P.A.
+Joe A. Martinez,3,2016-07-20,C,Lazaro  U Sanchez,7430 Miami Lakes Dr Apt E105,,Miami Lakes,Fl,33014,I,Entrepreneur,CH,,1000.00,,Sanchez
+Joe A. Martinez,35,2016-07-20,C,Herman  Eehevarria,1175 North Shore Drive,,Miami Beach,Fl,33141,I,Entrepreneur,CH,,1000.00,,Eehevarria
+Joe A. Martinez,36,2016-07-20,C,Pedro  R Pealed,6955 NW 77th Ave
+Joe A. Martinez,37,2016-07-20,C,International Management Consu,PO Box 310999,,Miami,Fl,33231,B,Consultant<br>,CH,,1000.00,,International Management Consu
+Joe A. Martinez,38,2016-07-20,C,Meridian International Group,PO Box 331990,,Miami,Fl,33233,B,Consultant<br>,CH,,1000.00,,Meridian International Group
+Joe A. Martinez,79,2016-07-20,C,Realtors Political Advocacy,7025 Augusta National Drive,,Orlando,Fl,32822,C,Political<br>Committee <br>,CH,,1000.00,,Realtors Political Advocacy
+Joe A. Martinez,83,2016-07-20,C,Janet  Schlang,3501 N Ocean Dr APT5B,,Hollywood,Fl,33019,I,Entrepreneur,CH,,1000.00,,Schlang
+Joe A. Martinez,54,2016-07-21,C,Adrian Developers,13687 SW 26 Street,,Miami,Fl,33175,B,Developers<br>,CH,,1000.00,,Adrian Developers
+Joe A. Martinez,55,2016-07-21,C,Adrian Homes/Jesus Subdivision,13687 SW 26 Street,,Miami,Fl,33175,B,Construction<br>Company,CH,,1000.00,,Adrian Homes/Jesus Subdivision
+Joe A. Martinez,56,2016-07-21,C,Four Aces Ranch I LLLP,13687 SW 26 Street,,Miami,Fl,33175,B,Developers<br>,CH,,1000.00,,Four Aces Ranch I LLLP
+Joe A. Martinez,57,2016-07-21,C,Pedro J Adrian,13687 SW 26 Street,,Miami,Fl,33175,I,Entrepreneur<br>,CH,,1000.00,,Adrian
+Joe A. Martinez,58,2016-07-21,C,"Coral West Plaza I, LTD","2460 S.W. 137th Ave, Suite 238",,Miami,Fl,33175,B,Real<br>Estate,CH,,500.00,,"Coral West Plaza I, LTD"
+Joe A. Martinez,59,2016-07-21,C,"Coral West Plaza II, LTD",2460 S.W. 137th Ave Suite 238,,Miami,Fl,33175,B,Real<br>Estate,CH,,500.00,,"Coral West Plaza II, LTD"
+Joe A. Martinez,60,2016-07-21,C,"Coral West Plaza III, LTD",2460 SW 137th Ave Suite 238,,Miami,Fl,33175,B,Real<br>Estate,CH,,500.00,,"Coral West Plaza III, LTD"
+Joe A. Martinez,61,2016-07-21,C,"Coral West Plaza IV, LTD",2460 S.W. 137th Ave Suite 238,,Miami,Fl,33175,B,Real<br>Estate,CH,,500.00,,"Coral West Plaza IV, LTD"
+Joe A. Martinez,62,2016-07-21,C,"Miller West Plaza, INC",2460 S.W. 137th Ave Suite 238,,Miami,Fl,33175,B,Real<br>Estate,CH,,500.00,,"Miller West Plaza, INC"
+Joe A. Martinez,63,2016-07-21,C,"Town & Country Plaza, INC.",2460 S.W. 137th Ave Suite 238,,Miami,Fl,33175,B,Real<br>Estate,CH,,500.00,,"Town & Country Plaza, INC."
+Joe A. Martinez,73,2016-07-21,C,AdrianBuilders at Palmetto Bay,2460 Sw 137 Avenue Suite 245,,Miami,Fl,33175,B,Real<br>Estate,CH,,1000.00,,AdrianBuilders at Palmetto Bay
+Joe A. Martinez,74,2016-07-21,C,"Hidden Lake TownHomes, LLLP",2460 Sw 137 Avenue Suite 245,,Miami,Fl,33175,B,Real<br>Estate,CH,,1000.00,,"Hidden Lake TownHomes, LLLP"
+Joe A. Martinez,75,2016-07-21,C,"AdrianBuilders at Costa Brava,",2460 Sw 137 Avenue Suite 245,,Miami,FL,33175,B,Real<br>Estate,CH,,1000.00,,"AdrianBuilders at Costa Brava,"
+Joe A. Martinez,76,2016-07-21,C,Delfin   Pernas,13220 SW 132 ave
+Joe A. Martinez,78,2016-07-21,C,Realtors Political Activity co,200 Monroe St,,Tallahassee,FL,32301,C,Political<br>Committee,CH,,1000.00,,Realtors Political Activity co
+Joe A. Martinez,80,2016-07-21,C,Realtors Political Action,200 Monore St,,Tallahassee,FL,32301,C,Political<br>Committee,CH,,1000.00,,Realtors Political Action
+Joe A. Martinez,81,2016-07-21,C,Alexander E Napoles,4035 SW 98th Ave,,Miami,Fl,33165,I,Entrepreneur,CH,,1000.00,,Napoles
+Joe A. Martinez,82,2016-07-21,C,Denis Beaulieu Revocable Trust,2066 N. Ocean Blvd 15sE,,Boca Raton,Fl,33431,O,Trust,CH,,1000.00,,Denis Beaulieu Revocable Trust
+Joe A. Martinez,85,2016-07-21,C,AL-Flex Exterminators INC,PO Box 650213,,Miami,Fl,33265,B,Exterminator,CH,,1000.00,,AL-Flex Exterminators INC
+Joe A. Martinez,15,2016-07-22,C,Joshua  Michael Entin,17466 SW 35th CT,,Miramar,FL,33029,I,Entrepreneur,CH,,125.00,,Entin
+Joe A. Martinez,16,2016-07-22,C,Ben J Fernandez,1837 SW 23rd St,,Miami,Fl,33145-3825,I,Entrepreneur,CH,,250.00,,Fernandez
+Joe A. Martinez,17,2016-07-22,C,Graham  Penn,601 South Rainbow Drive,,Hollywood,FL,33021,I,Entrepreneur,CH,,250.00,,Penn
+Joe A. Martinez,18,2016-07-22,C,Michael J Marrero,1795 SW 16 Strett,,Miami,Fl,33145,I,Entrepreneur,CH,,250.00,,Marrero
+Joe A. Martinez,19,2016-07-22,C,Manuel R Llahves,3767 Carmen Ct,,Coconut Grove,Fl,33133,I,Entrepreneur,CH,,500.00,,Llahves
+Joe A. Martinez,20,2016-07-22,C,Michael E Randell,5999 SW 94th Street,,Miami,Fl,33156,I,Entrepreneur,CH,,250.00,,Randell
+Joe A. Martinez,21,2016-07-22,C,Michael W Larkin,20 Island Avenue,No.709,Miami Beach,Fl,33139,I,Entrepreneur,CH,,250.00,,Larkin
+Joe A. Martinez,22,2016-07-22,C,Jorge A Pernas,11995 SW 97th Ave,,Miami,Fl,33176,I,Entrepreneur,CH,,1000.00,,Pernas
+Joe A. Martinez,49,2016-07-22,C,Julie   Becrow,590 Lakeview Drive,,Miami Beach,FL,33140-2648,I,Entrepreneur,CH,,500.00,,Becrow
+Joe A. Martinez,50,2016-07-22,C,Bercow Radell & Fernandez,200 South Biscayne Boulevard,Suite 850,Miami,Fl,33131,B,Law Firm,CH,,1000.00,,Bercow Radell & Fernandez
+Joe A. Martinez,51,2016-07-22,C,"ARG Summerville Lots, LLC",2950 SW 27th Avenue Suite 300,,Miami,FL,33133,B,Real<br>Estate,CH,,1000.00,,"ARG Summerville Lots, LLC"
+Joe A. Martinez,52,2016-07-22,C,"Treo Somi Station, LLC",2950 SW 27th Ave STE 100,,Miami,FL,33133,B,Investment<br>Company,CH,,1000.00,,"Treo Somi Station, LLC"
+Joe A. Martinez,53,2016-07-22,C,Adrian Management Inc.,13687 SW 26 Street,,Miami,Fl,33175,B,Management<br>Company,CH,,1000.00,,Adrian Management Inc.
+Joe A. Martinez,66,2016-07-22,C,West Flagler Associates LTD,PO Box 350940,,Miami,Fl,33135,B,Business,CH,,1000.00,,West Flagler Associates LTD
+Joe A. Martinez,67,2016-07-22,C,Prieguez Solutions LLC,4000 Malaga Ave,,Coconut Grove,Fl,33133,B,Business,CH,,1000.00,,Prieguez Solutions LLC
+Joe A. Martinez,1,2016-07-22,E,Dark Horse Strategies," 3663 SW 8th Street, Suite 204B",,Miami,FL,33135,,,MO,Mailer,8840.00,,Dark Horse Strategies
+Joe A. Martinez,84,2016-07-22,C,Marc  Wiener,1111 SW 19th St,,Boca Raton,Fl,33486,I,Entrepreneur,CH,,1000.00,,Wiener
+Joe A. Martinez,3,2016-07-22,E,Donate Bucket,1779 N. University Dr
+Joe A. Martinez,1,2016-07-24,E,ACM Screen Printing,1932 NW 21st Terrace,,Miami,FL,33142,,,MO,Printing,346.68,,ACM Screen Printing
+Joe A. Martinez,9,2016-07-25,C,Floridians Supporting Infrastr,2655 Lejeune Road Suite 323,,Coral Gables,Fl,33134-5824,F,Construction,CH,,1000.00,,Floridians Supporting Infrastr
+Joe A. Martinez,2,2016-07-25,E,Breakthrough Strategies,12741 SW 42nd Street,,Miami,Fl,33175,,,MO,professional Fees,450.00,,Breakthrough Strategies
+Joe A. Martinez,3,2016-07-25,E,Breakthrough Strategies,12741 SW 42nd Street,,Miami,Fl,33175,,,MO,Cell phone expense,63.00,,Breakthrough Strategies
+Joe A. Martinez,1,2016-07-26,C,Marile  Lopez,1889 S. Bayshore Drive,,Coconut Grove,Fl,33133,I,Entrepreneur,CH,,1000.00,,Lopez
+Joe A. Martinez,2,2016-07-26,C,Jorge L Lopez,1889 S. Bayshore Drive,,Coconut Grove,Fl,33133,I,Entrepreneur,CH,,1000.00,,Lopez
+Joe A. Martinez,5,2016-07-26,C,"Jorge Luis Lopez Law Firm, LLC",131 Madeira Avenue PH,,Coral Gables,Fl,33134,B,Law Firm,CH,,1000.00,,"Jorge Luis Lopez Law Firm, LLC"
+Joe A. Martinez,6,2016-07-26,C,131 Madeira Avenue LLC,131 Madeira Avenue PH,,Coral Gables,Fl,33134,B,Business,CH,,1000.00,,131 Madeira Avenue LLC
+Joe A. Martinez,7,2016-07-26,C,GJB Consulting LLC,"100 S.E. second street, 44th Floor ",,Miami,Fl,33131,B,Consulting<br>,CH,,1000.00,,GJB Consulting LLC
+Joe A. Martinez,8,2016-07-26,C,Genovese JobLove & Battista PA,100 SE Second St 44th Pl,,Miami,Fl,33131,B,Law Firm,CH,,1000.00,,Genovese JobLove & Battista PA
+Joe A. Martinez,10,2016-07-26,C,Jorge  Negrin,539 SW 136 Place,,Miami,Fl,33184,I,Entrepreneur,CH,,1000.00,,Negrin
+Joe A. Martinez,12,2016-07-26,C,"Villaverde Properties, LLC",c/o Horizon Properties,"18610 NW 87 Avenue, Suite 204",Hialeah,Fl,33015,B,Real<br>Estate,CH,,1000.00,,"Villaverde Properties, LLC"
+Joe A. Martinez,13,2016-07-26,C,"Sheridan Enterprises, LLC",c/o Horizon Properties,"18610 NW 87 Avenue, Suite 204",Hialeah,Fl,33015,B,Real<br>Estate<br>--,CH,,1000.00,,"Sheridan Enterprises, LLC"
+Joe A. Martinez,14,2016-07-26,C,"Granda Shopping Plaza, LLC",c/o Horizon Properties,"18610 NW 87 Avenue, Suite 204",Hialeah,Fl,33015,B,Real<br>Estate<br>--,CH,,1000.00,,"Granda Shopping Plaza, LLC"
+Joe A. Martinez,15,2016-07-26,C,"Arenal Building Enterprises, L",c/o Horizon Properties,"18610 NW 87 Avenue, Suite 204",Hialeah,Fl,33015,B,Real<br>Estate<br>--,CH,,1000.00,,"Arenal Building Enterprises, L"
+Joe A. Martinez,6,2016-07-28,E,City National Bank,8725 NW 18th Ter,,Doral,FL,33172,,,MO,Deposited Item Return Fee,10.00,,City National Bank
+Joe A. Martinez,7,2016-07-28,E,Lazaro U Sanchez,7430 Miami Lakes Dr. Apt.E105,,Miami Lakes,FL,33014,,,MO,NSF,1000.00,,Sanchez
+Joe A. Martinez,3,2016-07-29,C,Jose M Canero,9325 sw 68 street,,Miami,Fl,33173,I,Entrepreneur,CH,,300.00,,Canero
+Joe A. Martinez,4,2016-07-29,C,Excalibur Towing Service,14294 SW 142nd Ave,,Miami,Fl,33186,B,Towing<br>Service,CH,,1000.00,,Excalibur Towing Service
+Joe A. Martinez,4,2016-07-29,E,Tax CPA Solutions,1290 REDBIRD AVE,,Miami Springs,Fl,33166,,,MO,Professional Services,350.00,,Tax CPA Solutions
+Joe A. Martinez,5,2016-07-29,E,Dark Horse Strategies,"3663 SW 8th Street, Suite 204B",,Miami,Fl,33135,,,MO,Radio/Mail/-canvas,33290.00,,Dark Horse Strategies
+Joe A. Martinez,11,2016-07-29,C,IBEW PAC Voluntary Fund,900 Seventh Street N.W.,,Washington,DC,20001,F,Political<br>Committee,CH,,1000.00,,IBEW PAC Voluntary Fund
+Joe A. Martinez,1,2016-08-01,E,LS Sign Studio,7400 NW 7th St
+Joe A. Martinez,2,2016-08-01,E,Tax CPA Solutions,1290 REDBIRD AVE,,Miami Springs,Fl,33166,,,MO,Professional Fees,350.00,,Tax CPA Solutions
+Joe A. Martinez,1,2016-08-02,C,"Century Laguna, LLC",P.O. Box 261358,,Miami,Fl,33126,B,Real<br>Estate,CH,,500.00,,"Century Laguna, LLC"
+Joe A. Martinez,2,2016-08-02,C,"Century at Geralda Aventura,",PO Box 261358,,Miami,Fl,33126,B,Real<br>Estate,CH,,500.00,,"Century at Geralda Aventura,"
+Joe A. Martinez,3,2016-08-02,C,"Private Lending Group, LLC",PO Box 216358,,Miami,Fl,33126,B,Real<br>Estate/<br>private,CH,,500.00,,"Private Lending Group, LLC"
+Joe A. Martinez,4,2016-08-02,C,"Alexander Property Holdings,LL",PO Box 261358,,Miami,Fl,33126,B,Real<br>Estate,CH,,500.00,,"Alexander Property Holdings,LL"
+Joe A. Martinez,5,2016-08-02,C,"Century Commercial Group, LLC",PO Box 261358,,Miami,Fl,33126,B,Real<br>Estate,CH,,500.00,,"Century Commercial Group, LLC"
+Joe A. Martinez,3,2016-08-03,E,Breakthrough Strategies,12741 SW 42nd Street,,Miami,Fl,33175,,,MO,Professional Fees,250.00,,Breakthrough Strategies
+Joe A. Martinez,4,2016-08-05,E,Donate Bucket,1779 N. University Dr
+Joe A. Martinez,5,2016-08-05,E,Donate Bucket,1779 N. University Dr
+Joe A. Martinez,6,2016-08-05,C,Llorente & Heckler PA,"801 Arthur Godfrey Road, Suite 401",,Miami Beach,Fl,33140,B,Law Firm,CH,,1000.00,,Llorente & Heckler PA
+Joe A. Martinez,7,2016-08-05,C,Alexander  Heckler,4555 North Bay Road,,Miami Beach,Fl,33140,I,Attorney,CH,,1000.00,,Heckler
+Joe A. Martinez,3,2016-08-06,E,"Tax CPA Solutions, LLC",1290 Redbird Ave,,Miami Springs,FL,33166,,,MO,Professional Fees,350.00,,"Tax CPA Solutions, LLC"
+Joe A. Martinez,24,2016-08-07,C,George  Williamson,7815 SW 104 St,,Miami,FL,33156,I,Entrepreneur,CH,,500.00,,Williamson
+Joe A. Martinez,1,2016-08-08,E,Breakthrough Strategies,12741 SW 42nd Street,,Miami,Fl,33175,,,MO,Professional fees,250.00,,Breakthrough Strategies
+Joe A. Martinez,22,2016-08-08,C,Fortune Urban Construction LLC,315 S. Biscayne Blvd.,,Miami,FL,331331,B,Constructor,CH,,1000.00,,Fortune Urban Construction LLC
+Joe A. Martinez,23,2016-08-08,C,"RUDG, LLC",315 South Biscayne Boulevard,3rd Floor,Miami,FL,33131,B,Business,CH,,1000.00,,"RUDG, LLC"
+Joe A. Martinez,25,2016-08-08,C,Lydia  Barcelo,13171 SE 11 Lane Circle,,Miami,FL,33184,I,Retired,CH,,15.00,,Barcelo
+Joe A. Martinez,15,2016-08-09,C,Entitlement Advisory Services,2240 NW 19st,Ste 801,Boca Raton,FL,33431,B,Consultant,CH,,1000.00,,Entitlement Advisory Services
+Joe A. Martinez,20,2016-08-09,C,The Corradino Group,First Trust Center Suite 300 North,200 S Fifth St.,Louisville,KY,40202,B,Engineers,CH,,1000.00,,The Corradino Group
+Joe A. Martinez,2,2016-08-10,E,Dark Horse Strategies,"3663 SW 8th Street, Suite 204B",,Miami,Fl,33135,,,MO,Direct Mail/ Sign Placement,7415.00,,Dark Horse Strategies
+Joe A. Martinez,2,2016-08-10,C,Rosa E Kasse,5659 W Flagler St.,,Miami,FL,33134,I,Entrepreneur,CH,,200.00,,Kasse
+Joe A. Martinez,5,2016-08-10,C,Hispanic Transit Society of Da,PO Box 441778,,Miami,FL,33144,C,Society,CH,,500.00,,Hispanic Transit Society of Da
+Joe A. Martinez,17,2016-08-10,C,"Floridian Partners, LLC",108 S. Monroe Street,,Tallahassee,FL,32301,B,Business,CH,,1000.00,,"Floridian Partners, LLC"
+Joe A. Martinez,18,2016-08-10,C,Florida East Coast Industries,2855 LeJeune Road,Fourth Floor,Coral Gables,FL,33134,B,Business,CH,,1000.00,,Florida East Coast Industries
+Joe A. Martinez,19,2016-08-10,C,"FECI Company, LLC",2855 LeJeune Road,Fourth Floor,Coral Gables,FL,33134,B,Business,CH,,1000.00,,"FECI Company, LLC"
+Joe A. Martinez,10,2016-08-11,C,Strategic Edge Inc.,235 Catalonia Ave,,Coral Gables,FL,33134,B,Business,CH,,500.00,,Strategic Edge Inc.
+Joe A. Martinez,16,2016-08-11,C,"Prime Strategies, LLC",108 S. Monroe St.,,Tallahassee,FL,32301,B,Business,CH,,1000.00,,"Prime Strategies, LLC"
+Joe A. Martinez,4,2016-08-11,E,LG Sign Studio,7400 NW 7th St
+Joe A. Martinez,1,2016-08-12,C,Law Offices of Erwin Diaz-Soli,10661 N Kendall Dr,Ste 113,Miami,FL,33176,I,Business,CH,,150.00,,Law Offices of Erwin Diaz-Soli
+Joe A. Martinez,3,2016-08-12,C,GDB Miami Inc.,3400 SW Avenue,Suite 1004,Coconut Grove,FL,33133,B,Business,CH,,250.00,,GDB Miami Inc.
+Joe A. Martinez,4,2016-08-12,C,Richard A Rodriguez,1121 Manati Avenue,,Coral Gables,FL,33146,I,Entrepreneur,CH,,500.00,,Rodriguez
+Joe A. Martinez,6,2016-08-12,C,Wirth T Munroe,5301 SW 84st,,Miami,FL,33143,I,Entrepreneur,CH,,500.00,,Munroe
+Joe A. Martinez,7,2016-08-12,C,Aurora Plumbing Corp.,301 East 10th Ave,,Hialeah,FL,33010,B,Plumbing,CH,,500.00,,Aurora Plumbing Corp.
+Joe A. Martinez,8,2016-08-12,C,FBD Contracting Group,7406 NW 55th Street,,Miami,FL,33166,B,Contractor,CH,,500.00,,FBD Contracting Group
+Joe A. Martinez,9,2016-08-12,C,Cema USA Inc,1550 W 34th PL,,Hialeah,FL,33012,B,Business,CH,,500.00,,Cema USA Inc
+Joe A. Martinez,11,2016-08-12,C,NP Computer Network & Solution,8154 NW 67th St,,Miami,FL,33166,B,Security,CH,,500.00,,NP Computer Network & Solution
+Joe A. Martinez,12,2016-08-12,C,"Page Contracting, LLC.",6060 Branchwood Dr.,,Lake Worth,FL,33467,B,Contractors,CH,,1000.00,,"Page Contracting, LLC."
+Joe A. Martinez,13,2016-08-12,C,Soraya  Tyriver,2748 NW 28th Street,,Boca Raton,FL,33434,I,Developer,CH,,1000.00,,Tyriver
+Joe A. Martinez,14,2016-08-12,C,Harris Sanitation Inc.,2700 N.W. 48th Street,,Pompano Beach,FL,33073,B,Sanitation,CH,,1000.00,,Harris Sanitation Inc.
+Joe A. Martinez,21,2016-08-12,C,Southern Strategy Group of Mia,PO Box 10570,,Tallahassee,FL,32302,B,Business,CH,,1000.00,,Southern Strategy Group of Mia
