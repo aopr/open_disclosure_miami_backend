@@ -1,0 +1,30 @@
+rpt code,line number,item date,Cont/Exp,name,address 1,address 2,city,state,zip,cont. type,occupation,item type,description,amount,Amend. code,lastname
+Miguel Eizmendiz,1,2016-02-08,C,Miguel Angel Eizmendiz,40 SW 115th Avenue,,Miami,FL,33174,S,Candidate,CA,Loand to the Campaingn,100.00,,Eizmendiz
+Miguel Eizmendiz,1,2016-02-08,C,Miguel Angel Eizmendiz,40 SW 115th Avenue,,Miami,FL,33174,S,Candidate,CA,Loand to the Campaingn,100.00,D,Eizmendiz
+Miguel Eizmendiz,2,2016-02-08,C,Miguel Angel Eizmendiz,40 SW 115th Avenue,,Miami,FL,33174,S,Candidate,LO,Loand to the Campaingn,100.00,A,Eizmendiz
+Miguel Eizmendiz,3,2016-02-10,E,Miami-Dade County Election,2700 NW 87 Avenue,,Miami,FL,33172,,,MO,Voter Reg. Data,20.00,A,Miami-Dade County Election
+Miguel Eizmendiz,2,2016-02-17,C,Miguel A Eizmendiz,40 SW 115th Avenue,,Miami,FL,33174,S,Candidate,CA,Loan to the Canpaign,100.00,,Eizmendiz
+Miguel Eizmendiz,3,2016-02-17,C,Miguel A Eizmendiz,40 SW 115th Avenue,,Miami,FL,33174,S,Candidate,CA,Loan to the Canpaign,100.00,D,Eizmendiz
+Miguel Eizmendiz,4,2016-02-17,C,Miguel A Eizmendiz,40 SW 115th Avenue,,Miami,FL,33174,S,Candidate,LO,Loan to the Canpaign,100.00,A,Eizmendiz
+Miguel Eizmendiz,1,2016-02-22,E,GoDaddy.com,2155 E GoDaddy Way,,Tempe,AZ,85284,,,PS,Purchase of Domain Name for the Campaign,1.17,,GoDaddy.com
+Miguel Eizmendiz,1,2016-02-22,E,GoDaddy.com,2155 E GoDaddy Way,,Tempe,AZ,85284,,,PS,Purchase of Domain Name for the Campaign,1.17,D,GoDaddy.com
+Miguel Eizmendiz,2,2016-02-22,E,GoDaddy.com,2155 E GoDaddy Way,,Tempe,AZ,85284,,,MO,Purchase of Domain Name for the Campaign,1.17,A,GoDaddy.com
+Miguel Eizmendiz,1,2016-03-03,E,Miami-Dade Elections Departmen,2700 NW 87th Avenue,,Miami,FL,33172,,,MO,New Voters Registration Data 01/01/2015 - 03/03/2016,20.00,,Miami-Dade Elections Departmen
+Miguel Eizmendiz,2,2016-03-22,E,Olmedo Printing,710 SW 72rd CT,,Miami,FL,33144,,,MO,Candidate Business Cards,64.20,,Olmedo Printing
+Miguel Eizmendiz,1,2016-05-11,C,luisa m brito,7225 sw 39 street,,miami,fl,33155,B,accountant,CH,,1000.00,,brito
+Miguel Eizmendiz,1,2016-05-11,C,BRITO BUSINESS ASSOCIATES INC,7225 sw 39 street,,miami,fl,33155,B,ACCOUNTANT,CH,,1000.00,A,BRITO BUSINESS ASSOCIATES INC
+Miguel Eizmendiz,1,2016-05-11,C,luisa m brito,7225 sw 39 street,,miami,fl,33155,B,accountant,CH,,1000.00,D,brito
+Miguel Eizmendiz,1,2016-05-31,E,bank of america,3025 nw 87 ave,,doral,fl,33172,,,MO,bank service charge,17.00,,bank of america
+Miguel Eizmendiz,1,2016-06-01,E,bank of america,3025 nw 87 ave,,doral,fl,33172,,,MO,B/S/C,17.00,,bank of america
+Miguel Eizmendiz,1,2016-06-06,C,LINARES CREATIONS CORP,7225 sw 39 street,,miami,fl,33155,B,GLASS<br>INSTALLATION<br>,CH,,600.00,,LINARES CREATIONS CORP
+Miguel Eizmendiz,2,2016-06-14,C,LINARES CREATIONS CORP,7225 sw 39 street,,miami,fl,33155,B,GLASS<br>INSTALLATION,CH,,200.00,,LINARES CREATIONS CORP
+Miguel Eizmendiz,1,2016-06-27,E,MIAMI DADE COUNTY,2700 NW 87 AVE,,DORAL,FL,33172,,,MO,CANDIDATE QUALIFICATION FEE,1800.00,,MIAMI DADE COUNTY
+Miguel Eizmendiz,2,2016-07-01,E,BANK OF AMERICA,3025 NW 87 AVE,,DORAL,FL,33172,,,MO,BANK SERVICE CHARGE,17.00,,BANK OF AMERICA
+Miguel Eizmendiz,1,2016-07-05,C,LINARES CREATIONS INC,7225 SW 39 STREET,,MIAMI,FL,33155,B,GLASS<br>INSTALLATION,CH,,200.00,,LINARES CREATIONS INC
+Miguel Eizmendiz,2,2016-07-07,C,MIGUEL  EIZMENDIZ,40 SW 115 AVE,,MIAMI,FL,33174,S,RETIRED,LO,,200.00,,EIZMENDIZ
+Miguel Eizmendiz,1,2016-07-12,C,MIGUEL  EIZMENDIZ,40 SW 115 AVE,,MIAMI,FL,33174,S,RETIRED,LO,,50.00,,EIZMENDIZ
+Miguel Eizmendiz,1,2016-07-13,E,FIVERR CORP,3514 INTERNATIONAL DRIVE NW,,WASHINGTON,DC,20008,,,MO,WEB SITE BUILDER,451.50,,FIVERR CORP
+Miguel Eizmendiz,1,2016-07-26,C,MIGUEL  EIZMENDIZ,40 SW 115 AVE,,MIAMI,FL,33174,S,RETIRED,LO,,70.00,,EIZMENDIZ
+Miguel Eizmendiz,1,2016-07-29,E,GO DADDY.COM,14455 N HAYDEN RD STE 219,,SCOTTSDALE,AZ,85260,,,MO,WEB PAGE SERVER,15.34,,GO DADDY.COM
+Miguel Eizmendiz,2,2016-07-29,E,GODADDY.COM,14455 N HAYDEN RD STE 219,,SCOTTSDALE,AZ,85260,,,MO,WEB PAGE SERVER,3.17,,GODADDY.COM
+Miguel Eizmendiz,1,2016-08-08,E,GO DADDY.COM,14455 N HAYDEEN RD STE 219,,SCOTTSDALE,AZ,85260,,,MO,WEB PAGE SERVER,47.94,,GO DADDY.COM
