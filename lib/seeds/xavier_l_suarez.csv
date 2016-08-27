@@ -1,0 +1,382 @@
+rpt code,line number,item date,Cont/Exp,name,address 1,address 2,city,state,zip,cont. type,occupation,item type,description,amount,Amend. code,lastname
+11855,6,2015-07-01,C,Imagine Miami PAC,145 SE 25th Rd,#1102,Miami,FL,33129,F,PAC,CH,,250.00,,Imagine Miami PAC
+11855,1,2015-07-07,C,Astor Development Group LLC,2601 S Bayshore Drive,Suite 1800,Miami,FL,33133,B,Developer,CH,,1000.00,,Astor Development Group LLC
+11855,2,2015-07-07,C,"Shutts & Bowen, LLC",1500 Miami Center,201 S Biscayne Blvd,Miami,FL,33131,B,Law Firm,CH,,1000.00,,"Shutts & Bowen, LLC"
+11855,1,2015-07-09,E,Miami-Dade County,2700 NW 87th Avenue,,Doral,FL,33172,,,MO,Data,20.00,,Miami-Dade County
+11855,3,2015-07-10,C,Richard M Lobo,3848 Little Avenue,,Miami,FL,33133,I,Retired,CH,,1000.00,,Lobo
+11855,4,2015-07-10,C,Carmen  Lobo,3848 Little Avenue,,Miami,FL,33133,I,Retired,CH,,1000.00,,Lobo
+11855,5,2015-07-13,C,Slzberger Capital Advisors Inc,4500 Biscayne Blvd,Suite 206,Miami,FL,33137,B,Financial<br>Advisors,CH,,100.00,,Slzberger Capital Advisors Inc
+11855,7,2015-07-15,C,Solair Electrical Controls Inc,8334 NW 56th Street,,Doral,FL,33166,B,Electrical<br>Contractor,CH,,1000.00,,Solair Electrical Controls Inc
+11855,8,2015-07-15,C,Genovese Joblove & Batitista,100 SE 2nd Street,44th Floor,Miami,FL,33131,B,Law Firm,CH,,1000.00,,Genovese Joblove & Batitista 
+11855,9,2015-07-16,C,Justine  Clegg,5708 SW 69th Avenue,,Miami,FL,33143,I,Non-Profit<br>Org-Director,CH,,100.00,,Clegg
+11855,10,2015-07-16,C,Hung V Nguyen PA,814 Santiago Street,,Coral Gables,FL,33134,B,Law Firm,CH,,100.00,,Hung V Nguyen PA
+11855,11,2015-07-20,C,Mambo Cafe,401 Biscayne Blvd,Suite 119,Miami,FL,33132,B,Restaurant,CH,,1000.00,,Mambo Cafe
+11855,12,2015-07-20,C,Leadership  Floridians for Strong,610 South Blvd,,Tampa,FL,33606,F,PAC,CH,,1000.00,,Floridians for Strong 
+11855,13,2015-07-21,C,"By The People, For The People",10680 NW 25th Street,,Doral,FL,33172,F,PAC,CH,,1000.00,,"By The People, For The People"
+11855,14,2015-07-21,C,Miami Dade PBA,10680 NW 25th Street,,Miami,FL,33172,F,PAC,CH,,1000.00,,Miami Dade PBA
+11855,15,2015-07-22,C,"Jeffrey L. Horstmyer MD, PA",3661 S Miami Avenue,Suite 209,Miami,FL,33133,B,Medical<br>Office,CH,,1000.00,,"Jeffrey L. Horstmyer MD, PA"
+11855,2,2015-07-24,E,Miami-Dade County,2700 NW 87th Avenue,,Doral,FL,33172,,,MO,Data,20.00,,Miami-Dade County
+11855,16,2015-07-27,C,Jose  Garcia-Pedrosa,1000 Venetian Way,#501,Miami,FL,33139,I,Attorney,CH,,1000.00,,Garcia-Pedrosa
+11855,17,2015-07-27,C,Bercow Radell & Fernandez,200 South Biscayne Blvd,Suite 850,Miami,FL,33131,B,Law Firm,CH,,1000.00,,Bercow Radell & Fernandez
+11855,18,2015-07-28,C,Charlie  Hunter,3817 W Glendale Court,,St Johns,FL,32259,I,Retired,CH,,1000.00,,Hunter
+11855,19,2015-07-29,C,Mavin  Dunn,8541 SW 181 Street,,Village of Palmetto,FL,33157,I,Historian,CH,,1000.00,,Dunn
+11855,20,2015-07-29,C,Cyrus D Walker,340 Madison Avenue,FL 21,New York,NY,10173,I,Insurance<br>Broker,CH,,1000.00,,Walker
+11855,21,2015-07-29,C,Western Hemisphere Strategies,999 Ponce de Leon Blvd,Suite 520,Coral Gables,FL,33134,B,Governmental<br>Consulting,CH,,1000.00,,Western Hemisphere Strategies
+11855,22,2015-07-29,C,Gazitua Letelier PA,1101 Brickell Avenue,South Tower - 8th Floor,Miami,FL,33131,B,Law Firm,CH,,1000.00,,Gazitua Letelier PA
+11855,23,2015-07-29,C,"DP Real Estate Holdings, LLC",2700 SW 8th Street,,Miami,FL,33135,B,Real<br>Estate<br>Holdings,CH,,1000.00,,"DP Real Estate Holdings, LLC"
+11855,24,2015-07-29,C,Berkshire LLC,2700 SW 8th Street,,Miami,FL,33135,B,Real<br>Estate,CH,,1000.00,,Berkshire LLC
+11855,25,2015-07-31,C,L Elijah  Stiers,509 NE 57th Street,,Miami,FL,33137,I,Attorney,CH,,200.00,,Stiers
+11855,26,2015-07-31,C,Arthur J Buria,1717 Bayshore Drive,,Miami,FL,33132,I,Attorney,CH,,400.00,,Buria
+11855,27,2015-07-31,C,"Team Post-OP, Inc.",13921 SW 143rd Court,Suite 5,Miami,FL,33186,B,Medical<br>Equipmet,CH,,1000.00,,"Team Post-OP, Inc."
+11855,28,2015-07-31,C,"Stores & More, Inc.",1065 Fairway Dr,,Miami Beach,FL,33141,B,Business<br>Consulting,CH,,1000.00,,"Stores & More, Inc."
+11855,29,2015-07-31,C,"Artco Group, Inc.",5851 NW 35th Avenue,,Miami,FL,33142,B,Business<br>Design-&<br>Devel,CH,,1000.00,,"Artco Group, Inc."
+11855,30,2015-07-31,C,"The Image Network, Inc.",1571 Sunset Drive,,Coral Gables,FL,33143,B,Commercial<br>Photography,CH,,100.00,,"The Image Network, Inc."
+11855,31,2015-07-31,C,Luis  Diazlay,19450 NW 6th Street,,Pembroke Pines,FL,33029,I,Law<br>Enforcement,CH,,1000.00,,Diazlay
+11923,1,2015-08-05,C,Steven T Johnson,5220 SW 69th Avenue,,Miami,FL,33155,I,Non-Profit<br>Org-Director,CH,,200.00,,Johnson
+11923,2,2015-08-05,C,"H.J. Ross Associates, Inc.",201 Alhambra Circle,Suite 900,Coral Gables,FL,33134,B,Engineering,CH,,1000.00,,"H.J. Ross Associates, Inc."
+11923,3,2015-08-06,C,Richard  Formoso,5030 SW 69 Avenue,,Miami,FL,33155,I,Non-Profit<br>Org-Director,CH,,200.00,,Formoso
+11923,1,2015-08-06,E,City National Bank,8725 NW 18th Terrace,,Miami,FL,33172,,,MO,"Checks,deposit books & stamp",132.66,,City National Bank
+11923,4,2015-08-07,C,"RT&C Holdings, Inc.",1985 NW 88th Court,Suite 101,Doral,FL,33172,B,Real<br>Estate<br>Holdings,CH,,1000.00,,"RT&C Holdings, Inc."
+11923,5,2015-08-07,C,Rodriguez Trueba & Co. CPA,1985 NW 88th Court,Suite 101,Doral,FL,33172,B,CPA Firm,CH,,1000.00,,Rodriguez Trueba & Co. CPA
+11923,6,2015-08-10,C,8900 Coral Way LLC,2766 NW 62nd Street,,Miami,FL,33147,B,Real<br>Estate,CH,,1000.00,,8900 Coral Way LLC
+11923,7,2015-08-10,C,8080 West Flagler Inc.,2766 NW 62nd Street,,Miami,FL,33147,B,Real<br>Estate,CH,,1000.00,,8080 West Flagler Inc.
+11923,8,2015-08-13,C,Meridian International Group,PO Box #331990,,Miami,FL,33233,B,Bathroom<br>Products-Designer,CH,,1000.00,,Meridian International Group
+11923,9,2015-08-14,C,"Carroll & Associates, PA",44 W Flagler Street,Suite 900,Miami,FL,33130,B,Law Firm,CH,,1000.00,,"Carroll & Associates, PA"
+11923,10,2015-08-14,C,J Milton Family Partners III,3211 Ponce de Leon Blvd,Suite 301,Coral Gables,FL,33134,B,Trust Co.,CH,,1000.00,,J Milton Family Partners III
+11923,11,2015-08-14,C,JMF Trust,3211 Ponde de Leon Blvd,Suite 301,Coral Gables,FL,33134,B,Trust,CH,,1000.00,, JMF Trust
+11923,12,2015-08-17,C,Richard M Blom,7875 SW 141st Terrace,,Palmetto Bay,FL,33158,I,Retired<br>Law<br>-Enforcemen,CH,,1000.00,,Blom
+11923,13,2015-08-17,C,Community 8 LLC,1800 W Broward Blvd,,Ft Lauderdale,FL,33312,B,Real<br>Estate,CH,,1000.00,,Community 8 LLC
+11923,14,2015-08-17,C,Nora E Portuondo,501 Hardee Road,,Coral Gables,FL,33146,I,Paralegal,CH,,1000.00,,Portuondo
+11923,15,2015-08-17,C,Joseph J Portuondo,110 Merrick Way,Suite 3-B,Coral Gables,FL,33134,I,Attorney,CH,,1000.00,,Portuondo
+11923,16,2015-08-17,C,"Manuel R. Morales Jr, PA",19 W Flagler Street,,Miami,FL,33130,B,Law Firm,CH,,1000.00,,"Manuel R. Morales Jr, PA"
+11923,17,2015-08-18,C,Eulalia M Mooney,26 Holmes Way,,Charles Town,WV,25414,I,Homemaker,CH,,200.00,,Mooney
+11923,18,2015-08-19,C,Patricia H Thompson,5721 Riviera Dr,,Coral Gables,FL,33146,I,Lawyer,CH,,100.00,,Thompson
+11923,19,2015-08-19,C,Robert  Gorlow,7485 Fairway Dr,Suite 430,Miami Lakes,FL,33014,I,"JPGP, LLC<br>/ Owner",CH,,1000.00,,Gorlow
+11923,20,2015-08-19,C,Janet  Gorlow,7485 Fairway Dr,#430,Miami Lakes,FL,33014,I,Preschool<br>Teacher,CH,,1000.00,,Gorlow
+11923,21,2015-08-21,C,Nivia M Fernandez,2625 Collins Avenue,Apt 415,Miami Beach,FL,33140,I,,CH,,100.00,,Fernandez
+11923,22,2015-08-21,C,Angel R Arroyo,215 S County Road,,Palm Beach,FL,33480,I,Zoning<br>Consultant,CH,,1000.00,,Arroyo
+11923,23,2015-08-21,C,Wayne  Holman,30 Star Island,,Miami Beach,FL,33139,I,Investor,CH,,1000.00,,Holman
+11923,24,2015-08-21,C,Limonar Development Inc.,260 Crandon Blvd,Suite 26,Key Biscayne,FL,33149,B,Developer,CH,,1000.00,,Limonar Development Inc.
+11923,25,2015-08-21,C,The Allen Morris Company,121 Alhambra Plaza,Suite 1600,Coral Gables,FL,33134,B,Commercial<br>Real<br>Estate,CH,,500.00,,The Allen Morris Company
+11923,26,2015-08-21,C,Energy Action   Southern Alliance for Clean,PO Box #1842,,Knoxville,TN,37901,B,Clean<br>Energy-Non-Profit,CH,,1000.00,,Southern Alliance for Clean 
+11923,27,2015-08-21,C,Terra International Services,PO Box #330609,,Miami,FL,33233,B,Developer,CH,,1000.00,,Terra International Services
+11923,28,2015-08-21,C,"P3 Management NA, LLC",2929 SW 3rd Avenue,Suite 212,Miami,FL,33129,B,Governmental-Consultants,CH,,1000.00,,"P3 Management NA, LLC"
+11923,29,2015-08-25,C,Maria A Prio,650 Ocean Drive,Unit 9E,Key Biscayne,FL,33149,I,Retired<br>Psychologist,CH,,400.00,,Prio
+11923,30,2015-08-25,C,"Mannigan Holdings, LLC",318 NW 23rd Street,,Miami,FL,33127,B,Real<br>Estate<br>Holdings,CH,,1000.00,,"Mannigan Holdings, LLC"
+11923,32,2015-08-26,C,"Francisco J. Pines, PA",3301 Ponce de Lwon Blvd,,Coral Gables,FL,33134,B,Law Firm,CH,,500.00,,"Francisco J. Pines, PA"
+11923,31,2015-08-26,C,Get Unified Now PAC,777 S Flagler Dr,Suite 500E,West Palm Beach,FL,33401,F,PAC,CH,,500.00,,Get Unified Now PAC
+11923,2,2015-08-26,E,Rodriguez Trueba & Co. CPA,1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1500.00,,Rodriguez Trueba & Co. CPA
+11923,33,2015-08-28,C,Teamsters Local Union No 769,12365 W Dixie Hwy,,North Miami,FL,33161,F,PAC,CH,,1000.00,,Teamsters Local Union No 769 
+11923,34,2015-08-28,C,Perricones Market Place & Cafe,1000 Brickell Avenue,#920,Miami,FL,33131,B,Restaurant,CH,,1000.00,,Perricones Market Place & Cafe
+11923,35,2015-08-28,C,"Additive Strategies, LLC",201 S Biscayne Blvd,Suite 915,Miami,FL,33131,B,Business<br>Consulting,CH,,1000.00,,"Additive Strategies, LLC"
+11923,36,2015-08-28,C,United Water Inc Federal PAC,200 Old Hook Road,,Harrington Park,NJ,07640,F,PAC,CH,,1000.00,,United Water Inc Federal PAC
+11923,37,2015-08-31,C,"David M. Wolpin, PA",2850 La Paz Avenue,,Hollywood,FL,33026,B,Law Firm,CH,,1000.00,,"David M. Wolpin, PA"
+11923,38,2015-08-31,C,Susan L Trevarthen PA,200 E Broward Blvd,Suite 1900,Ft Lauderdale,FL,33301,B,Law Firm,CH,,1000.00,,Susan L Trevarthen PA
+11923,39,2015-08-31,C,Jamie A Cole,12462 Brookwood Ct,,Davie,FL,33330,I,Attorney,CH,,1000.00,,Cole
+11923,40,2015-08-31,C,Mitchell J Burnstein PA,3190 North 34th Street,,Hollywood,FL,33021,B,Law Firm,CH,,1000.00,,Mitchell J Burnstein PA
+11923,41,2015-08-31,C,"Joseph H Serota, PA",10160 SW 57th Court,,Pinecrest,FL,33156,B,Law Firm,CH,,1000.00,,"Joseph H Serota, PA"
+11923,42,2015-08-31,C,Rafael  Corona,925 Alhambra Circle,,Coral Gables,FL,33134,I,Attorney,CH,,1000.00,,Corona
+11923,43,2015-08-31,C,Ricardo  Corona,7290 Miller Dr,,Miami,FL,33155,I,Attorney,CH,,1000.00,,Corona
+11923,44,2015-08-31,C,Corcel Corp.,2461 NW 23rd Street,,Miami,FL,33142,B,Pipe<br>Supplier,CH,,1000.00,,Corcel Corp.
+11923,45,2015-08-31,C,"Corona Law Firm, PA",3899 NW 7th Street,2nd Floor,Miami,FL,33126,B,Law Firm,CH,,1000.00,,"Corona Law Firm, PA"
+11923,46,2015-08-31,C,Lizette  Vale,2251 SW 27th Avenue,,Miami,FL,33145,I,Healthcare,CH,,200.00,,Vale
+11980,1,2015-09-02,C,Mariana J Gonzalez,3840 Battersea Rd,,Miami,FL,33133,I,Homemaker,CH,,1000.00,,Gonzalez
+11980,2,2015-09-02,C,Ricardo Eloy Gonzalez,3840 Battersea Rd,,Miami,FL,33133,I,Comiss<br>Chief-of<br>Staff-,CH,,1000.00,,Gonzalez
+11980,3,2015-09-02,C,Astor Development Holdings LLC,2601 South Bayshore Dr,Suite 1800,Miami,FL,33133,B,Developers,CH,,1000.00,,Astor Development Holdings LLC
+11980,4,2015-09-02,C,"Safe Wrap of Florida JV, LLC",4050 NW 29th Street,,Miami,FL,33142,B,Luggage<br>Wrapping,CH,,1000.00,,"Safe Wrap of Florida JV, LLC"
+11980,5,2015-09-02,C,"Secure Wrap of Miami, Inc.",4050 NW 29th Street,,Miami,FL,33142,B,Luggage<br>Wrapping,CH,,1000.00,,"Secure Wrap of Miami, Inc."
+11980,6,2015-09-03,C,Southern Industrial Sales Corp,9130 Sunset Dr,,Miami,FL,33173,B,Industrial<br>Equipment,CH,,400.00,,Southern Industrial Sales Corp
+11980,1,2015-09-04,E,Nicole  Ibarra,9310 SW 69th Street,,Miami,FL,33173,,,MO,Event Organizer,500.00,,Ibarra
+11980,7,2015-09-05,C,Carla  Tamayo,4913 SW 71st Place,,Miami,FL,33155,I,Education,CH,,400.00,,Tamayo
+11980,8,2015-09-05,C,"Imperial 9H, Inc.",2751 N Miami Avenue,Suite 7,Miami,FL,33127,B,Faucet<br>Dist,CH,,1000.00,,"Imperial 9H, Inc."
+11980,9,2015-09-05,C,"Providencial Partners, LLC",2700 North Miami Avenue,#208,Miami,FL,33127,B,Investments<br>Co,CH,,1000.00,,"Providencial Partners, LLC"
+11980,10,2015-09-05,C,R.E. Chisholm Architects Inc.,4921 SW 74th Court,,Miami,FL,33155,B,Architectural<br>Firm,CH,,400.00,,R.E. Chisholm Architects Inc.
+11980,11,2015-09-05,C,Spacios,7370 NW 36th Avenue,,Miami,FL,33147,B,ICT<br>Systems<br>Design,CH,,1000.00,,Spacios
+11980,12,2015-09-05,C,Carmen Morris & Associates,15074 SW 127th Court,,Miami,FL,33186,B,Public<br>Relations,CH,,1000.00,,Carmen Morris & Associates
+11980,2,2015-09-08,E,Rodriguez Trueba & Co CPA,1985 NW 99th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1675.00,,Rodriguez Trueba & Co CPA
+11980,13,2015-09-08,C,Emilio  Calleja,7201 Capilla Ct,,Coral Gables,FL,33143,I,NonProfit<br>Director,CH,,500.00,,Calleja
+11980,14,2015-09-08,C,Amelia  Gaetan,3500 East Glencoe Street,,Miami,FL,33133,I,Education,CH,,500.00,,Gaetan
+11980,15,2015-09-08,C,Dorta Law,334 Minorca Avenue,,Coral Gables,FL,33134,B,Law Firm,CH,,1000.00,,Dorta Law
+11980,16,2015-09-09,C,The Corradino Group,200 S 5th Street,,Louisville,KY,40202,B,Engineering,CH,,1000.00,,The Corradino Group
+11980,17,2015-09-14,C,Luisa  Montesino,2555 Collins Avenue,,Miami Beach,FL,33140,I,Real<br>Estate,CH,,200.00,,Montesino
+11980,18,2015-09-14,C,Robert  Real,13414 SW 128th Street,,Miami,FL,33186,I,Americas &<br>Americas-Owner,CH,,400.00,,Real
+11980,19,2015-09-14,C,Jose  Chao,833 Genoa Street,,Coral Gables,FL,33134,I,CPA,CH,,1000.00,,Chao
+11980,20,2015-09-14,C,"DNA Investment Group, LLC",9835 SW 72nd Street,Suite 105,Miami,FL,33173,B,Investments,CH,,1000.00,,"DNA Investment Group, LLC"
+11980,21,2015-09-15,C,Maria  Bouza,7100 SW 82nd Court,,Miami,FL,33143,I,Teacher,CH,,150.00,,Bouza
+11980,22,2015-09-15,C,Maria E Haramboure,3672 SW 25t Street,,Miami,FL,33133,I,Retired,CH,,200.00,,Haramboure
+11980,23,2015-09-15,C,"Everest Builders, Inc.",14150 SW 129th Street,,Miami,FL,33186,B,Builders,CH,,1000.00,,"Everest Builders, Inc."
+11980,24,2015-09-15,C,Cygnet Crest Capital,14150 SW 129th Street,,Miami,FL,33186,B,Investments,CH,,1000.00,,Cygnet Crest Capital
+11980,25,2015-09-15,C,Coastal Construction Group,5959 Blue Lagoon Dr,Suite 200,Miami,FL,33126,B,Construction,CH,,500.00,,Coastal Construction Group
+11980,26,2015-09-15,C,44th Street Land Trust,7035 SW 44th Street,,Miami,FL,33155,B,Land Trust,CH,,1000.00,,44th Street Land Trust
+11980,27,2015-09-15,C,"NV5, Inc.",200 S Park Road,Suite 350,Hollywood,FL,33021,B,Engineering,CH,,1000.00,,"NV5, Inc."
+11980,28,2015-09-16,C,Maria D Vazquez,12855 Butler Bay Ct,,Windermere,FL,34786,I,Homemaker,CH,,400.00,,Vazquez
+11980,29,2015-09-16,C,Joanne  E Padron,15713 SW 46th Terrace,,Miami,FL,33185,I,Homemaker,CH,,400.00,,Padron
+11980,30,2015-09-16,C,"Master ConcessionAir, LLC",5727 NW 7th Street,Suite 97,Miami,FL,33126,B,Food<br>Services,CH,,1000.00,,"Master ConcessionAir, LLC"
+11980,31,2015-09-17,C,James F Jorden,355 N Hibiscus Drive,,Miami Beach,FL,33139,I,Attorney,CH,,1000.00,,Jorden
+11980,32,2015-09-18,C,Ana M Diaz,6725 SW 72nd Court,,Miami,FL,33143,I,Doctor,CH,,400.00,,Diaz
+11980,33,2015-09-18,C,Jose P Ferrer,6725 SW 72nd Court,,Miami,FL,33143,I,Doctor,CH,,400.00,,Ferrer
+11980,34,2015-09-18,C,Miriam  Macedo Salles,145 SE 25th Rd,Apt 704,Miami,FL,33129,I,Retired,CH,,100.00,,Macedo Salles
+11980,35,2015-09-18,C,James A Thomas,145 SE 25th Rd,Apt 504,Miami,FL,33129,I,Retired,CH,,200.00,,Thomas
+11980,36,2015-09-18,C,Ada  Rodriguez,626 Coral Way,Apt 1202,Coral Gables,FL,33134,I,Doctor,CH,,400.00,,Rodriguez
+11980,37,2015-09-18,C,Ricardo  L Sanchez,2555 Collins Ave,Apt 2302,Miami Beach,FL,33140,I,Banker,CH,,400.00,,Sanchez
+11980,38,2015-09-18,C,Hugo  Sueiro,6480 SW 21st Street,,Miami,FL,33155,I,Retired,CH,,400.00,,Sueiro
+11980,39,2015-09-18,C,Aliet  Guevara,21027 SW 125th Place,,Miami,FL,33177,I,ATM<br>Services,CH,,1000.00,,Guevara
+11980,40,2015-09-18,C,Idelio  Guevara,21111 SW 125th Place,,Miami,FL,33177,I,ATM<br>Services,CH,,1000.00,,Guevara
+11980,41,2015-09-18,C,Tamargo Insurance Agency,11903 Southern Blvd,Suite 106,Royal Palm Beach,FL,33411,B,Insurance,CH,,500.00,,Tamargo Insurance Agency
+11980,42,2015-09-19,C,RC Cleaning Services Inc.,5602 SW 1st Street,,Coral Gables,FL,33134,B,Cleaning<br>Services,CH,,375.00,,RC Cleaning Services Inc.
+11980,43,2015-09-19,C,Rogers Cleaning Service Jr Inc,6595 NW 36th Street,Suite 103,Virginia Gardens,FL,33166,B,Cleaning<br>Services,CH,,375.00,,Rogers Cleaning Service Jr Inc
+11980,44,2015-09-19,C,Rogers Cleaning Service Inc.,5602 SW 1st Street,,Miami,FL,33134,B,Cleaning<br>Services,CH,,750.00,,Rogers Cleaning Service Inc.
+11980,45,2015-09-19,C,Deco International Security,407 Lincoln Road,Suite 12J,Miami Beach,FL,33139,B,Security<br>Services,CH,,250.00,,Deco International Security
+11980,46,2015-09-19,C,Laser Hair Removal Miami Inc.,2251 SW 27th Avenue,,Miami,FL,33145,B,Laser Hair<br>Removal,CH,,200.00,,Laser Hair Removal Miami Inc.
+11980,47,2015-09-21,C,Paul  Hollenbach,4007 N Ocean Blvd,Apt 3A,Ft Lauderdale,FL,33308,I,Entertainment,CH,,400.00,,Hollenbach
+11980,48,2015-09-21,C,Waste Management Inc of FL,2700 NW 48th Street,,Pompano Beach,FL,33073,B,Waste<br>Services,CH,,1000.00,,Waste Management Inc of FL
+11980,49,2015-09-21,C,Okeechobee Landfill Inc.,2700 NW 48th Street,,Pompano Beach,FL,33073,B,Landfill,CH,,1000.00,,Okeechobee Landfill Inc.
+11980,50,2015-09-24,C,George  Suarez,8280 SW 88th Street,,Miami,FL,33156,I,Retired,CH,,600.00,,Suarez
+11980,51,2015-09-24,C,Unite Here Tip State & Local,275 7th Avenue,11th Floor,New York,NY,10001,B,Union,CH,,1000.00,,Unite Here Tip State & Local 
+11980,52,2015-09-25,C,Zyscovich Architects,100 N Biscyne Blvd,27th Floor,Miami,FL,33132,B,Architectural<br>Firm,CH,,800.00,,Zyscovich Architects
+11980,53,2015-09-25,C,MCM Management Solution,961 Teaneck Road,Suite 202,Teaneck,NJ,07666,B,Real<br>Estate<br>Management,CH,,1000.00,,MCM Management Solution
+11980,55,2015-09-28,C,Gustavo  Tapanes,2899 Collins Avenue,#629,Miami Beach,FL,33140,I,Landscaping,CH,,350.00,,Tapanes
+11980,54,2015-09-28,C,Sylvia  Batista,613 Ocean Drive,#11C,Key Biscayne,FL,33149,I,Homemaker,CH,,1000.00,,Batista
+11980,56,2015-09-28,C,Jose Luis Aragu,921 Oriole Avenue,,Miami Springs,FL,33166,I,Law<br>Enforcement,CH,,200.00,,Aragu
+11980,57,2015-09-29,C,Carlton W Cole,1009 Hardee Rd,,Coral Gables,FL,33146,I,Appraisal<br>Co Owner,CH,,100.00,,Cole
+11980,58,2015-09-29,C,Flavia C Marques,5751 SW 15th Street,,Miami,FL,33144,I,,CH,,100.00,,Marques
+11980,59,2015-09-29,C,Phillip K Stoddard,6820 SW 64th Court,,South Miami,FL,33143,I,Professor,CH,,200.00,,Stoddard
+11980,60,2015-09-29,C,Cindy  Lerner,5901 Moss Ranch Rd,,Miami,FL,33156,I,Attorney,CH,,200.00,,Lerner
+11980,61,2015-09-29,C,"Gonzalo R. Dorta, PA",334 Minorca Avenue,,Coral Gables,FL,33134,B,Law Firm,CH,,600.00,,"Gonzalo R. Dorta, PA"
+11980,62,2015-09-29,C,Miami-Dade Water & Sewer Authority Employees Local 121,4349 NW 36th Street,Suite 101,Miami Springs,FL,33166,B,Union,CH,,1000.00,,Authority Employees Local 121
+11980,63,2015-09-29,C,"Maria Carolina Patch, LLC",2025 Brickell Avenue,#906,Miami,FL,33129,B,Real<br>Estate<br>Broker,CH,,200.00,,"Maria Carolina Patch, LLC"
+11980,64,2015-09-29,C,John E Daly,1004 Cotorro Avenue,,Coral Gables,FL,33146,I,Architect,CH,,400.00,,Daly
+11980,65,2015-09-30,C,"Lydecker,Lee,Berga & De Zayas",1221 Brickell Ave,19th Floor,Miami,FL,33131,B,Law Firm,CH,,1000.00,,"Lydecker,Lee,Berga & De Zayas"
+11980,66,2015-09-30,C,Maria Luisa Gaston,7411 SW 11th Court,,North Lauderdale,FL,33068,I,,CH,,100.00,,Gaston
+11980,67,2015-09-30,C,Adela V Gaston,1825 Country Club Prado,,Coral Gables,FL,33134,I,,CH,,100.00,,Gaston
+11980,68,2015-09-30,C,Antonio L Sowers,12322 SW 203rd Street,,Miami,FL,33177,I,,CH,,100.00,,Sowers
+11980,69,2015-09-30,C,Ramon J Barcia,5321 SW 60th Place,,Miami,FL,33155,I,Engineer,CH,,200.00,,Barcia
+11980,70,2015-09-30,C,Eloisa J Hidalgo,2512 SW 113th Court,,Miami,FL,33165,I,Homemaker,CH,,200.00,,Hidalgo
+11980,71,2015-09-30,C,Ignacio G Del Valle,600 Biltmore Way 915,,Coral Gables,FL,33134,I,Attorney,CH,,200.00,,Del Valle
+11980,72,2015-09-30,C,Gabriel J Edmond,6241 SW 61st Street,,South Miami,FL,33143,I,Educator,CH,,200.00,,Edmond
+12039,1,2015-10-01,C,Cristina G Sollosso,6811 Doral,,North Lauderdale,FL,33068,I,Retired<br>Teacher,CH,,200.00,,Sollosso
+12039,2,2015-10-01,C,Manuel J. Palomo,600 Grapetree Dr,Suite 11GS,Key Biscayne,FL,33149,I,Business<br>Consulting,CH,,200.00,,Palomo
+12039,3,2015-10-01,C,Sergio  R Fernandez,1510 Urbino Avenue,,Coral Gables,FL,33146,I,Retired,CH,,200.00,,Fernandez
+12039,4,2015-10-01,C,Teresa E Perez Cisneros,1420 Brickell Bay Dr,Apt 204,Miami,FL,33131,I,Retired,CH,,200.00,,Perez Cisneros
+12039,5,2015-10-01,C,Teresa  E Perez Cisneros,1420 Brickell Bay Dr,Apt 308,Miami,FL,33131,I,Retired,CH,,400.00,,Perez Cisneros
+12039,6,2015-10-01,C,Sylvia  Bernstein,PO Box 3123,,Coral Gables,FL,33114,I,Realtor,CH,,1000.00,,Bernstein
+12039,7,2015-10-02,C,Summer  Amado,461 Lake Tree Dr,,Weston,FL,33326,I,,CH,,100.00,,Amado
+12039,8,2015-10-02,C,Luis Andre Gazitua,3037 Orange Street,,Miami,FL,33133,I,Attorney,CH,,1000.00,,Gazitua
+12039,9,2015-10-02,C,Cambridge Security Services,90 Mulberry Street,,"Newark, NJ",NJ,07102,B,Security<br>Services,CH,,800.00,,Cambridge Security Services
+12039,10,2015-10-02,C,131 Madeira Avenue LLC,131 Madeira Avenue,PH,Coral Gables,FL,33134,B,Real<br>Estate<br>Holdings,CH,,1000.00,,131 Madeira Avenue LLC
+12039,11,2015-10-02,C,Jorge Luis Lopez Law Firm,131 Madeira Avenue,PH,Coral Gables,FL,33134,B,Law Firm,CH,,1000.00,,Jorge Luis Lopez Law Firm
+12039,12,2015-10-02,C,Anamaria  McKee,14150 SW 15th Court,,Davie,FL,33325,I,Retired,CH,,200.00,,McKee
+12039,13,2015-10-02,C,Marante Strategy Group,333 NE 23rd Street,,Miami,FL,33137,B,Governmental<br>Consulting,CH,,1000.00,,Marante Strategy Group
+12039,14,2015-10-02,C,"Julio H Diaz, PA",6301 Sunset Dr,2nd Floor,Miami,FL,33143,B,Real<br>Estate,CH,,200.00,,"Julio H Diaz, PA"
+12039,15,2015-10-02,C,Rogelio  Espinosa Sr,2990 SW 109th Avenue,,Miami,FL,33165,I,Retired,CH,,200.00,,Espinosa Sr
+12039,16,2015-10-02,C,Miami Municipal Strategies LLC,4000 Malaga Avenue,,Miami,FL,33133,B,Governmental<br>Consulting,CH,,1000.00,,Miami Municipal Strategies LLC
+12039,17,2015-10-02,C,Prieguez Solutions LLC,4000 Malaga Avenue,,Coconut Grove,FL,33133,B,Governmental<br>Consulting,CH,,1000.00,,Prieguez Solutions LLC
+12039,18,2015-10-02,C,"GJB Consulting, LLC",100 SE 2nd Street,44th Floor,Miami,FL,33131,B,Governmental<br>Relations,CH,,500.00,,"GJB Consulting, LLC"
+12039,19,2015-10-03,C,Juliette  Glasser,9675 SW 99th Avenue,,Miami,FL,33176,I,,CH,,100.00,,Glasser
+12039,20,2015-10-03,C,Ela M Pestano,4419 SW 11th Street,,Miami,FL,33134,I,County<br>Commission<br>Aide,CH,,200.00,,Pestano
+12039,21,2015-10-03,C,Rosado & Associates,3472 SW 22nd Terrace,,Miami,FL,33145,B,Real<br>Estate,CH,,400.00,,Rosado & Associates
+12039,22,2015-10-03,C,Southpark Management LLC,1717 N Bayshore Dr,Suite 201,Miami,FL,33132,B,Property<br>Management,CH,,500.00,,Southpark Management LLC
+12039,23,2015-10-03,C,Aries Management & Development,1717 Bayshore Drive,Suite 102,Miami,FL,33132,B,Property<br>Management,CH,,500.00,,Aries Management & Development
+12039,24,2015-10-03,C,Alexander Hotel Miami Beach,5225 Collins Avenue,,Miami Beach,FL,33140,B,Hotel,CH,,1000.00,,Alexander Hotel Miami Beach
+12039,25,2015-10-05,C,Thomas K Murphy,414 Sevilla Avenue,,Coral Gables,FL,33134,I,Attorney,CH,,50.00,,Murphy
+12039,26,2015-10-05,C,Jesse B Wright,7247 NW 4th Street,,Miami,FL,33126,I,,CH,,100.00,,Wright
+12039,27,2015-10-05,C,Alberto  Julio Armada,7400 SW 75th Terrace,,Miami,FL,33143,I,Real<br>Estate,CH,,200.00,,Armada
+12039,28,2015-10-05,C,Jorge L Armada,4011 W Flagler Street,,Miami,FL,33134,I,Accountant,CH,,200.00,,Armada
+12039,29,2015-10-05,C,Paradise Air Conditioning Corp,7777 NW 201st Terrace,,Hialeah,FL,33015,B,A/C<br>Contractor,CH,,200.00,,Paradise Air Conditioning Corp
+12039,30,2015-10-05,C,Dagoberto  Perez,7732 NW 200 Lane,,Miami,FL,33015,I,Law<br>Enforcement,CH,,200.00,,Perez
+12039,31,2015-10-05,C,Timothy J Murphy,3838 Douglas Road,,Coconut Grove,FL,33133,I,Attorney,CH,,250.00,,Murphy
+12039,32,2015-10-05,C,Luis  Derosa,17840 NE 6th Court,,Miami,FL,33162,I,Business<br>Development,CH,,400.00,,Derosa
+12039,33,2015-10-05,C,Manuel  Gonzalez Mestre,PO Box #565421,,Miami,FL,33256,I,Business<br>Consultant,CH,,1000.00,,Gonzalez Mestre
+12039,34,2015-10-05,C,Sam  Pujol,PO Box #143648,,Miami,FL,33114,I,Marketing,CH,,500.00,,Pujol
+12039,35,2015-10-05,C,Wynwood Brewing Company LLC,565 NW 24th Street,,Miami,FL,33127,B,Craft<br>Production-Brewery,CH,,600.00,,Wynwood Brewing Company LLC
+12039,36,2015-10-05,C,GSK,2121 Ponce de Leon Blvd,11th Floor,Coral Gables,FL,33134,B,CPA Firm,CH,,800.00,,GSK
+12039,37,2015-10-05,C,"Woolpert, Inc.",4454 Idea Center Blvd,,Dayton,OH,45430,F,PAC,CH,,500.00,,"Woolpert, Inc."
+12039,38,2015-10-06,C,Justin  Anthony Kennedy,5001 Hammock Lake Dr,,Coral Gables,FL,33156,I,Attorney,CH,,1000.00,,Kennedy
+12039,39,2015-10-06,C,Boykin Management Company,8015 W Kenton Circle,Suite 220,Huntersville,NC,28078,B,Property<br>Management,CH,,750.00,,Boykin Management Company
+12039,1,2015-10-07,E,Airport  Double Tree by Hilton Miami,711 NW 72nd Avenue,,Miami,FL,33126,,,MO,Event space rental & Food,56814.60,,Double Tree by Hilton Miami
+12039,2,2015-10-07,E,Monster Sound Productions,1649 NW 79th Avenue,,Miami,FL,33126,,,MO,Event Sound Production,3500.00,,Monster Sound Productions
+12039,40,2015-10-07,C,Laura Diane Bradley,2023 Rome Drive,,Los Angeles,CA,90065,I,Entertainer,CH,,1000.00,,Bradley
+12039,41,2015-10-07,C,"Alberto R. Cardenas, PA",200 S Biscayne Blvd,Suite 4100,Miami,FL,33131,B,Law Firm,CH,,500.00,,"Alberto R. Cardenas, PA"
+12039,42,2015-10-07,C,Century Homebuilders Group,PO Box #261358,,Miami,FL,33126,B,Developer,CH,,500.00,,Century Homebuilders Group
+12039,43,2015-10-07,C,Alexandra Propety Holdings LLC,PO Box #261358,,Miami,FL,33126,B,Real<br>Estate<br>Holdings,CH,,500.00,,Alexandra Propety Holdings LLC
+12039,44,2015-10-07,C,Century at Giralda Avenue LLC,PO Box #261358,,Miami,FL,33126,B,Real<br>Estate,CH,,500.00,,Century at Giralda Avenue LLC
+12039,45,2015-10-07,C,"Private Lending Group, LLC",PO Box #261358,,Miami,FL,33126,B,Lending Co,CH,,500.00,,"Private Lending Group, LLC"
+12039,46,2015-10-07,C,"133 Sevilla, LLC",133 Sevilla Avenue,,Miami,FL,33134,B,Real<br>Estate,CH,,1000.00,,"133 Sevilla, LLC"
+12039,47,2015-10-07,C,"Newslink Mav, LLC",6910 NW 12th Street,,Miami,FL,33126,B,Airport<br>Concessions,CH,,1000.00,,"Newslink Mav, LLC"
+12039,48,2015-10-07,C,Newlink of Miami Air Ventures,6710 NW 12th Street,,Miami,FL,33126,B,Airport<br>Concessions,CH,,1000.00,,Newlink of Miami Air Ventures
+12039,49,2015-10-07,C,Innovative Cancer Institute,5995 SW 71st Street,,South Miami,FL,33143,B,Healthcare,CH,,1000.00,,Innovative Cancer Institute
+12039,50,2015-10-07,C,Beatriz E Amendola MDPA,9300 SW 87th Avenue,Suite 3,Miami,FL,33176,B,Medical<br>Office,CH,,1000.00,,Beatriz E Amendola MDPA
+12039,3,2015-10-08,E,Balloon Fantasy,7546 SW 104th Place,,Miami,FL,33173,,,MO,Event Decorations,1110.00,,Balloon Fantasy
+12039,51,2015-10-08,C,"Llorente & Heckler, PA",801 West 41st Street,Suite 401,Miami Beach,FL,33140,B,Law Firm,CH,,1000.00,,"Llorente & Heckler, PA"
+12039,52,2015-10-08,C,Associates  Garcia Mayoral Santamaria &,6101 SW 20th Street,,Miami,FL,33155,B,Architectural<br>Firm,CH,,300.00,,Garcia Mayoral Santamaria & 
+12039,53,2015-10-08,C,Laborers Local 1652,2020 NW 32nd Street,,Pompano Beach,FL,33064,B,Union,CH,,1000.00,,Laborers Local 1652
+12039,54,2015-10-08,C,"Vantage Communications, Inc.",2425 SW 27th Avenue,PH 1408,Miami,FL,33145,B,Communications,CH,,300.00,,"Vantage Communications, Inc."
+12039,55,2015-10-08,C,LSN Partners LLC,801 West 41st Street,Suite 401,Miami Beach,FL,33140,B,Financial<br>Consultant,CH,,1000.00,,LSN Partners LLC
+12039,56,2015-10-08,C,Shoma Alliance Management Corp,3470 NW 82nd Avenue,Suite 988,Doral,FL,33122,B,Property<br>Management,CH,,1000.00,,Shoma Alliance Management Corp
+12039,57,2015-10-08,C,"Shoma Development, LLC",3470 NW 82nd Avenue,Suite 988,Doral,FL,33122,B,Developers,CH,,1000.00,,"Shoma Development, LLC"
+12039,58,2015-10-08,C,Communities for Veterans LLC,3550 South Tamiami Trail,Suite 301,Sarasota,FL,34239,B,Developers,CH,,1000.00,,Communities for Veterans LLC
+12039,59,2015-10-08,C,Beneficial Communities LLC,3550 South Tamiami Trail,Suite 301,Sarasota,FL,34239,B,Developers,CH,,1000.00,,Beneficial Communities LLC
+12039,60,2015-10-08,C,Charles U Phillips,18305 SW 84th Court,,Palmetto Bay,FL,33157,I,Doctor,CH,,200.00,,Phillips
+12039,61,2015-10-08,C,Alberto J Herrera,8450 SW 72nd Terrace,,Miami,FL,33143,I,Engineer,CH,,400.00,,Herrera
+12039,62,2015-10-08,C,Arsenio  Milian,2657,SW 23rd Street,Miami,FL,33145,I,Engineer,CH,,800.00,,Milian
+12039,63,2015-10-08,C,"Simbros, LLC",1230 NW 7th Street,,Miami,FL,33125,B,Tech<br>Consultants,CH,,400.00,,"Simbros, LLC"
+12039,64,2015-10-08,C,Milian Swain & Associates Inc.,2025 SW 32nd Avenue,,Miami,FL,33145,B,Engineering,CH,,800.00,,Milian Swain & Associates Inc.
+12039,65,2015-10-08,C,Sacred Family Investments Inc.,2801 SW 3rd Avenue,,Miami,FL,33129,B,Investments,CH,,1000.00,,Sacred Family Investments Inc.
+12039,66,2015-10-09,C,William J Heffernan,5012 NE Quayside Terrace,,Miami,FL,33138,I,Attorney,CH,,500.00,,Heffernan
+12039,67,2015-10-09,C,of Miami  Southern Strategy Group,PO Box #10570,,Tallahassee,FL,32302,B,Governmental<br>Consulting,CH,,500.00,,Southern Strategy Group
+12039,68,2015-10-09,C,"Becker & Poliaknoff, PA",1 East Broward Blvd,Suite 1800,Ft Lauderdale,FL,33301,B,Law Firm,CH,,800.00,,"Becker & Poliaknoff, PA"
+12039,69,2015-10-09,C,Win Right Data Company LLC,2800 Glen Gary Dr,,Richmond,VA,23233,B,Business<br>Data<br>Services,CH,,1000.00,,Win Right Data Company LLC
+12039,70,2015-10-10,C,Tere  Pujol Burns,5808 SW 34th Street,,Miami,FL,33155,I,Teacher,CH,,200.00,,Pujol Burns
+12039,71,2015-10-10,C,Rebuild Florida,8567 Coral Way,Unit 374,Miami,FL,33155,F,PC,CH,,1000.00,,Rebuild Florida
+12039,72,2015-10-10,C,Jaleo Inc.,1717 N Bayshore Dr,Apt 1055,Miami,FL,33132,B,Video<br>Production,CH,,1000.00,,Jaleo Inc.
+12039,73,2015-10-12,C,Kevin  Gouchee,519 Homans Avenue,,Closter,NJ,07624,I,Restauranteur,CH,,400.00,,Gouchee
+12039,74,2015-10-12,C,Rosario Kennedy Associates,2645 S Bayshore Dr,#2002,Coconut Grove,FL,33133,B,Governmental<br>Consulting,CH,,400.00,,Rosario Kennedy Associates
+12039,75,2015-10-12,C,Beefree LLC,2312 N Miami Avenue,,Miami,FL,33127,B,Electric<br>Transportation,CH,,400.00,,Beefree LLC
+12039,76,2015-10-12,C,Rick  Del Mastro,1333 Broadway,Suite 506,New York,NY,10018,I,Outdoor<br>Advertising,CH,,200.00,,Del Mastro
+12039,77,2015-10-12,C,Christopher  D Carr,46 Musket Ridge Rd,,Wilton,CT,06897,I,Outdoor<br>Advertising,CH,,200.00,,Carr
+12039,78,2015-10-12,C,A+Mini Storage-Kendall,12200 SW 117th Avenue,,Miami,FL,33186,B,Storage,CH,,400.00,,A+Mini Storage-Kendall
+12039,79,2015-10-12,C,Benjamin Ryan Rosenberg,10777 SW 16th Street,,Miami,FL,33165,I,,CH,,50.00,,Rosenberg
+12039,80,2015-10-12,C,Victor M Ochoa,15410 SW 10th St,,Miami,FL,33194,I,Real<br>Estate,CH,,100.00,,Ochoa
+12039,81,2015-10-12,C,Victor M Ochoa,15410 SW 10th St,,Miami,FL,33194,I,Real<br>Estate,CH,,100.00,,Ochoa
+12039,82,2015-10-12,C,Lina  Blanco,2625 Collins Ave,Apt 1610,Miami Beach,FL,33140,I,,CH,,100.00,,Blanco
+12039,83,2015-10-12,C,Soledad  Diaz,430 Grand Concourse,,Miami Shores,FL,33136,I,Airline<br>Emplyee,CH,,200.00,,Diaz
+12039,84,2015-10-12,C,Craig E Leen,***Protected***,,Coral Gables,FL,33134,I,Attorney,CH,,200.00,,Leen
+12039,85,2015-10-12,C,Dora Antonia Alvarez,5840 SW 44th Terrace,,Miami,FL,33155,I,Finance<br>Executive,CH,,200.00,,Alvarez
+12039,86,2015-10-12,C,F Xavier Durana,227 Sarto Ave,,Coral Gables,FL,33134,I,General<br>Contractor,CH,,200.00,,Durana
+12039,87,2015-10-12,C,James N Esserman,16041 SW 77th Court,,Palmetto Bay,FL,33157,I,Doctor,CH,,400.00,,Esserman
+12039,88,2015-10-12,C,Graciela  Solano Robau,761 Jeronimo Dr,,Coral Gables,FL,33146,I,Business<br>Consultant,CH,,400.00,,Solano Robau
+12039,89,2015-10-12,C,Lucia A Dougherty,721 Sevilla Ave,,Coral Gables,FL,33134,I,Attorney,CH,,500.00,,Dougherty
+12039,90,2015-10-12,C,Josephine  Cicchetti,355 N Hibiscus Dr,,Miami Beach,FL,33139,I,Attorney,CH,,1000.00,,Cicchetti
+12039,91,2015-10-12,C,Barbara  Johnson Hardeman,3840 SW 26th St,,Hollywood,FL,33023,I,Political<br>Consultant,CH,,1000.00,,Johnson Hardeman
+12039,92,2015-10-12,C,Orald Leroy Stewart,620 SW 5th Ave,,Miami,FL,33130,I,Electrical<br>Contractor,CH,,200.00,,Stewart
+12039,93,2015-10-12,C,Carlos R Lago,5440 SW 59th Ave,,Miami,FL,33155,I,Attorney,CH,,250.00,,Lago
+12039,94,2015-10-12,C,Alex I Warner,320 W Enid Dr,,Key Biscayne,FL,33149,I,Realtor,CH,,400.00,,Warner
+12039,95,2015-10-12,C,Alfredo  Diaz,2625 Collins Ave,Apt 1703,Miami Beach,FL,33140,I,Retired,CH,,400.00,,Diaz
+12039,96,2015-10-12,C,Bella Construction Group Inc.,9000 SW85th St,,Miami,FL,33173,B,Construction,CH,,400.00,,Bella Construction Group Inc.
+12039,97,2015-10-12,C,Claim Specialist Consulting,737 NW 27th Ave,Suite 201A,Miami,FL,33125,B,Insurance<br>Consultant,CH,,600.00,,Claim Specialist Consulting
+12039,98,2015-10-12,C,B&B Professional Consultant,3840 SW 26th Street,,West Park,FL,33023,B,Business<br>Consultant,CH,,1000.00,,B&B Professional Consultant
+12039,99,2015-10-12,C,Law  Ignacio M Alvarez Attorney at,1717 N Bayshore Dr,Suite 100,Miami,FL,33132,B,Law Firm,CH,,1000.00,,Ignacio M Alvarez Attorney at
+12039,100,2015-10-12,C,Communiuty Health Care PC,1523 NW 167th Street,Suite 150,Miami,FL,33169,F,PC,CH,,1000.00,,Communiuty Health Care PC
+12039,101,2015-10-12,C,Local No 349 Electro PAC,1657 NW 17th Ave,,Miami,FL,33125,F,PAC,CH,,1000.00,,Local No 349 Electro PAC
+12039,102,2015-10-12,C,Miami Firefighters PAC,2980 NW S River Dr,,Miami,FL,33125,F,PAC,CH,,1000.00,,Miami Firefighters PAC
+12039,103,2015-10-12,C,GreenbergTraurig,8400 NW 36th Street,Suite 400,Miami,FL,33166,B,Law Firm,CH,,1000.00,,GreenbergTraurig
+12039,104,2015-10-12,C,Carlos  Duart,8669 NW 36th Street,,Miami,FL,33166,I,Engineer,CH,,500.00,,Duart
+12039,105,2015-10-12,C,Lubin\'s Development Corp,2631 NE 211th Terrace,,Miami,FL,33180,B,Developer,CH,,1000.00,,Lubin\'s Development Corp
+12039,106,2015-10-12,C,Black Swan Developments,629 Alcazar Ave,,Coral Gables,FL,33134,B,Developers,CH,,200.00,,Black Swan Developments
+12039,107,2015-10-12,C,T-Rex Rehab LLC,19274 S Hibiscus St,,Weston,FL,33332,B,Rehab<br>Center,CH,,1000.00,,T-Rex Rehab LLC
+12039,108,2015-10-12,C,"Andre N Chammas CPA, PA",1001 Brickell Bay Dr,9th Floor,Miami,FL,33131,B,CPA Firm,CH,,500.00,,"Andre N Chammas CPA, PA"
+12039,109,2015-10-12,C,Aran Correa Guarch &Shapiro PA,255 University Dr,,Coral Gables,FL,33134,B,Law Firm,CH,,500.00,,Aran Correa Guarch &Shapiro PA
+12039,110,2015-10-12,C,Living Facility  Floridian Gardens Assisted,7031 SW 62nd Ave,,South Miami,FL,33143,B,Nursing<br>Home,CH,,1000.00,,Floridian Gardens Assisted
+12039,111,2015-10-12,C,Larking School of Nursing LLC,7031 SW 62nd Ave,,South Miami,FL,33143,B,Nursing<br>School,CH,,1000.00,,Larking School of Nursing LLC
+12039,112,2015-10-12,C,AFSCME,1625 L Street NW,,Washington,DC,20036,B,Union,CH,,1000.00,,AFSCME
+12039,113,2015-10-12,C,Oubay  Atassi,PO Box #248608,,Miami,FL,33124,I,Communications,CH,,100.00,,Atassi
+12039,114,2015-10-12,C,Power Pizza,PO Box #3599,,Pontevedra Beach,FL,32004,B,Restaurant,CH,,600.00,,Power Pizza
+12039,115,2015-10-12,C,Carlos F Gonzalez PA,3400 MiamiTower,100 SE 2nd Street,Miami,FL,33131,B,Law Firm,CH,,1000.00,,Carlos F Gonzalez PA
+12039,116,2015-10-12,C,Alpha Plan LLC,36 Palermo Ave,,Coral Gables,FL,33134,B,Governmental<br>Consulting,CH,,200.00,,Alpha Plan LLC
+12039,117,2015-10-12,C,Nactac Consulting Inc,1800 Country Club Prado,,Coral Gables,FL,33134,B,Business<br>Mgmt-Consulting,CH,,400.00,,Nactac Consulting Inc
+12039,118,2015-10-12,C,Marx & Frankell PA,1 SE 3rd Ave,Suite 2900,Miami,FL,33131,B,Law Firm,CH,,1000.00,,Marx & Frankell PA
+12039,119,2015-10-12,C,JC Machine Works Corp,5700 NW 32nd Court,,Miami,FL,33142,B,Auto Shop,CH,,200.00,,JC Machine Works Corp
+12039,120,2015-10-12,C,Javier Gonzalez PA,3622 Solana Rd,,Coconut Grove,FL,33133,B,Real<br>Estate,CH,,400.00,,Javier Gonzalez PA
+12039,121,2015-10-12,C,Robert  Asencio,2921 NW S River Dr,,Medley,FL,33160,I,Law<br>Enforcement,CH,,200.00,,Asencio
+12039,122,2015-10-12,C,Jody  Perlmutter,1510 Trillo Ave,,Coral Gables,FL,33146,I,Banker,CH,,200.00,,Perlmutter
+12039,123,2015-10-12,C,Patricia  Dyshawn Fairclough,424 SE 37th Place,,Homestead,FL,33033,I,Homestead<br>Councilwoman,CH,,200.00,,Dyshawn Fairclough
+12039,124,2015-10-12,C,Kerri Lew Bersh,9 Island Ave,Apt 1101,Miami Beach,FL,33139,I,Attorney,CH,,250.00,,Bersh
+12039,125,2015-10-12,C,Javier F Salman,1534 Mantua Ave,,Coral Gables,FL,33146,I,Architect,CH,,400.00,,Salman
+12039,126,2015-10-12,C,Juan C Cuba,3635 SW 23rd St,,Miami,FL,33145,I,Governmental<br>Consultant,CH,,500.00,,Cuba
+12039,127,2015-10-12,C,Niccholas  L Valdespino,7501 Miller Dr,,Miami,FL,33155,I,Investments,CH,,1000.00,,Valdespino
+12039,128,2015-10-12,C,Daniel L Valdespino,2700 SW 88th Ave,,Miami,FL,33165,I,Inestments,CH,,1000.00,,Valdespino
+12039,151,2015-10-12,C,Damian Gallo & Associates Inc,775 17th Street,,Miami Beach,FL,33139,B,Permit<br>Runner,CH,,500.00,,Damian Gallo & Associates Inc
+12039,152,2015-10-12,C,Francisco J Hernandez,8201 SW 100th Street,,Miami,FL,33156,I,Business<br>Consulting,CH,,500.00,,Hernandez
+12039,129,2015-10-13,C,Rivera Preparatory School,9775 SW 87th Ave,,Miami,FL,33176,B,School,CH,,1000.00,,Rivera Preparatory School
+12039,130,2015-10-13,C,The Reyes Law Firm PA,1 Alhambra Plaza,Suite 1130,Coral Gables,FL,33134,B,Law Firm,CH,,1000.00,,The Reyes Law Firm PA
+12039,131,2015-10-14,C,John G Yardley,PO Box #1509,,Pompano Beach,FL,33061,I,Auto<br>Dealer,CH,,500.00,,Yardley
+12039,132,2015-10-14,C,Klock Nieto PL,2555 Ponce de Leon Blvd,Suite 600,Coral Gables,FL,33134,B,Law Firm,CH,,1000.00,,Klock Nieto PL
+12039,133,2015-10-14,C,Rasco / Klock,2555 Ponce de Leon Bvld,Suite 600,Coral Gables,FL,33134,B,Law Firm,CH,,1000.00,,Rasco / Klock
+12039,4,2015-10-14,E,Carolina  Suarez-Aguiar,7550 SW 75th Street,,Miami,FL,33143,,,MO,Event Coordinator,1500.00,,Suarez-Aguiar
+12039,134,2015-10-15,C,Leopoldo  Garcia Jr,17394 SW 7th Street,,Pembroke Pines,FL,33029,I,Attorney,CH,,200.00,,Garcia Jr
+12039,135,2015-10-15,C,John  McClure,961 San Pedro Ave,,Coral Gables,FL,33156,I,Attorney,CH,,200.00,,McClure
+12039,136,2015-10-15,C,Francisco R Angones,44 W Flagler Street,,Miami,FL,33130,I,Attorney,CH,,200.00,,Angones
+12039,137,2015-10-15,C,Rachel  Furst,570 NE 57th St,,Miami,FL,33137,I,Homemaker,CH,,200.00,,Furst
+12039,138,2015-10-15,C,Douglas J Chumbley,7480 SW 159th Terrace,,Palmetto Bay,FL,33157,I,Attorney,CH,,200.00,,Chumbley
+12039,139,2015-10-15,C,Benjamine  Reid,3840 Alhambra Ct,,Coral Gables,FL,33134,I,Attorney,CH,,400.00,,Reid
+12039,140,2015-10-15,C,Laura  Munilla,6030 SW 114th St,,Miami,FL,33156,I,Homemaker,CH,,500.00,,Munilla
+12039,141,2015-10-15,C,Rua Realty Inc.,2630 SW 28th St,Suite 11,Coconut Grove,FL,33133,B,Real<br>Estate,CH,,100.00,,Rua Realty Inc.
+12039,142,2015-10-15,C,Arenal Building Enterprises,7785 NW 146th Street,,Miami Lakes,FL,33016,B,Property<br>Management,CH,,400.00,,Arenal Building Enterprises 
+12039,143,2015-10-15,C,"Angons, McClure & Garcia PA",44 West Flagler St,,Miami,FL,33130,B,Law Firm,CH,,1000.00,,"Angons, McClure & Garcia PA"
+12039,144,2015-10-16,C,Carlos J Fernandez,615 Harbor Circle,,Key Biscayne,FL,33149,I,CPA,CH,,200.00,,Fernandez
+12039,145,2015-10-16,C,La Epoca,200 E Flagler St,,Miami,FL,33131,B,Department<br>Store,CH,,200.00,,La Epoca
+12039,146,2015-10-19,C,Miguel A De Grandy,537 San Lorenzo Ave,,Coral Gables,FL,33146,I,Attorney,CH,,1000.00,,De Grandy
+12039,147,2015-10-19,C,Juan J Mayol Jr,1400 Coral Way,,Coral Gales,FL,33134,I,Attorney,CH,,1000.00,,Mayol Jr
+12039,148,2015-10-19,C,Landsea Development Group,8807 SW 153rd Terrace,,Palmetto Bay,FL,33157,B,Developers,CH,,1000.00,,Landsea Development Group
+12039,149,2015-10-19,C,"Suchman Retail Group, Inc.",1550 Madruga Ave,,Coral Gables,FL,33146,B,Real<br>Estate,CH,,1000.00,,"Suchman Retail Group, Inc."
+12039,150,2015-10-19,C,Strategic Image Management,511 W Bay St,Suite 350,Tampa,FL,350,B,Political<br>Marketing,CH,,1000.00,,Strategic Image Management
+12039,5,2015-10-19,E,"Rodriguez Trueba & Co, CPA",1985 Nw 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1600.00,,"Rodriguez Trueba & Co, CPA"
+12039,6,2015-10-19,E,Lazaro  Quintero,5077 NW 7th Street,,Miami,FL,33126,,,MO,Event DJ,500.00,,Quintero
+12039,7,2015-10-19,E,"Gravity Consultants, Inc.",2501 Brickell Ave,Suite 808,Miami,FL,33129,,,MO,Event Supplies,1250.00,,"Gravity Consultants, Inc."
+12039,153,2015-10-23,C,Mireille C Gonzalez,280 Bal Bay Dr,,Bal Harbour,FL,33154,I,Business<br>Consultant,CH,,200.00,,Gonzalez
+12039,154,2015-10-23,C,Kathy R Heinly,8206 SW 81st Court,,Miami,FL,33143,I,Retired,CH,,200.00,,Heinly
+12039,155,2015-10-23,C,Jorge  Portela,250 Galen Dr,Apt 23,Key Biscayne,FL,33149,I,,CH,,100.00,,Portela
+12039,156,2015-10-23,C,Shadi  Shomar,8015 NW 162nd Street,,Miami Lakes,FL,33016,I,CPA,CH,-,250.00,,Shomar
+12039,157,2015-10-23,C,Henry T Courtney,110 Merrick Way,Suite 3A,Coral Gables,FL,33134,I,Attorney,CH,,500.00,,Courtney
+12039,158,2015-10-23,C,Gallegos Law Firm LLC,12651 S Dixie Hwy,Suite 318,Miami,FL,33156,B,Law Firm,CH,,300.00,,Gallegos Law Firm LLC
+12039,159,2015-10-23,C,"ATG Development Group, LLC",6720 SW 145th Street,,Village of Palmetto,FL,33158,B,Developer,CH,,1000.00,,"ATG Development Group, LLC"
+12039,160,2015-10-23,C,Arnstein & Lehr LLP,200 S Biscayne Blvd,Suite 3600,Miami,FL,33131,B,Law Firm,CH,,1000.00,,Arnstein & Lehr LLP
+12039,161,2015-10-23,C,"NPN Holdings, LLC",318 NW 23rd Street,,Miami,FL,33127,B,Real<br>Estate<br>Holdings,CH,,1000.00,,"NPN Holdings, LLC"
+12039,8,2015-10-26,E,City National Bank,8725 NW 18th Terrace,,Miami,FL,33172,,,MO,Service Charge,10.00,,City National Bank
+12039,162,2015-10-28,C,National Communication limited,80 SW 8th Street,Suite 2230,Miami,FL,33130,B,Communications,CH,,1000.00,,National Communication limited
+12039,163,2015-10-29,C,"Sunflower Extra, LLC",6300 NW 97th Avenue,,Doral,FL,33178,B,Paper<br>Goods,CH,,1000.00,,"Sunflower Extra, LLC"
+12124,1,2015-11-03,C,Bach Real Estate LLC,1320 NE 156th Street,,North Miami Beach,FL,33165,B,Real<br>Estate,CH,,200.00,,Bach Real Estate LLC
+12124,2,2015-11-03,C,"San Giovanni MD, PA",4014 Granada Blvd,,Coral Gables,FL,33146,B,Medical<br>Office,CH,,400.00,,"San Giovanni MD, PA"
+12124,3,2015-11-03,C,Williamson Automotive,7815 sw 104th Street,,Miami,FL,33156,B,Auto<br>Collision<br>Center,CH,,1000.00,,Williamson Automotive
+12124,4,2015-11-06,C,Jose I Lopez,10550 SW 163rd St,,Miami,FL,33157,I,Retired,CH,,70.00,,Lopez
+12124,5,2015-11-06,C,Lourdes T Arenas,6081 SW 109th Court,,Miami,FL,33173,I,Retired,CH,,70.00,,Arenas
+12124,6,2015-11-06,C,Julio  Lles,3672 SW 25th Street,,Miami,FL,33133,I,Retired,CH,,75.00,,Lles
+12124,7,2015-11-06,C,Maria E Haramboure,3672 SW 25th Street,,Miami,FL,33133,I,Retired,CH,,100.00,,Haramboure
+12124,8,2015-11-06,C,I Edward Landon,965 Crandon Blvd,30-A,Key Biscayne,FL,33149,I,Realtor,CH,,1000.00,,Landon
+12124,9,2015-11-16,C,Law Services PA,3126 Coral Way,,Miami,FL,33145,B,Law Firm,CH,,1000.00,,Law Services PA
+12124,10,2015-11-17,C,Andreina  Garcia,145 SW 25th Rd,#1101,Miami,FL,33129,I,Banker,CH,,200.00,,Garcia
+12124,11,2015-11-17,C,Delfin  Pernas,14850 SW 39th Terrace,,Miami,FL,33185,I,Builder,CH,,250.00,,Pernas
+12124,12,2015-11-17,C,Jose A Costa Jr,9350 SW 96th Street,,Miami,FL,33176,I,Nursery<br>Plant-Executive,CH,,400.00,,Costa Jr
+12124,13,2015-11-17,C,Rafael R Palacios,3109 Grand Avenue,#479,Miami,FL,33133,I,Construction,CH,,400.00,,Palacios
+12124,1,2015-11-18,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,2500.00,,"Rodriguez Trueba & Co, CPA"
+12160,1,2015-12-04,C,Richard R Mason,PO Box #530702,,Miami Shores,FL,33153,I,Retired,CH,,400.00,,Mason
+12160,2,2015-12-04,C,"Viocam, LLC",23 NW 136th Place,,Miami,FL,33182,B,Business<br>Consulting,CH,,400.00,,"Viocam, LLC"
+12160,3,2015-12-04,C,James E McDonald,7260 SW 132nd Street,,Pinecrest,FL,33156,I,,CH,-,100.00,,McDonald
+12160,4,2015-12-04,C,Accountability  People in Need of Government,2600 S Douglas Road,Suite 900,Coral Gables,FL,33134,F,PC,CH,,1000.00,,People in Need of Government
+12160,5,2015-12-07,C,Eugene P Flinn Jr,8261 SW 162nd Street,,Palmetto Bay,FL,33157,I,Palmetto<br>Bay Mayor,CH,,200.00,,Flinn Jr
+12160,6,2015-12-07,C,Luis G Castillo,4621 SW 100th Avenue,,Miami,FL,33165,I,Import /<br>Export,CH,,200.00,,Castillo
+12160,7,2015-12-07,C,Rafael  O Suarez,12255 SW 101 Terrace,,Miami,FL,33186,I,Law<br>Enforcement,CH,,400.00,,Suarez
+12160,8,2015-12-07,C,Paul  Alcazar,222 Madeira Avenue,Apt 51,Coral Gables,FL,33134,I,Cigar Co<br>Executive,CH,,400.00,,Alcazar
+12160,1,2015-12-15,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,650.00,,"Rodriguez Trueba & Co, CPA"
+12293,1,2016-01-11,E,Rodriguez Trueba & Co. CPA,1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,250.00,,Rodriguez Trueba & Co. CPA
+12395,1,2016-02-11,C,"Manchester Capital, LLC",6601 NW 14th Street,Suite 3,Plantation,FL,33313,B,Investments,CH,,1000.00,,"Manchester Capital, LLC"
+12395,1,2016-02-15,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,200.00,,"Rodriguez Trueba & Co, CPA"
+12440,1,2016-03-04,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,250.00,,"Rodriguez Trueba & Co, CPA"
+12583,1,2016-04-09,E,Jihad S Rashid,2983 Washington Street,,Coconut Grove,FL,33133,,,MO,Campaign Coordinator,5000.00,,Rashid
+12583,2,2016-04-12,E,Ai Advisory Inc.,131 Madeira Avenue,,Coral Gables,FL,33134,,,MO,Social Media Management,10000.00,,Ai Advisory Inc.
+12583,3,2016-04-14,E,Roberto  Alvarez,2661 SW 23rd Street,,Miami,FL,33145,,,MO,Volunteers Coordinator,1250.00,,Alvarez
+12583,4,2016-04-14,E,"PG Media, Inc.",4742 SW 74th Avenue,,Miami,FL,33155,,,MO,Printing T-shirts,212.50,,"PG Media, Inc."
+12583,1,2016-04-26,C,Alhadeff & Sitterson PA  Stearns Weaver Miller Weisser,150 West Flagler Street,Suite 2200,Miami,FL,33130,B,Law Firm,CH,,1000.00,,Stearns Weaver Miller Weisser
+12742,1,2016-05-02,E,Roberto  Alvarez,2661 SW 23rd Street,,Miami,FL,33145,,,MO,Volunteer Coordinator,1250.00,,Alvarez
+12742,2,2016-05-02,E,Andrew  Suarez,2501 Brickell Avenue,Suite 808,Miami,FL,33129,,,MO,Event Organizer,346.76,,Suarez
+12742,3,2016-05-18,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,250.00,,"Rodriguez Trueba & Co, CPA"
+12742,4,2016-05-18,E,Executive 2000 Courier Systems,1300 Coral Way,Suite 310,Miami,FL,33145,,,MO,Courier,41.00,,Executive 2000 Courier Systems
+12742,5,2016-05-19,E,Ai Advisory Inc.,131 Madeira Avenue,,Coral Gables,FL,33134,,,MO,Social Media Mgnt,10000.00,,Ai Advisory Inc.
+12742,6,2016-05-25,E,Miami-Dade County,2700 NW 87th Avenue,,Doral,FL,33172,,,MO,Qualifying Fees,360.00,,Miami-Dade County
+12848,1,2016-06-07,E,Melissa  Dynan,3530 Thomas Avenue,,Miami,FL,33133,,,MO,Community Outreach,2000.00,,Dynan
+12848,2,2016-06-07,E,Executive 2000 Courier Systems,1300 Coral Way,Suite 310,Miami,FL,33145,,,MO,Courier,30.00,,Executive 2000 Courier Systems
+12848,3,2016-06-07,E,"Messer Caparello, PA",2618 Centennial Place,,Tallahassee,FL,32308,,,MO,Legal Services,360.00,,"Messer Caparello, PA"
+12848,4,2016-06-08,E,The Norwwod Consulting Group,14844 Breckness Place,Suite 100,Miami Lakes,FL,33016,,,MO,Media Relations,5000.00,,The Norwwod Consulting Group
+12848,5,2016-06-13,E,Executive 2000 Courier Systems,1300 Coral Way,Suite 310,Miami,FL,33145,,,MO,Courier,54.76,,Executive 2000 Courier Systems
+12848,1,2016-06-13,C,IBEW PAC Voluntary Fund,900 Seventh Street NW,,Washington,DC,20001,F,PAC,CH,,1000.00,,IBEW PAC Voluntary Fund
+12925,1,2016-06-28,E,"Ai Advisory, Inc.",131 Madeira Avenue,,Coral Gables,FL,33134,,,MO,Advertising,2117.65,,"Ai Advisory, Inc."
+12925,2,2016-07-07,E,Melissa  Dynan,3530 Thomas Avenue,,Miami,FL,33133,,,MO,Campaign Coordinator,2034.39,,Dynan
+13025,1,2016-07-11,E,Rodriguez Trueba & Co. CPA,1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1350.00,,Rodriguez Trueba & Co. CPA
+13025,2,2016-07-11,E,Rolando  Gaston,3051 NW 22nd Ave,,Miami,FL,33142,,,MO,Event Organizer,1000.00,,Gaston
+13025,3,2016-07-15,E,"All Sun Light Consulting, Inc.",8541 SW 181st Street,,Miami,FL,33157,,,MO,Campaign Consulting,4000.00,,"All Sun Light Consulting, Inc."
+13336,1,2016-08-08,E,"Dynan Consulting, Inc.",3530 Thomas Avenue,,Miami,FL,33133,,,MO,Campaign Coorditator,2000.00,,"Dynan Consulting, Inc."
+13336,2,2016-08-08,E,All Sun Light Consulting Inc.,8541 SW 181st Street,,Palmetto Bay,FL,33157,,,MO,Event Coordinator,1350.00,,All Sun Light Consulting Inc.
+13336,3,2016-08-11,E,Executive 2000 Courier Systems,1300 Coral Way,Suite 310,Miami,FL,33145,,,MO,Courier,78.40,,Executive 2000 Courier Systems
+13379,1,2016-08-22,E,Rodriguez Trueba & Co. CPA,1985 NW 88th Court,Suite 102,Doral,FL,33172,,,MO,Accounting & Reporting Services,400.00,,Rodriguez Trueba & Co. CPA
+13379,2,2016-08-23,E,Kiskeya Herald,13899 Biscayne Blvd,Suite 209,North Miami Beach,FL,33181,,,MO,Advertising,900.00,,Kiskeya Herald
+13379,1,2016-08-24,C,Parsons Odobrecht JV,201 Alhambra Circle,Suite 1000,Coral Gables,FL,33134,B,Construction,CH,,1000.00,,Parsons Odobrecht JV
