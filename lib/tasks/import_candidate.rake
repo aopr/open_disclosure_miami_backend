@@ -27,7 +27,7 @@ namespace :import_candidate do
                     )
         entity = Entity.where_by_name(line[:name])
         unless entity
-          Entity.new(name: line[:name],
+        entity = Entity.new(name: line[:name],
                     address: line[:address_1],
                     address2: line[:address_2],
                     city: line[:city],
@@ -38,6 +38,7 @@ namespace :import_candidate do
         end
         entity.donated_amount += line[:amount] if line["cont/exp"] == 'C'
         entity.paid_amount += line[:amount] if line["cont/exp"] == 'E'
+        entity.save
       end
     end
   end
