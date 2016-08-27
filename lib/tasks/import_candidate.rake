@@ -25,7 +25,7 @@ namespace :import_candidate do
                     amount: line[:amount],
                     candidate: line[:rpt_code]
                     )
-        entity = Entity.where_by_name(line[:name])
+        entity = Entity.find_by_name(line[:name])
         unless entity
         entity = Entity.new(name: line[:name],
                     address: line[:address_1],
