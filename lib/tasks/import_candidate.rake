@@ -5,7 +5,7 @@ namespace :import_candidate do
   desc "Import Candidate Monies"
   task candidates: :environment do
 
-  candidates = ["miguel_eizmendiz_mayor.csv", "carlos_gimenez_mayor.csv"]
+  candidates = ["miguel_eizmendiz_mayor.csv", "carlos_gimenez_mayor.csv", "AlfredSantamariaMayor.csv"]
 
   candidates.each do |canidate|
 
