@@ -25,10 +25,13 @@ ActiveRecord::Schema.define(version: 20160827012524) do
   create_table "entities", force: :cascade do |t|
     t.string "name"
     t.string "address"
+    t.string "address2"
+    t.string "state"
+    t.string "city"
     t.string "entity_type"
-    t.string "donated_amount"
-    t.string "paid_amount"
-    t.string "donation_type"
+    t.string "occupation"
+    t.float  "donated_amount", default: 0.0
+    t.float  "paid_amount",    default: 0.0
   end
 
   create_table "monies", force: :cascade do |t|
