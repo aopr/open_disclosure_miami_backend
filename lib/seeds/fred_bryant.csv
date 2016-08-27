@@ -1,8 +1,8 @@
 rpt code,line number,item date,Cont/Exp,name,address 1,address 2,city,state,zip,cont. type,occupation,item type,description,amount,Amend. code,lastname
-12882,1,2016-06-16,C,Frederick  Bryant,1431 NW 2 Avenue,,Miami,FL,33136,S,publisher,LO,,1815.00,,Bryant
-12882,1,2016-06-20,E,Miami-Dade  County,2700 NW 87 Ave,,Miami,FL,33172,,,MO,filing fee,1800.00,,County
-13035,1,2016-07-13,C,Frederick  Bryant,1431 NW 2 Avenue,,Miami,FL,33136,S,Publisher,CA,,10.00,,Bryant
-13409,2,2016-08-17,C,Frederick  Bryant,1431 NW 2 Ave,,Miami,FL,33136,S,publisher,LO,Deposit,100.00,,Bryant
-13409,1,2016-08-19,C,Frederick  Bryant,1431 NW 2 Ave,,Miami,FL,33136,S,Publisher,CA,Advertisement (Miami Times),545.51,,Bryant
-13409,1,2016-08-19,E,Frederick  Bryant,1431 NW 2 Ave,,Miami,FL,33136,,,MO,advertise,541.51,,Bryant
-13409,3,2016-08-25,C,Frederick  Bryant,1431 NW 2 Ave,,Miami,FL,33136,C,publisher,LO,,600.00,,Bryant
+Fred Bryant,1,2016-06-16,C,Frederick  Bryant,1431 NW 2 Avenue,,Miami,FL,33136,S,publisher,LO,,1815.00,,Bryant
+Fred Bryant,1,2016-06-20,E,Miami-Dade  County,2700 NW 87 Ave,,Miami,FL,33172,,,MO,filing fee,1800.00,,County
+Fred Bryant,1,2016-07-13,C,Frederick  Bryant,1431 NW 2 Avenue,,Miami,FL,33136,S,Publisher,CA,,10.00,,Bryant
+Fred Bryant,2,2016-08-17,C,Frederick  Bryant,1431 NW 2 Ave,,Miami,FL,33136,S,publisher,LO,Deposit,100.00,,Bryant
+Fred Bryant,1,2016-08-19,C,Frederick  Bryant,1431 NW 2 Ave,,Miami,FL,33136,S,Publisher,CA,Advertisement (Miami Times),545.51,,Bryant
+Fred Bryant,1,2016-08-19,E,Frederick  Bryant,1431 NW 2 Ave,,Miami,FL,33136,,,MO,advertise,541.51,,Bryant
+Fred Bryant,3,2016-08-25,C,Frederick  Bryant,1431 NW 2 Ave,,Miami,FL,33136,C,publisher,LO,,600.00,,Bryant
