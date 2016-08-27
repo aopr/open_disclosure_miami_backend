@@ -5,9 +5,9 @@ namespace :import_candidate do
   desc "Import Candidate Monies"
   task candidates: :environment do
 
-    candidates = ['miguel_eizmendiz_mayor.csv', 'AlfredSantamariaMayor.csv', 'carlos_gimenez_mayor.csv', 'raquel_regalado.csv', 'dennis_moss.csv', 'burino_barreiro.csv', "barbara_j_jordan.csv", "fred_bryant.csv", "joe_a_martinez.csv", "xavier_l_suarez.csv", "AudreyEdmunsonCommissioner.csv", "EarlBeaverCommissioner.csv", "EstebanBovoCommissioner.csv"]
+  candidates = ['miguel_eizmendiz_mayor.csv', 'AlfredSantamariaMayor.csv', 'carlos_gimenez_mayor.csv', 'raquel_regalado.csv', 'dennis_moss.csv', 'burino_barreiro.csv', "barbara_j_jordan.csv", "fred_bryant.csv", "joe_a_martinez.csv", "xavier_l_suarez.csv", "AudreyEdmunsonCommissioner.csv", "EarlBeaverCommissioner.csv", "EstebanBovoCommissioner.csv"]
 
-    candidates.each do |canidate|
+  candidates.each do |candidate|
 
       file = Rails.root.join("lib","seeds",candidate)
 
