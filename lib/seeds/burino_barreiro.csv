@@ -1,0 +1,189 @@
+rpt code,line number,item date,Cont/Exp,name,address 1,address 2,city,state,zip,cont. type,occupation,item type,description,amount,Amend. code,lastname
+Bruno Barreiro,1,2015-09-21,C,Luis G Rodriguez,14311 SW 50th Street,,Miami,FL,33175,I,,CH,,100.00,,Rodriguez
+Bruno Barreiro,2,2015-09-21,C,Pedro  Vidal,1035 NW 128th CT,,Miami,FL,33182,I,,CH,,100.00,,Vidal
+Bruno Barreiro,3,2015-09-21,C,"Tierra Suelta, Inc",2731 SW 128th Avenue,,Miami,FL,33175,B,Agriculture,CH,,200.00,,"Tierra Suelta, Inc"
+Bruno Barreiro,4,2015-09-21,C,Jose R. Abreu,630 W 72nd Place,,Miami Lakes,FL,33014-4861,I,Retired,CH,,200.00,,Abreu
+Bruno Barreiro,5,2015-09-21,C,Balsera Communications,2020 Ponce de Leon Blvd,Suite 1003,Coral Gables,FL,33134,B,Media<br>Relations,CH,,1000.00,,Balsera Communications
+Bruno Barreiro,1,2015-09-30,E,Ocean Bank,780 NW 42 Avenue,,Miami,FL,33101,,,MO,Deposit Books,90.68,,Ocean Bank
+Bruno Barreiro,2,2015-09-30,E,Ocean Bank,780 NW 42 Avenue,,Miami,FL,33126,,,MO,Checks Ordered,160.30,,Ocean Bank
+Bruno Barreiro,1,2015-10-01,C,Global Baggage Protection Sys.,4050 NW 29th Street,,Miami,FL,33142,B,Baggage<br>Wrap,CH,,1000.00,,Global Baggage Protection Sys.
+Bruno Barreiro,2,2015-10-01,C,"Safe Wrap of Florida JV, LLC",4050 NW 29th Street,,Miami,FL,33142,B,Baggage<br>Wrap,CH,,1000.00,,"Safe Wrap of Florida JV, LLC"
+Bruno Barreiro,3,2015-10-01,C,Secure Wrap of Miami,4050 NW 29th Street,,Miami,FL,33142,B,Baggage<br>Wrap,CH,,1000.00,,Secure Wrap of Miami
+Bruno Barreiro,5,2015-10-05,C,Paul  Hernandez,18690 SW 168th Street,,Miami,FL,33187,I,Retired,CH,,400.00,,Hernandez
+Bruno Barreiro,4,2015-10-06,C,44th Street Land Trust,7035 SW 44th Street,,Miami,FL,33155,B,Real<br>Estate,CH,,1000.00,,44th Street Land Trust
+Bruno Barreiro,6,2015-10-07,C,David  Brown,5901 SW 74th Street,Suite 403,Miami,FL,33143,I,Real<br>Estate,CH,,1000.00,,Brown
+Bruno Barreiro,7,2015-10-07,C,"Gutierrez Properties, Inc",3175 SW 8th Street,,Miami,FL,33135,B,Real<br>Estate,CH,,1000.00,,"Gutierrez Properties, Inc"
+Bruno Barreiro,8,2015-10-07,C,"Lorenzo Investments IV, LLC",4310 NW 35 Street,,Miami,FL,33142,B,Investment<br>Company,CH,,500.00,,"Lorenzo Investments IV, LLC"
+Bruno Barreiro,9,2015-10-07,C,Asphalt Marketing Services Inc,3500 NW 46 Street,,Miami,FL,33142,B,Asphalt<br>Company,CH,,500.00,,Asphalt Marketing Services Inc
+Bruno Barreiro,10,2015-10-07,C,H & J Asphalt Inc,4310 NW 35 Avenue,,Miami,FL,33142,B,Asphalt,CH,,500.00,,H & J Asphalt Inc
+Bruno Barreiro,11,2015-10-07,C,Key Transportation Service Cor,199 NW 79th Street,,Miami,FL,33150,B,Transportation,CH,,125.00,,Key Transportation Service Cor
+Bruno Barreiro,12,2015-10-07,C,Metro Accounts Inc,3700 NW 36 Street,,Miami,FL,33142,B,Taxi<br>Industry,CH,,1000.00,,Metro Accounts Inc
+Bruno Barreiro,13,2015-10-07,C,"Cuban Crafters MIA, LLC",3175 SW 8th Street,,Miami,FL,33135,B,Cigar Shop,CH,,1000.00,,"Cuban Crafters MIA, LLC"
+Bruno Barreiro,14,2015-10-07,C,Gutierrez and Associates,3175 SW 8th Street,,Miami,FL,33135,B,Consulting,CH,,1000.00,,Gutierrez and Associates
+Bruno Barreiro,15,2015-10-07,C,"Gutierrez Properties, LLC",3175 SW 8th Street,,Miami,FL,33135,B,Real<br>Estate,CH,,1000.00,,"Gutierrez Properties, LLC"
+Bruno Barreiro,16,2015-10-07,C,Galaxy Investments Group LLC,3547 NW 49th Street,,Miami,FL,33142,B,,CH,,100.00,,Galaxy Investments Group LLC
+Bruno Barreiro,17,2015-10-07,C,Michael J Adams,12961 Country Glen Drive,,Cooper City,FL,33330,I,,CH,,100.00,,Adams
+Bruno Barreiro,18,2015-10-07,C,Santiago  Rodriguez,1349 NW 161 Avenue,,Pembroke Pines,FL,33028,I,,CH,,20.00,,Rodriguez
+Bruno Barreiro,19,2015-10-07,C,James R. Cordrey,11280 SW 128th Street,,Miami,FL,33176,I,,CH,,25.00,,Cordrey
+Bruno Barreiro,20,2015-10-07,C,World Class Properties Invest.,3500 NW 51 Street,,Miami,FL,33142,B,,CH,,100.00,,World Class Properties Invest.
+Bruno Barreiro,21,2015-10-07,C,RJR Properties Inc,17911 SW 63 Manor,,SW Ranches,FL,33331,B,,CH,,100.00,,RJR Properties Inc
+Bruno Barreiro,22,2015-10-07,C,Tri Group Holdings LLC,3500 NW 51 Street,,Miami,FL,33142,B,Real<br>Estate,CH,,250.00,,Tri Group Holdings LLC
+Bruno Barreiro,23,2015-10-07,C,"Big Apple Demolition Removal,",4701 NW 35 Avenue,,Miami,FL,33142,B,Solid<br>Waste,CH,,250.00,,"Big Apple Demolition Removal, "
+Bruno Barreiro,24,2015-10-07,C,"S & A Holdings, Inc",3500 NW 51 Street,,Miami,FL,33142,B,Real<br>Estate,CH,,250.00,,"S & A Holdings, Inc "
+Bruno Barreiro,25,2015-10-07,C,"World Waste Recycling, Inc",4701 NW 35 Avenue,,Miami,FL,33142,B,Solid<br>Waste,CH,,250.00,,"World Waste Recycling, Inc"
+Bruno Barreiro,26,2015-10-07,C,"Allied Trucking of FLA, Inc",10741-10761 NW 89th Avenue,,Hialeah Gardens,FL,33018,B,Trucking,CH,,250.00,,"Allied Trucking of FLA, Inc"
+Bruno Barreiro,27,2015-10-07,C,Classic Waste Services,3500 NW 51 Street,,Miami,FL,33142,B,Consulting,CH,,100.00,,Classic Waste Services
+Bruno Barreiro,28,2015-10-07,C,Golomb Schwartz & Cove P.A.,2000 NW 150th Avenue,Suite 2106,Miami,FL,33028,B,Accounting,CH,,200.00,,Golomb Schwartz & Cove P.A.
+Bruno Barreiro,29,2015-10-07,C,Other Oil Corp.,9780 NW 115th Way,,Medley,FL,33178,B,Fuel<br>Provider,CH,,200.00,,Other Oil Corp.
+Bruno Barreiro,30,2015-10-07,C,Sara C Ribero,8380 SW 92 Terr,,Miami,FL,33156,I,Water &<br>Sewer,CH,,1000.00,,Ribero
+Bruno Barreiro,31,2015-10-07,C,Rafael  Corona,925 Alhambra Circle,,Coral Gables,FL,33134,I,Water &<br>Sewer<br>Industry,CH,,1000.00,,Corona
+Bruno Barreiro,32,2015-10-07,C,Ricardo  Corona,7290 Miller Drive,,Miami,FL,33155,I,Water &<br>Sewer<br>Industry,CH,,1000.00,,Corona
+Bruno Barreiro,33,2015-10-07,C,Charles  Chirillo,4220 NW 6 Street,,Deerfield Beach,FL,33442,I,,CH,,100.00,,Chirillo
+Bruno Barreiro,34,2015-10-07,C,Robert  Saroza,17911 SW 63 Manor,,SW Ranches,FL,33331,I,,CH,,100.00,,Saroza
+Bruno Barreiro,35,2015-10-07,C,Eileen  Damaso,2332 SW 19 Street,,Miami,FL,33145,I,,CH,,50.00,,Damaso
+Bruno Barreiro,36,2015-10-07,C,Carlos  Zaldivar,14401 SW 82 Avenue,,Miami,FL,33158,I,,CH,,100.00,,Zaldivar
+Bruno Barreiro,37,2015-10-07,C,Raymond  Pardo,16425 Collins Avenue,
+Bruno Barreiro,38,2015-10-07,C,"H & R Paving, Inc",1955 NW 110th Avenue,,Miami,FL,33172,B,Paving<br>Company,CH,,500.00,,"H & R Paving, Inc"
+Bruno Barreiro,39,2015-10-07,C,"Corona Law Firm, P.A.",3899 NW 7th Street,2nd Floor,Miami,FL,33126,B,Law Firm,CH,,1000.00,,"Corona Law Firm, P.A."
+Bruno Barreiro,40,2015-10-07,C,Moskocab of Dade Inc,2284 NW 36 Street,,Miami,FL,33142,B,Taxi,CH,,500.00,,Moskocab of Dade Inc
+Bruno Barreiro,41,2015-10-07,C,"Miami Taxi Enterprises, Inc",P.O. Box 14393,,Philadelphia,PA,19115,B,Taxi,CH,,500.00,,"Miami Taxi Enterprises, Inc"
+Bruno Barreiro,42,2015-10-07,C,Felix M Lasarte PL,3250 NE 1st Avenue,,Miami,FL,33137,B,Law Firm,CH,,1000.00,,Felix M Lasarte PL
+Bruno Barreiro,43,2015-10-07,C,Corcel Corp.,2461 NW 23rd Street,,Miami,FL,33142,B,Water &<br>Sewer,CH,,1000.00,,Corcel Corp.
+Bruno Barreiro,44,2015-10-07,C,"Silton Capital, Inc",1662 NE 196 Street,,N. Miami Beach,FL,33179,B,Taxi,CH,,500.00,,"Silton Capital, Inc"
+Bruno Barreiro,45,2015-10-07,C,Susan  Fried,1875 NE 197th Ter,,N. Miami Beach,FL,33179,I,Gov't<br>Consultant,CH,,1000.00,,Fried
+Bruno Barreiro,46,2015-10-07,C,Mercedes G Arango,4218 SW 9th Street,,Miami,FL,33134,I,Taxi<br>Industry,CH,,500.00,,Arango
+Bruno Barreiro,47,2015-10-07,C,Jerry  Moskowitz,11556 NW 49th CT,,Coral Springs,FL,33076,I,Taxi<br>Industry,CH,,500.00,,Moskowitz
+Bruno Barreiro,48,2015-10-07,C,Manuella  Adrian,300 Bay View Drive,Apt. 1507,Sunny Isles,FL,33160,I,,CH,,100.00,,Adrian
+Bruno Barreiro,49,2015-10-07,C,Jeremma Inc,10101 Collins Avenue,
+Bruno Barreiro,50,2015-10-07,C,Unit Investigation Services,3111 NW 27th Avenue,,Miami,FL,33142,B,Investigation,CH,,850.00,,Unit Investigation Services
+Bruno Barreiro,51,2015-10-07,C,Yoca Communication Services In,3111 NW 27th Avenue,,Miami,FL,33142,B,Communications,CH,,850.00,,Yoca Communication Services In
+Bruno Barreiro,52,2015-10-07,C,Nova Telecommunications Inc,3109 NW 27th Avenue,,Miami,FL,33142,B,Telecommunications,CH,,850.00,,Nova Telecommunications Inc
+Bruno Barreiro,53,2015-10-07,C,"Miami Springs Taxi, Inc",199 NW 79th Street,,Miami,FL,33150,B,Taxi,CH,,125.00,,"Miami Springs Taxi, Inc"
+Bruno Barreiro,54,2015-10-07,C,Miami Dade Taxi Mngmt Corp,199 NW 79th Street,,Miami,FL,33150,B,Taxi,CH,,500.00,,Miami Dade Taxi Mngmt Corp
+Bruno Barreiro,55,2015-10-07,C,Transportation Sunshine Ince,4218 SW 9th Street,,Miami,FL,33134,B,Taxi,CH,,500.00,,Transportation Sunshine Ince
+Bruno Barreiro,56,2015-10-07,C,"USA Taxi, Inc",3620 NW 22 Avenue,,Miami,FL,33142,B,Taxi,CH,,1000.00,,"USA Taxi, Inc"
+Bruno Barreiro,57,2015-10-07,C,South Florida Taxicab Assoc.,P.O. Box 420769,,Miami,FL,33242,B,Taxi,CH,,1000.00,,South Florida Taxicab Assoc.
+Bruno Barreiro,1,2015-10-07,E,Ocean Bank,780 NW 42nd Avenue,,Miami,FL,33126,,,MO,Binder for Checks,45.58,,Ocean Bank
+Bruno Barreiro,58,2015-10-08,C,YEMC Construction & Developmen,14750 SW 26 Street,Suite 102,Miami,FL,33185,B,Construction,CH,,200.00,,YEMC Construction & Developmen
+Bruno Barreiro,60,2015-10-10,C,Shirley Jean Kirkman,12311 SW 39th Terrace,,Miami,FL,33175,I,Taxi<br>Industry,CH,,1000.00,,Kirkman
+Bruno Barreiro,61,2015-10-10,C,Carolyn A. Lakhani,10160 SW 26 Street,,Miami,FL,33165,I,Taxi<br>Industry,CH,,1000.00,,Lakhani
+Bruno Barreiro,62,2015-10-10,C,Computer Auto Sales,3777 NW 36 Street,,Miami,FL,33142,B,Computers,CH,,1000.00,,Computer Auto Sales
+Bruno Barreiro,63,2015-10-10,C,Yellow Cab,3700 NW 36 Street,,Miami,FL,33142,B,Taxi,CH,,1000.00,,Yellow Cab
+Bruno Barreiro,59,2015-10-13,C,Oscar A. Rodriguez,935 C Plat Road,,Youngsville,LA,70592,I,Retired,CH,,150.00,,Rodriguez
+Bruno Barreiro,64,2015-10-13,C,Joseph  Badia,1910 S. Bayshore Lane,,Miami,FL,33133,I,Spices,CH,,1000.00,,Badia
+Bruno Barreiro,65,2015-10-22,C,Metro Ford,9000 NW 7th Avenue,,Miami,FL,33150,B,Auto sales,CH,,100.00,,Metro Ford
+Bruno Barreiro,66,2015-10-27,C,I.P. Management Investment Inc,3650 NW S River Drive,,Miami,FL,33142,B,Investment<br>Company,CH,,1000.00,,I.P. Management Investment Inc
+Bruno Barreiro,67,2015-10-27,C,Jorge  Herrera,6365 Collins Avenue,
+Bruno Barreiro,1,2015-10-28,E,Ocean Bank,780 NW 42nd Avenue,,Miami,FL,33144,,,MO,Check Binder,41.43,A,Ocean Bank
+Bruno Barreiro,1,2015-11-05,C,"Brown Development Group, LLC",5901 SW 74th Street,Suite 403,South Miami,FL,33143,B,Real<br>Estate,CH,,1000.00,,"Brown Development Group, LLC"
+Bruno Barreiro,1,2015-12-22,C,Jacek  Schindler,2901 South Bayshore Dr.,Apt 1C,Miami,FL,33133,I,Architect,CH,,200.00,,Schindler
+Bruno Barreiro,2,2015-12-22,C,"Alberto  Milo, Jr",2100 SW 4th Ave,,Miami,FL,33129,I,Developer,CH,,1000.00,,"Milo, Jr"
+Bruno Barreiro,3,2015-12-22,C,Armando  Carcache,16201 NW 82 Ct,,Miami Lakes,FL,33016,I,Contractor,CH,,1000.00,,Carcache
+Bruno Barreiro,4,2015-12-22,C,Lourdes Maria Carcache,16201 NW 82 Ct,,Miami Lakes,FL,33016,I,Contractor,CH,,1000.00,,Carcache
+Bruno Barreiro,5,2015-12-22,C,Ptolemy Group Inc,12550 Biscayne Blvd,Suite 800,North Miami,FL,33181,B,,CH,,100.00,,Ptolemy Group Inc
+Bruno Barreiro,6,2015-12-22,C,El Centroamericano Restaurant,155 SW 107th Ave,,Miami,FL,33174,B,Restaurant,CH,,200.00,,El Centroamericano Restaurant
+Bruno Barreiro,7,2015-12-22,C,"Alfred G Duran, Attorney",2340 South Dixie Highway,,Miami,FL,33133,B,Law Firm,CH,,100.00,,"Alfred G Duran, Attorney "
+Bruno Barreiro,8,2015-12-22,C,"The A Holding Group, LLC",141 Sevilla Ave,,Coral Gables,FL,33134,B,Marketing,CH,,150.00,,"The A Holding Group, LLC"
+Bruno Barreiro,9,2015-12-22,C,The Urban Dev. Group LLC,2100 SW 4 Ave,,Miami,FL,33129,B,Developer,CH,,1000.00,,The Urban Dev. Group LLC
+Bruno Barreiro,10,2015-12-22,C,Parsons Odebrecht JV,201 Alhambra Circle,Suite 1000,Coral Gables,FL,33134,B,Construction,CH,,1000.00,,Parsons Odebrecht JV
+Bruno Barreiro,11,2015-12-22,C,R.E. Chisholm Architects,4921 SW 74 Court,,Miami,FL,33135,B,Architect<br>Firm,CH,,500.00,,R.E. Chisholm Architects
+Bruno Barreiro,12,2015-12-22,C,"The MVC Group, LLC",13480 SW 34th ST,,Miami,FL,33175,B,Trucking,CH,,300.00,,"The MVC Group, LLC"
+Bruno Barreiro,1,2016-01-19,C,"Arirosy, Inc",20810 SW 234 Street,,Homestead,FL,33031,B,Nursery,CH,,200.00,,"Arirosy, Inc"
+Bruno Barreiro,1,2016-02-10,C,"Genovese Joblove & Battista, P",100 SE Second Street,44th Floor,Miami,FL,33131,B,Law<br>Offices,CH,,1000.00,,"Genovese Joblove & Battista, P"
+Bruno Barreiro,1,2016-03-16,C,Raciel  Leiva,13223 SW 10th Ter,,Miami,FL,33184,I,,CH,,100.00,,Leiva
+Bruno Barreiro,2,2016-03-24,C,Juan Elias Calles,2655 S. LeJeune Road,PH2,Coral Gables,FL,33134,I,Insurance,CH,,150.00,,Calles
+Bruno Barreiro,3,2016-03-28,C,A.  Omar Vento,P.O. Box 440247,,Miami,FL,33144,I,Doctor,CH,,500.00,,Vento
+Bruno Barreiro,2,2016-04-08,E,Apple,1021 Lincoln Road,,Miami Beach,FL,33139,,,MO,Computer,4370.76,,Apple
+Bruno Barreiro,1,2016-04-11,E,Uline Shipping Supply,PO Box 88741,,Chicago,IL,60680-1741,,,MO,Office Supplies,225.43,,Uline Shipping Supply
+Bruno Barreiro,1,2016-05-18,C,Monika H Entin,17466 SW 35th Ct,,Miramar,FL,33029,I,Attorney,CH,,250.00,,Entin
+Bruno Barreiro,2,2016-05-18,C,Michael J Marrero,1795 SW 16th ST,,Miami,FL,33145,I,Attorney,CH,,350.00,,Marrero
+Bruno Barreiro,3,2016-05-18,C,Matthew G Amster,10806 SW 72nd ST,Unit 104,Miami,FL,33173,I,Attorney,CH,,250.00,,Amster
+Bruno Barreiro,4,2016-05-18,C,Melissa T Llahues,3767 Carmen Ct,,Coconut Grove,FL,33133,I,Attorney,CH,,500.00,,Llahues
+Bruno Barreiro,5,2016-05-18,C,Michael E Randell,5999 SW 94th ST,,Miami,FL,33156,I,Attorney,CH,,500.00,,Randell
+Bruno Barreiro,6,2016-05-18,C,Graham Charles Penn,601 S Rainbow Dr.,,Hollywood,FL,33021,I,Attorney,CH,,500.00,,Penn
+Bruno Barreiro,7,2016-05-18,C,Michael W Larkin,20 Island Ave,No. 709,Miami Beach,FL,33139,I,Attorney,CH,,500.00,,Larkin
+Bruno Barreiro,8,2016-05-18,C,Ben J Fernandez,1837 SW 23rd ST,,Miami,FL,33145,I,Attorney,CH,,500.00,,Fernandez
+Bruno Barreiro,9,2016-05-18,C,Jeffrey  Bercow,590 Lakeview Drive,,Miami Beach,FL,33140,I,Attorney,CH,,500.00,,Bercow
+Bruno Barreiro,10,2016-05-18,C,Bercow Radell & Fernandez,200 South Biscayne Blvd,Suite 850,Miami,FL,33131,B,Law Firm,CH,,1000.00,,Bercow Radell & Fernandez
+Bruno Barreiro,11,2016-05-18,C,Fortune Construction Company,315 South Biscayne Blvd.,3rd Floor,Miami,FL,33131,B,Construction<br>Company,CH,,1000.00,,Fortune Construction Company
+Bruno Barreiro,12,2016-05-18,C,"Fortune Urban Construction, LL",315 Biscayne Blvd.,,Miami,FL,33131,B,Construction,CH,,1000.00,,"Fortune Urban Construction, LL"
+Bruno Barreiro,13,2016-05-18,C,"RUDG, LLC",315 South Biscayne Blvd.,3rd Floor,Miami,FL,33131,B,Developer,CH,,1000.00,,"RUDG, LLC"
+Bruno Barreiro,14,2016-05-18,C,"Becai Electric, Inc.",3837 SW 156th Ave,,Miami,FL,33185,B,Electric<br>Company,CH,,1000.00,,"Becai Electric, Inc."
+Bruno Barreiro,15,2016-05-18,C,Maria  Cristina Milo,2100 SW 4th Ave,,Miami,FL,33129,I,Homemaker,CH,,1000.00,,Milo
+Bruno Barreiro,16,2016-05-18,C,Parsons Odebrecht JV,201 Alhambra Circle,Suite 100,Coral Gables,FL,33134,B,Construction,CH,,1000.00,,Parsons Odebrecht JV
+Bruno Barreiro,17,2016-05-18,C,First Florida Building Corp.,1533 Sunset Drive,Suite 150,Miami,FL,33143,B,Construction,CH,,1000.00,,First Florida Building Corp.
+Bruno Barreiro,18,2016-05-18,C,Lewis V Swezy,7735 NW 146 Street,Suite 306,Miami Lakes,FL,33016,I,Real<br>Estate,CH,,1000.00,,Swezy
+Bruno Barreiro,19,2016-05-18,C,Centennial Management Corp,7735 NW 146 Street,Suite 306,Miami Lakes,FL,33016,B,Real<br>Estate<br>Management,CH,,1000.00,,Centennial Management Corp
+Bruno Barreiro,20,2016-05-18,C,"Codina Management, LLC",135 San Lorenzo Ave,Suite 750,Coral Gables,FL,33146,B,RealEstateManagement<br>,CH,,1000.00,,"Codina Management, LLC"
+Bruno Barreiro,21,2016-05-18,C,Ronalee  Galbut,2200 Biscayne Blvd,,Miami,Fl,33137,I,Homemaker,CH,,1000.00,,Galbut
+Bruno Barreiro,22,2016-05-18,C,Russell W Galbut,2200 Biscayne Blvd,,Miami,FL,33137,I,Developer,CH,,1000.00,,Galbut
+Bruno Barreiro,23,2016-05-18,C,Jeffrey L. Berkowitz Trust,2665 S Bayshore Drive,Suite 1200,Coconut Grove,FL,33133,O,Trust,CH,,1000.00,,Jeffrey L. Berkowitz Trust
+Bruno Barreiro,24,2016-05-18,C,"Berkowitz Realty Group, Inc",2665 South Bayshore Drive,Suite 1200,Coconut Grove,FL,33133,B,Real<br>Estate,CH,,1000.00,,"Berkowitz Realty Group, Inc"
+Bruno Barreiro,25,2016-05-18,C,"Aventura Commons, Inc.",2665 South Bayshore Drive,Suite 1200,Coconut Grove,FL,33133,B,Real<br>Estate,CH,,1000.00,,"Aventura Commons, Inc."
+Bruno Barreiro,26,2016-05-18,C,"Dadeland Depot, Inc.",2665 South Bayshore Drive,Suite 1200,Coconut Grove,FL,33133,B,Real<br>Estate,CH,,1000.00,,"Dadeland Depot, Inc."
+Bruno Barreiro,27,2016-05-18,C,"Gables Station, LLC",2665 South Bayshore Drive,Suite 1200,Coconut Grove,FL,33133,B,Real<br>Estate,CH,,1000.00,,"Gables Station, LLC"
+Bruno Barreiro,28,2016-05-18,C,"Richard A Berkowitz, JD CPA",19910 NE 19th Ct,,North Miami Beach,FL,33179,I,CPA,CH,,500.00,,"Berkowitz, JD CPA"
+Bruno Barreiro,29,2016-05-18,C,"Floridian Partners, LLC.",108 S Monroe Street,,Tallahassee,FL,32301,B,Government<br>Consulting,CH,,1000.00,,"Floridian Partners, LLC."
+Bruno Barreiro,30,2016-05-18,C,"HNTB Holdings LTD, PAC",715 Kirk Drive,,Kansas City,MO,64105,O,PAC,CH,,1000.00,,"HNTB Holdings LTD, PAC"
+Bruno Barreiro,31,2016-05-18,C,Ramsey  Villalon,7501 Miller Dr,,Miami,FL,33155,I,baggage<br>wrap,CH,,1000.00,,Villalon
+Bruno Barreiro,32,2016-05-18,C,Erundina  Pena,3430 SW 90th Ave,,Miami,FL,33165,I,Retired,CH,,1000.00,,Pena
+Bruno Barreiro,33,2016-05-18,C,Jacqueline  Valdespino,6944 SW 63rd Ave,,South Miami,FL,33143,I,Attorney,CH,,1000.00,,Valdespino
+Bruno Barreiro,34,2016-05-18,C,Frances  Villalon,8881 SW 28th St,,Miami,FL,33165,I,Human<br>Resources,CH,,1000.00,,Villalon
+Bruno Barreiro,35,2016-05-18,C,Minet M Villalon,10245 Collins Ave,Apt 7F,Bal Harbour,FL,33154,I,Office<br>Manager,CH,,1000.00,,Villalon
+Bruno Barreiro,36,2016-05-18,C,Radames  Villalon,10245 Collins Ave,Apt 7F,Bal Harbour,FL,33154,I,Baggage<br>Wrap,CH,,1000.00,,Villalon
+Bruno Barreiro,37,2016-05-18,C,"American Shuttle, Inc.",2766 NW 62nd Street,,Miami,FL,33147,B,Transportation,CH,,1000.00,,"American Shuttle, Inc."
+Bruno Barreiro,38,2016-05-18,C,Medical Care Transportation,2766 NW 62nd Street,,Miami,FL,33147,B,Medical<br>Trans.,CH,,1000.00,,Medical Care Transportation
+Bruno Barreiro,39,2016-05-18,C,"MCT Express, Inc.",2766 NW 62nd Street,,Miami,FL,33147,B,Transportation,CH,,1000.00,,"MCT Express, Inc."
+Bruno Barreiro,40,2016-05-18,C,"8900 Coral Way, LLC",2766 NW 62nd Street,,Miami,FL,33147,B,Transportation,CH,,1000.00,,"8900 Coral Way, LLC"
+Bruno Barreiro,41,2016-05-18,C,"8080 West Flagler, Inc.",2766 NW 62nd Street,,Miami,FL,33147,B,Transportation,CH,,1000.00,,"8080 West Flagler, Inc."
+Bruno Barreiro,42,2016-05-18,C,Local Home Builders PAC,2600 Centennial Place,,Tallahassee,FL,32308,O,PAC,CH,,1000.00,,Local Home Builders PAC
+Bruno Barreiro,43,2016-05-18,C,Ronald Book Gov Consultants LL,18851 NE 29th Ave,Suite 1010,Aventura,FL,33180,B,Consultant<br>Firm,CH,,1000.00,,Ronald Book Gov Consultants LL
+Bruno Barreiro,44,2016-05-18,C,"Ronald Book, PA",18851 NE 29th Ave,Suite 1010,Aventura,FL,33180,B,Law Firm,CH,,1000.00,,"Ronald Book, PA"
+Bruno Barreiro,45,2016-05-18,C,Paul Steven Singerman,4901 Lakeview Drive,,Miami Beach,FL,33140,I,Attorney,CH,,250.00,,Singerman
+Bruno Barreiro,46,2016-05-18,C,Javier L Vazquez,16110 W Prestwick Place,,Miami Lakes,FL,33014,I,Attorney,CH,,250.00,,Vazquez
+Bruno Barreiro,47,2016-05-18,C,Samuel E Poole,702 N Rio Vista Blvd.,,Ft. Lauderdale,FL,33301,I,Attorney,CH,,100.00,,Poole
+Bruno Barreiro,48,2016-05-18,C,"Etan  Mark, PA",1450 Brickell Ave,Suite 1900,Miami,FL,33131,I,Attorney,CH,,100.00,,"Mark, PA"
+Bruno Barreiro,49,2016-05-18,C,"James C Cunningham, Jr",1450 Brickell Ave,Suite 1900,Miami,FL,33131,I,Attorney,CH,,150.00,,"Cunningham, Jr"
+Bruno Barreiro,50,2016-05-18,C,"Jordi  Guso, PA",5782 SW 50th ST,,Miami,FL,33155,I,Attorney,CH,,100.00,,"Guso, PA"
+Bruno Barreiro,51,2016-05-18,C,Palmcorp Development Group LLC,4904 SW 72nd Ave,,Miami,FL,33155,B,Real<br>Estate,CH,,1000.00,,Palmcorp Development Group LLC
+Bruno Barreiro,52,2016-05-18,C,"1401 Professional Center, LLC",6201 SW 70th ST,2nd Floor,Miami,FL,33143,B,Real<br>Estate,CH,,1000.00,,"1401 Professional Center, LLC"
+Bruno Barreiro,53,2016-05-18,C,"6201 of Miami, LLC",6201 SW 70th ST,2nd Floor,Miami,FL,33143,B,Real<br>Estate,CH,,1000.00,,"6201 of Miami, LLC"
+Bruno Barreiro,54,2016-05-18,C,"EAC Consulting, Inc.",815 NW 57th Ave,Suite 402,Miami,FL,33126,B,Consulting<br>Firm,CH,,1000.00,,"EAC Consulting, Inc."
+Bruno Barreiro,55,2016-05-18,C,Rodtell Hospitality Services,7365 SW 105th Place,,Miami,FL,33173,B,Hosp.<br>Services,CH,,500.00,,Rodtell Hospitality Services
+Bruno Barreiro,56,2016-05-18,C,Western Hemisphere Strategies,999 Ponce De Leon Blvd,Suite 520,Coral Gables,FL,33134,B,Consulting<br>,CH,,1000.00,,Western Hemisphere Strategies
+Bruno Barreiro,2,2016-05-18,E,Best Buy,1131 5th ST,,Miami Beach,FL,33139,,,MO,Office Supplies - Square card reader,85.58,,Best Buy
+Bruno Barreiro,57,2016-05-23,C,Alexia Astrid Echevarria,1175 North Shore Drive,,Miami Beach,FL,33141,I,Fashion<br>Editor,CH,,500.00,,Echevarria
+Bruno Barreiro,58,2016-05-23,C,"MAC Event Productions, LLC",3400 SW 27th Ave,Suite 1404,Miami,FL,33133,B,Event<br>Productions,CH,,1000.00,,"MAC Event Productions, LLC"
+Bruno Barreiro,59,2016-05-23,C,Pedro R Pelaez,6955 NW 77th Ave,
+Bruno Barreiro,60,2016-05-23,C,Communitel Baggage Services,6955 NW 77th Ave,Suite 204,Miami,FL,33166,B,Airport<br>baggage<br>svc,CH,,1000.00,,Communitel Baggage Services
+Bruno Barreiro,61,2016-05-23,C,"Communitel, Inc.",6955 NW 77th Ave,Suite 204,Miami,FL,33166,B,Financing<br>Communications,CH,,1000.00,,"Communitel, Inc."
+Bruno Barreiro,62,2016-05-23,C,International Management Cons.,PO Box 310999,,Miami,FL,33231,B,Business<br>Consultant<br>,CH,,1000.00,,International Management Cons.
+Bruno Barreiro,63,2016-05-23,C,D R International Consultants,848 Brickell Ave,
+Bruno Barreiro,64,2016-05-23,C,Herman  Echevarria,1175 North Shore Drive,,Miami Beach,FL,33141,I,Advertising,CH,,1000.00,,Echevarria
+Bruno Barreiro,65,2016-05-23,C,D.R. International Distributor,848 Brickell Ave,4th Floor,Miami,FL,33131,B,Business<br>Consultant,CH,,1000.00,,D.R. International Distributor
+Bruno Barreiro,66,2016-05-23,C,James L. Berger,1409 Ponce de Leon Dr,,Ft. Lauderdale,FL,33316,I,Attorney,CH,,250.00,,Berger
+Bruno Barreiro,67,2016-05-23,C,Bibiana  Murgado,7855 SW 83rd Ct,,Miami,FL,33143,I,Homemaker,CH,,1000.00,,Murgado
+Bruno Barreiro,68,2016-05-23,C,Brickell Motors,665 SW 8th St,,Miami,FL,33130,B,Auto<br>Dealership,CH,,1000.00,,Brickell Motors
+Bruno Barreiro,69,2016-05-23,C,Americas Export Corporation,One N Clematis St,Suite 100,West Palm Beach,FL,33401,B,Export,CH,,1000.00,,Americas Export Corporation
+Bruno Barreiro,70,2016-05-23,C,Agro-Industrial Management Inc,One N Clematis St,Suite 100,West Palm Beach,FL,33401,B,Agriculture,CH,,1000.00,,Agro-Industrial Management Inc
+Bruno Barreiro,71,2016-05-23,C,Gazitua Letelier PA,1101 Brickell Ave,South Tower - 8th Floor,Miami,FL,33131,I,Attorney,CH,,1000.00,,Gazitua Letelier PA
+Bruno Barreiro,72,2016-05-23,C,Java & Associates LLC,8101 Coral Way,,Miami,FL,33155,B,Property<br>Management,CH,,500.00,,Java & Associates LLC
+Bruno Barreiro,73,2016-05-23,C,Santa Rosa Insulation & Firepr,6130 NW 74th Ave,,Miami,FL,33166,B,Insulation<br>&<br>Fireproof,CH,,1000.00,,Santa Rosa Insulation & Firepr
+Bruno Barreiro,1,2016-05-23,E,Foods by Edel,16236 SW 97th St,,Miami,FL,33196,,,MO,Catering for event,4032.00,,Foods by Edel
+Bruno Barreiro,74,2016-05-26,C,"Jeffrey L Horstmyer, MD",2150 Coral Way,,Miami,FL,33145,B,Neurologist,CH,,500.00,,"Horstmyer, MD"
+Bruno Barreiro,75,2016-05-26,C,Cesar L Alvarez,333 SE 2nd Ave,44th Floor,Miami,FL,33131,I,Attorney,CH,,1000.00,,Alvarez
+Bruno Barreiro,76,2016-05-26,C,Ramon A Santiago,4030 NW 29th ST,,Miami,FL,33142,I,Management,CH,,1000.00,,Santiago
+Bruno Barreiro,77,2016-05-26,C,Nicholas L Valdespino,2780 SW 88th Ave,,Miami,FL,33165,I,Baggage<br>Wrap,CH,,1000.00,,Valdespino
+Bruno Barreiro,78,2016-05-26,C,Al  Maloof,100 SE 2nd St,FL 44th,Miami,FL,33131,I,Govt.<br>Consultant,CH,,1000.00,,Maloof
+Bruno Barreiro,79,2016-05-26,C,Morrison Brown Argiz & Farra,1450 Brickell Ave,18th Floor,Miami,FL,33131,B,CPA Firm,CH,,500.00,,Morrison Brown Argiz & Farra
+Bruno Barreiro,80,2016-05-26,C,Landmark Development Corp,3050 Biscayne Blvd,Suite 300,Miami,FL,33137,B,Real<br>Estate,CH,,1000.00,,Landmark Development Corp
+Bruno Barreiro,81,2016-05-26,C,Biscayne Holdings Group Inc,9737 NW 41st ST,Suite 135,Doral,FL,33178,B,Real<br>Estate,CH,,1000.00,,Biscayne Holdings Group Inc
+Bruno Barreiro,82,2016-05-26,C,5405 Holdings LLC,10773 NW 58th ST,Suite 376,Doral,FL,33178,B,Real<br>Estate,CH,,1000.00,,5405 Holdings LLC
+Bruno Barreiro,83,2016-05-26,C,"Landmark Companies, Inc.",3050 Biscayne Blvd,Suite 300,Miami,FL,33137,B,Real<br>Estate,CH,,1000.00,,"Landmark Companies, Inc."
+Bruno Barreiro,84,2016-05-31,C,Ignacio G Zulueta,6457 Sunset Drive,,Miami,FL,33143,I,Attorney,CH,,1000.00,,Zulueta
+Bruno Barreiro,85,2016-05-31,C,Fernando J Zulueta,1220 Alfonso Ave,,Coral Gables,FL,33146,I,Academic<br>President,CH,,1000.00,,Zulueta
+Bruno Barreiro,86,2016-05-31,C,School Development HC Finance,6340 Sunset Drive,,Miami,FL,33143,B,Real<br>Estate,CH,,1000.00,,School Development HC Finance
+Bruno Barreiro,87,2016-05-31,C,Eric  Zichella,2635 Tigertail Ave,,Coconut Grove,FL,33133,I,Gov.<br>Consultant,CH,,1000.00,,Zichella
+Bruno Barreiro,88,2016-05-31,C,Amy Sayfie Zichella,2635 Tigertail Ave,,Coconut Grove,FL,33133,I,School<br>Administrator,CH,,1000.00,,Zichella
+Bruno Barreiro,89,2016-05-31,C,"P3 Management NA, LLC",2929 SW 3rd Ave,Suite 212,Miami,FL,33129,B,Public<br>Affairs<br>Firm,CH,,1000.00,,"P3 Management NA, LLC"
+Bruno Barreiro,90,2016-05-31,C,"LCN, Inc DBA Consolidated Park",1501 NW 29th St,,Miami,FL,33142,B,Parking<br>Equipment,CH,,1000.00,,"LCN, Inc DBA Consolidated Park"
