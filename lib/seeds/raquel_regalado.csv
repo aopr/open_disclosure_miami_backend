@@ -1,0 +1,1364 @@
+rpt code,line number,item date,Cont/Exp,name,address 1,address 2,city,state,zip,cont. type,occupation,item type,description,amount,Amend. code,lastname
+Raquel Regalado,1,2015-03-12,C,Tomas P Regalado,2424 SW 20th Street,,Miami,FL,33145,I,City of<br>Miami<br>Mayor,CH,,250.00,,Regalado
+Raquel Regalado,7,2015-03-20,C,Braman Hyundai,2060 Biscayne Blvd,,Miami,FL,33137,B,Auto<br>Dealer,CH,,1000.00,,Braman Hyundai
+Raquel Regalado,6,2015-03-20,C,"Braman Auto, Inc.",2060 Biscayne Blvd,,Miami,FL,33137,B,Auto<br>Dealer,CH,,1000.00,,"Braman Auto, Inc."
+Raquel Regalado,5,2015-03-20,C,Braman Cadillac Inc.,2060 Biscayne Blvd,,Miami,FL,33137,B,Auto<br>Dealer,CH,,1000.00,,Braman Cadillac Inc.
+Raquel Regalado,4,2015-03-20,C,Irma  Braman,2060 Biscayne Blvd,,Miami,FL,33137,I,Homemaker,CH,,1000.00,,Braman
+Raquel Regalado,3,2015-03-20,C,Norman  Braman,2060 Biscayne Blvd,,Miami,FL,33137,I,Auto<br>Dealer,CH,,1000.00,,Braman
+Raquel Regalado,2,2015-03-20,C,Declaration  Fourth Amended & Restated,2060 Biscayne Blvd,2nd Floor,Miami,FL,33137,B,Real<br>Estate,CH,,1000.00,,Fourth Amended & Restated
+Raquel Regalado,8,2015-03-20,C,Braman Motors,2060 Biscayne Blvd,,Miami,FL,33137,B,Auto<br>Dealer,CH,,1000.00,,Braman Motors
+Raquel Regalado,9,2015-03-20,C,Braman Real Estate Associates,2060 Biscayne Blvd,,Miami,FL,33137,B,Real<br>Estate,CH,,1000.00,,Braman Real Estate Associates
+Raquel Regalado,10,2015-03-20,C,Braman Honda,7000 Coral Way,,Miami,FL,33155,B,Auto Deler,CH,,1000.00,,Braman Honda
+Raquel Regalado,11,2015-03-20,C,"NAB, LLC",2060 Biscayne Blvd,2nd Floor,Miami,FL,33137,B,Invetments,CH,,1000.00,,"NAB, LLC"
+Raquel Regalado,12,2015-03-20,C,State Assoc. LLC  Braman-Leibowitz Florida Real,2060 Biscayne Blvd,,Miami,FL,33137,B,Real<br>Estate,CH,,1000.00,,Braman-Leibowitz Florida Real
+Raquel Regalado,13,2015-03-28,C,Margarita  Lozano,4693 SW 160th Place,,Miami,FL,33185,I,,CH,,10.00,,Lozano
+Raquel Regalado,14,2015-03-28,C,Alba  Y Ibarguren,3300 SW 160th Place,,Miami,FL,33185,I,,CH,,10.00,,Ibarguren
+Raquel Regalado,15,2015-03-28,C,Alejandro L Canas,3831 SW 153rd Court,,Miami,FL,33185,I,,CH,,10.00,,Canas
+Raquel Regalado,16,2015-03-28,C,Jacinto  Ramos,6070 West 15th Court,,Hialeah,FL,33012,I,,CH,,10.00,,Ramos
+Raquel Regalado,17,2015-03-28,C,Asbert  Cruz Jr.,3300 SW 95th Court,,Miami,FL,33165,I,,CH,,10.00,,Cruz Jr.
+Raquel Regalado,18,2015-03-28,C,Ismenia  Gomez,2537 SW 21st Street,,Miami,FL,33145,I,,CH,,15.00,,Gomez
+Raquel Regalado,19,2015-03-28,C,Jenny C Guzman,2401 NW 10th Avenue,Apt 108,Miami,FL,33127,I,,CH,,20.00,,Guzman
+Raquel Regalado,20,2015-03-28,C,Carlos  J Arboleya Sr.,1941 SW 23rd Street,,Miami,FL,33145,I,,CH,,30.00,,Arboleya Sr.
+Raquel Regalado,21,2015-03-28,C,Oscar  Brito,320 SW 23rd Road,,Miami,FL,33129,I,,CH,,50.00,,Brito
+Raquel Regalado,22,2015-03-28,C,Gonzalo Martin Brito,2950 SW 3rd Avenue,,Miami,FL,33129,I,,CH,,50.00,,Brito
+Raquel Regalado,23,2015-03-28,C,Juan M Gutierrez,565 SW 62nd Court,,Miami,FL,33144,I,,CH,,100.00,,Gutierrez
+Raquel Regalado,24,2015-03-28,C,Isis  Perez,827 SW 8th Street,,Miami,FL,33130,I,,CH,,100.00,,Perez
+Raquel Regalado,25,2015-03-28,C,Lulian  Linares,1717 N Bayshore Drive,,Miami,FL,33132,I,Int'l RE<br>-Consultant,CH,,1000.00,,Linares
+Raquel Regalado,26,2015-03-28,C,Maria Teresa De La Torre,1717 N Bayshore Dri,No 2556,Miami,FL,33132,I,Cultural<br>Project-Manager,CH,-,1000.00,,De La Torre
+Raquel Regalado,27,2015-03-28,C,"Sacha Enterprisees, Inc.",1717 N Bayshore Drive,Suite 2556,Miami,FL,33132,B,Marketing,CH,,1000.00,,"Sacha Enterprisees, Inc."
+Raquel Regalado,28,2015-03-28,C,Pedro  Gonzalez,8970 West Flagler Street,Apt 201,Miami,FL,33174,I,,CH,,10.00,,Gonzalez
+Raquel Regalado,29,2015-03-28,C,Rebecca  Cobo,6 Aster Terrace,,Key West,FL,33040,I,,CH,,20.00,,Cobo
+Raquel Regalado,30,2015-03-28,C,Roberto  Fernandez,3981 SW 5th Terrace,,Miami,FL,33134,I,,CH,,25.00,,Fernandez
+Raquel Regalado,31,2015-03-28,C,Hugh Albert Ryan,1320 SW 13th Avenue,,Miami,FL,33145,I,,CH,,25.00,,Ryan
+Raquel Regalado,32,2015-03-28,C,Janet C Sancho,4795 NW 99th Place,,Doral,FL,33178,I,,CH,,50.00,,Sancho
+Raquel Regalado,33,2015-03-28,C,Luis  Arias,11600 NW 34th Street,,Doral,FL,33178,I,Prepaid<br>merchant-Services,CH,,100.00,,Arias
+Raquel Regalado,34,2015-03-28,C,"Keys Armored Express, Inc.",1517 Dennis Street,,Key West,FL,33040,B,Armored<br>Car<br>Services,CH,,100.00,,"Keys Armored Express, Inc."
+Raquel Regalado,35,2015-03-28,C,"Terracon Group, Inc.",5601 SW 8th Street,,Miami,FL,33134,B,General<br>Contractor,CH,,500.00,,"Terracon Group, Inc."
+Raquel Regalado,36,2015-03-28,C,Hector  Guzman,2931 NW 14th Court,,Miami,FL,33142,I,,CH,,5.00,,Guzman
+Raquel Regalado,37,2015-03-28,C,Hector J Guzman,2929 NW 14th Court,,Miami,FL,33142,I,,CH,,5.00,,Guzman
+Raquel Regalado,38,2015-03-28,C,Maria A Abreu Duran,2931 NW 14th Court,,Miami,FL,33142,I,,CH,,5.00,,Abreu Duran
+Raquel Regalado,39,2015-03-28,C,Olga I Snow,8931 SW 4th Terrace,,Miami,FL,33174,I,,CH,,5.00,,Snow
+Raquel Regalado,40,2015-03-28,C,Edward  Paulino,15745 NW 52nd Avenue,Apt 208,Hialeah,FL,33014,I,,CH,,5.00,,Paulino
+Raquel Regalado,41,2015-03-28,C,Armando J Pelaez,9130 SW 18th Terrace,,Miami,FL,33165,I,,CH,,5.00,,Pelaez
+Raquel Regalado,42,2015-03-28,C,Adain  Sarduy,3051 NW 10th Avenue,,Miami,FL,33127,I,,CH,,5.00,,Sarduy
+Raquel Regalado,43,2015-03-28,C,Jose M Almonte,5890 NW 186th Street,Apt 102,Hialeah,FL,33015,I,,CH,,5.00,,Almonte
+Raquel Regalado,44,2015-03-28,C,Carmen L Martinez,2311 NW 10th Ave,Apt 203,Miami,FL,33127,I,,CH,,5.00,,Martinez
+Raquel Regalado,45,2015-03-28,C,Margarita Lozano PA,4693 SW 60th Place,,Miami,FL,33185,I,,CH,,10.00,,Margarita Lozano PA
+Raquel Regalado,46,2015-03-28,C,Manuel  Diaz,761 SE 4th Place,,Miami,FL,33010,I,,CH,,10.00,,Diaz
+Raquel Regalado,47,2015-03-28,C,Margarita  Lozano,4693 SW 160th Place,,Miami,FL,33185,I,,CH,,10.00,,Lozano
+Raquel Regalado,48,2015-03-28,C,Victor  Soler,118 NW 35th Street,,Miami,FL,33127,I,,CH,,10.00,,Soler
+Raquel Regalado,49,2015-03-28,C,Jaleo Inc.,1717 Bayshore Dr,Suite 1055,Miami,FL,33132,B,Entertainment,CH,,1000.00,,Jaleo Inc.
+Raquel Regalado,122,2015-03-28,C,Elie R Bunassar,801 Brickell Bay Dr,Apt 670,Miami,FL,33131,I,,CH,,5.00,,Bunassar
+Raquel Regalado,50,2015-03-30,C,Xiomara  Del Corral,1281 SW 14th Street,,Miami,FL,33145,I,,CH,,5.00,,Del Corral
+Raquel Regalado,51,2015-03-30,C,Maria Adela Curbelo,8320 SW 32nd Street,,Miami,FL,33155,I,,CH,,5.00,,Curbelo
+Raquel Regalado,52,2015-03-30,C,Domingo  Torres,534 NW 23rd Avenue,,Miami,FL,33125,I,Retired,CH,,100.00,,Torres
+Raquel Regalado,53,2015-03-30,C,Jensen\'s Liquor No 3,2101 NW 17th Avenue,,Miami,FL,33142,B,Liquor<br>Store,CH,,200.00,,Jensen\'s Liquor No 3
+Raquel Regalado,54,2015-03-30,C,"Liquorland, Inc",1646 SW 27th Avenue,,Miami,FL,33145,B,Liquor<br>Store,CH,,200.00,,"Liquorland, Inc"
+Raquel Regalado,55,2015-03-30,C,"Miami Liquors, Inc.",2159 NW 7th Street,,Miami,FL,33125,B,Liquor<br>Store,CH,,200.00,,"Miami Liquors, Inc."
+Raquel Regalado,56,2015-03-30,C,Jensen Liquors,1516 NW 27th Avenue,,Miami,FL,33125,B,Liquor<br>Store,CH,,200.00,,Jensen Liquors
+Raquel Regalado,57,2015-03-30,C,Jose M Del Cueto,2515 SW 7th Street,Suite 1,Miami,FL,33135,I,Real<br>Estate,CH,,500.00,,Del Cueto
+Raquel Regalado,58,2015-03-30,C,"SJK Investment, LLC",951 Brickell Avenue,Suite 1107,Miami,FL,33131,B,Investments,CH,,1000.00,,"SJK Investment, LLC"
+Raquel Regalado,59,2015-03-30,C,Brickell Restaurant,1101 Brickell Ave,48th Floor,Miami,FL,33131,B,Restaurant,CH,,1000.00,,Brickell Restaurant
+Raquel Regalado,60,2015-03-30,C,BNJC LLC,951 Brickell Avenue,Suite 1107,Miami,FL,33131,B,Investments,CH,,1000.00,,BNJC LLC
+Raquel Regalado,61,2015-03-30,C,Baroque Properties LLC,9100 S Dadeland Blvd,Suite901,Miami,FL,33156,B,Real<br>Estate,CH,,1000.00,,Baroque Properties LLC
+Raquel Regalado,62,2015-03-30,C,Julio  Regalado,1730 SW 1st Avenue,,Miami,FL,33129,I,Real<br>Estate,CH,,100.00,,Regalado
+Raquel Regalado,63,2015-03-30,C,Albert P Gordon,1348 SW 13th Street,,Miami,FL,33145,I,Retired,CH,,100.00,,Gordon
+Raquel Regalado,64,2015-03-30,C,Marianela  Perez,3710 NW 1st Street,,Miami,FL,33126,I,Retired,CH,,200.00,,Perez
+Raquel Regalado,65,2015-03-30,C,Joel  Artiles,3094 SW 20th Street,,Miami,FL,33145,I,General<br>Contractor,CH,,200.00,,Artiles
+Raquel Regalado,66,2015-03-30,C,Horacio  Garcia,10050 SW 142nd Street,,Miami,FL,33176,I,Retired,CH,,200.00,,Garcia
+Raquel Regalado,67,2015-03-30,C,Bryna W Kneapler,PO Box
+Raquel Regalado,68,2015-03-30,C,Stephen J Kneapler,PO Box
+Raquel Regalado,69,2015-03-30,C,"Estrella Franchising, Corp",3750 W Flagler Street,,Coral Gables,FL,33134,B,Insurance,CH,,1000.00,,"Estrella Franchising, Corp"
+Raquel Regalado,70,2015-03-30,C,Jose  Antonio Minino Bogaert,1111 Brickell Bay Drive,Suite 908,Miami,FL,33131,I,Cigar Co.<br>Owner,CH,,1000.00,,Minino Bogaert
+Raquel Regalado,71,2015-03-30,C,Arminda M Espinosa,130 SW 32nd Avenue,,Miami,FL,33135,I,Retired,CH,,1000.00,,Espinosa
+Raquel Regalado,72,2015-03-30,C,Idalmis Rosa Teja Gonzalez,2740 W 76th Street,Apt 203,Hialeah,FL,33016,I,Business<br>Administrator,CH,,1000.00,,Teja Gonzalez
+Raquel Regalado,73,2015-03-30,C,Ana M Casas,8708 SW 5th Terrace,,Miami,FL,33174,I,Retired,CH,,1000.00,,Casas
+Raquel Regalado,74,2015-03-30,C,D & V Corp.,1800 Douglas Road,,Coral Gables,FL,33134,B,Developers,CH,,1000.00,,D & V Corp.
+Raquel Regalado,75,2015-03-30,C,SJK Advisors LLC,2550 S Bayshore Drive,,Coconut Grove,FL,33133,B,Restaurant<br>Management,CH,,1000.00,,SJK Advisors LLC
+Raquel Regalado,76,2015-03-30,C,Gloria M. Garces,690 SW 1st Court,Unit 3111,Miami,FL,33130,I,,CH,,15.00,,Garces
+Raquel Regalado,77,2015-03-30,C,Amparo  Montoya,2880 SW 19th Terrace,,Miami,FL,33145,I,,CH,,20.00,,Montoya
+Raquel Regalado,78,2015-03-30,C,Obdulia A Rodriguez,312 NW 9th Avenue,Apt 503,Miami,FL,33128,I,,CH,,20.00,,Rodriguez
+Raquel Regalado,79,2015-03-30,C,Clara  Marrero,312 NW 9th Avenue,Apt 510,Miami,FL,33128,I,,CH,,20.00,,Marrero
+Raquel Regalado,80,2015-03-30,C,Wendy L Sardina,3011 SW 19th Terrace,,Miami,FL,33145,I,,CH,,20.00,,Sardina
+Raquel Regalado,81,2015-03-30,C,Maria A Lima,11751 SW 15th Street,,Miami,FL,33184,I,,CH,,20.00,,Lima
+Raquel Regalado,82,2015-03-30,C,Alexander  Musibay,60 Edge Water Drive,Apt 150,Miami,FL,33132,I,,CH,,20.00,,Musibay
+Raquel Regalado,83,2015-03-30,C,Lidia T Garcia,10050 SW 142nd Street,,Miami,FL,33176,I,,CH,,20.00,,Garcia
+Raquel Regalado,84,2015-03-30,C,Adria  Garcia,10050 SW 142nd Street,,Miami,FL,33176,I,Retired,CH,,20.00,,Garcia
+Raquel Regalado,85,2015-03-30,C,Cludio Delfin Mateos,860 W 33rd Street,,Hialeah,FL,33012,I,,CH,,25.00,,Mateos
+Raquel Regalado,86,2015-03-30,C,Alberto  Hernandez,3003 SW 18th Street,,Miami,FL,33145,I,,CH,,50.00,,Hernandez
+Raquel Regalado,87,2015-03-30,C,Fabiola S Hernandez,3003 SW 18th Street,,Miami,FL,33145,I,,CH,,50.00,,Hernandez
+Raquel Regalado,88,2015-03-30,C,Luis E Albo,235 NW 41st Avenue,,Miami,FL,33126,I,,CH,,50.00,,Albo
+Raquel Regalado,89,2015-03-30,C,Jose  Perez,3710 NW 1st Street,,Miami,FL,33126,I,,CH,,60.00,,Perez
+Raquel Regalado,90,2015-03-30,C,Noemi  Alonso,2016 SW 20th Street,,Miami,FL,33145,I,,CH,,5.00,,Alonso
+Raquel Regalado,91,2015-03-30,C,Adelaida A Curbelo,2016 SW 20th Street,,Miami,FL,33145,I,,CH,,5.00,,Curbelo
+Raquel Regalado,92,2015-03-30,C,Jose M De La Hoz,PO Box
+Raquel Regalado,93,2015-03-30,C,Rosario D Marro,2525 SW 15th Street,,Miami,FL,33145,I,,CH,,10.00,,Marro
+Raquel Regalado,94,2015-03-30,C,Amarilys S Paez,5151 W Flagler Street,Apt 6,Coral Gables,FL,33134,I,,CH,,10.00,,Paez
+Raquel Regalado,95,2015-03-30,C,Vicente R Perez Regidor,5151 W Flagler Street,Apt 6,Miami,FL,33134,I,,CH,,10.00,,Perez Regidor
+Raquel Regalado,96,2015-03-30,C,Orlando  Gutierrez,8567 Coral Way,
+Raquel Regalado,97,2015-03-30,C,JM Precision Grinding Corp,4840 NE 11th Avenue,,Oakland Park,FL,33334,B,,CH,,10.00,,JM Precision Grinding Corp
+Raquel Regalado,98,2015-03-30,C,Monica  Munne,18610 Bobolink Drive,,Hialeah,FL,33015,I,,CH,,10.00,,Munne
+Raquel Regalado,99,2015-03-30,C,T C Morales,1435 NW 34th Avenue,,Miami,FL,33125,I,,CH,,10.00,,Morales
+Raquel Regalado,100,2015-03-30,C,Luis M Zuniga,465 W Park Drive,Apt 9,Miami,FL,33172,I,,CH,,10.00,,Zuniga
+Raquel Regalado,101,2015-03-30,C,Carmelia  Rey,465 W Park Dr,Apt 9,Miami,FL,33172,I,,CH,,10.00,,Rey
+Raquel Regalado,1,2015-03-30,C,T C Morales,1435 NW 34th Avenue,,Miami,FL,33125,I,,CH,,10.00,D,Morales
+Raquel Regalado,2,2015-03-30,C,Teresa C Morales,1435 NW 34th Avenue,,Miami,FL,33125,I,,CH,,10.00,A,Morales
+Raquel Regalado,102,2015-03-31,C,Mary  LaCasa,5690 SW 84th Terrace,,Miami,FL,33143,I,Homemaker,CH,,500.00,,LaCasa
+Raquel Regalado,103,2015-03-31,C,Carlos  A LaCasa,5690 SW 84th Terrace,,Miami,FL,33143,I,Attorney,CH,,500.00,,LaCasa
+Raquel Regalado,104,2015-03-31,C,Carlos  Ferreira de Melo,4779 Collins Avenue,
+Raquel Regalado,105,2015-03-31,C,Laura  Ferreira de Melo,4375 Nautilus Dr,,Miami Beach,FL,33140,I,Real<br>Estate<br>-Investment,CH,,1000.00,,Ferreira de Melo
+Raquel Regalado,106,2015-03-31,C,Jose Luis Ferreira de Melo,4779 Collins Avenue,Apt
+Raquel Regalado,107,2015-03-31,C,Jack J Michel,12605 Biscayne Bay Dr,,N Miami,FL,33181,I,Doctor,CH,,1000.00,,Michel
+Raquel Regalado,108,2015-03-31,C,Martin  Ferreira de Melo,4779 Collins Avenue,Apt 3605,Miami Beach,FL,33140,I,Real<br>Estate-Developer,CH,,1000.00,,Ferreira de Melo
+Raquel Regalado,109,2015-03-31,C,PAH Acquisition Inc.,5996 SW 70th Street,5th Floor,South Miami,FL,33143,B,Medical<br>Products,CH,,1000.00,,PAH Acquisition Inc.
+Raquel Regalado,110,2015-03-31,C,"Bayshore Plaza I, LLC",250 NE 25th Street,,Miami,FL,33137,B,Real<br>Estate,CH,,1000.00,,"Bayshore Plaza I, LLC"
+Raquel Regalado,111,2015-03-31,C,26 Plaza Corp.,250 NE 25th Street,,Miami,FL,33137,B,Real<br>Estate,CH,,1000.00,,26 Plaza Corp.
+Raquel Regalado,112,2015-03-31,C,25 Plaza Corp,250 NE 25th Street,,Miami,FL,33137,B,Real<br>Estate,CH,,1000.00,,25 Plaza Corp
+Raquel Regalado,113,2015-03-31,C,23 Plaza Corp,250 NE 25th Street,,Miami,FL,33137,B,Real<br>Estate,CH,,1000.00,,23 Plaza Corp
+Raquel Regalado,114,2015-03-31,C,27 Plaza Corpl,250 NE 25th Street,,Miami,FL,33137,B,Real<br>Estate,CH,,1000.00,,27 Plaza Corpl
+Raquel Regalado,115,2015-03-31,C,24 Plaza Corp.,250 NE 25th Street,,Miami,FL,33137,B,Real<br>Estate,CH,,1000.00,,24 Plaza Corp.
+Raquel Regalado,116,2015-03-31,C,Trust  Jesus Rene Capo,1260 NW 72nd Avenue,,Miami,FL,33126,I,Trust,CH,,500.00,,Jesus Rene Capo
+Raquel Regalado,117,2015-03-31,C,Trust  Robert Capo,1260 NW 72nd Avenue,,Miami,FL,33126,I,Trust,CH,,500.00,,Robert Capo
+Raquel Regalado,118,2015-03-31,C,Trust  Luis E. Capo,1260 NW 72nd Avenue,,Miami,FL,33126,I,Trust,CH,,500.00,,Luis E. Capo
+Raquel Regalado,119,2015-03-31,C,Trust  Carlos E. Capo,1260 NW 72nd Avenue,,Miami,FL,33126,I,Trust,CH,,500.00,,Carlos E. Capo
+Raquel Regalado,120,2015-03-31,C,Trust  Julio C. Capo,1260 NW 72nd Avenue,,Miami,FL,33126,I,Trust,CH,,500.00,,Julio C. Capo
+Raquel Regalado,121,2015-03-31,C,Trust  Pedro A. Capo,1260 NW 72nd Avenue,,Miami,FL,33126,I,Trust,CH,,500.00,,Pedro A. Capo
+Raquel Regalado,1,2015-04-02,C,Elie R Bunassar,801 Brickell Bay Drive,Apr 670,Miami,FL,33131,I,Returned<br>Check,RE,,-5.00,,Bunassar
+Raquel Regalado,1,2015-04-02,E,City National Bank,8725 NW 18th Terrace,,Miami,FL,33172,,,MO,Bank Service Charge,10.00,,City National Bank
+Raquel Regalado,6,2015-04-03,E,CIty National Bank,8725 NW 18th Terrace,,Miami,FL,33172,,,MO,"Checks,deposit books & stamp",129.45,,CIty National Bank
+Raquel Regalado,2,2015-04-06,C,Margarita  Lozano,4693 SW 160th Place,,Miami,FL,33185,I,Returned<br>Check,RE,,-10.00,,Lozano
+Raquel Regalado,2,2015-04-06,E,City National Bank,8725 NW 18th Terrace,,Miami,FL,33172,,,MO,Bank Service Charge,10.00,,City National Bank
+Raquel Regalado,3,2015-04-06,C,Amarilys S Paez,5151 W Flagler Street,Apt 6,Coral Gables,FL,33134,I,Returned<br>Check,RE,,-10.00,,Paez
+Raquel Regalado,3,2015-04-08,E,City National Bank,8725 NW 18thTerrace,,Miami,FL,33172,,,MO,Bank<br>Service<br>Charge,10.00,,City National Bank
+Raquel Regalado,4,2015-04-13,C,Arturo Jordan PA,255 Alhambra Circle,Suite 500,Coral Gables,FL,33134,B,,CH,,10.00,,Arturo Jordan PA
+Raquel Regalado,5,2015-04-13,C,Best Dental Care Inc.,1673 SW 27th Avenue,,Miami,FL,33145,B,Dental<br>Office,CH,,20.00,,Best Dental Care Inc.
+Raquel Regalado,6,2015-04-13,C,JL Trading,1673 SW 27th Avenue,,Miami,FL,33145,B,,CH,,20.00,,JL Trading
+Raquel Regalado,7,2015-04-13,C,"Descorche, Inc.",1673 SW 27th Avenue,,Miami,FL,33145,B,,CH,,20.00,,"Descorche, Inc."
+Raquel Regalado,8,2015-04-13,C,Cafe Chantilly,12618 SW 8th Street,,Miami,FL,33184,B,,CH,,50.00,,Cafe Chantilly
+Raquel Regalado,9,2015-04-13,C,"La Medalla Jewerly, LLC",827 SW 8th Street,,Miami,FL,33130,B,Jewelry<br>Store,CH,,500.00,,"La Medalla Jewerly, LLC"
+Raquel Regalado,10,2015-04-13,C,"Eduardo Jose Garcia, PA",2950 SW 27th Avenue,Suite 300,Miami,FL,33133,B,Legal<br>Services,CH,,1000.00,,"Eduardo Jose Garcia, PA"
+Raquel Regalado,11,2015-04-13,C,Real Property Title Group LLC,2950 SW 27th Avenue,Suite 300,Miami,FL,33133,B,Title Co.,CH,,1000.00,,Real Property Title Group LLC
+Raquel Regalado,12,2015-04-13,C,"Garcia Five Investments, LLC",2950 SW 27th Avenue,Suite 300,Miami,FL,33133,B,Investments,CH,,1000.00,,"Garcia Five Investments, LLC"
+Raquel Regalado,13,2015-04-13,C,Arminda T Rodriguez,3210 NW 14th Terrace,,Miami,FL,33125,I,,CH,,10.00,,Rodriguez
+Raquel Regalado,14,2015-04-13,C,Mayra  Fernandez,11980 SW 92nd Lane,,Miami,FL,33186,I,,CH,,10.00,,Fernandez
+Raquel Regalado,15,2015-04-13,C,Mayra  Rodriguez,11980 SW 92nd Lane,,Miami,FL,33186,I,,CH,,10.00,,Rodriguez
+Raquel Regalado,16,2015-04-13,C,Edwin  Ricardo,343 Majorca Avenue,Unit 301,Coral Gables,FL,33134,I,,CH,,10.00,,Ricardo
+Raquel Regalado,17,2015-04-13,C,George R Marzouka,2500 SW 21st Street,,Miami,FL,33145,I,,CH,,20.00,,Marzouka
+Raquel Regalado,18,2015-04-13,C,George R Marzouka,2500 SW 21st Street,,Miami,FL,33145,I,,CH,,20.00,,Marzouka
+Raquel Regalado,19,2015-04-13,C,Liz M Viviter,206 NW 33rd Avenue,,Miami,FL,33125,I,,CH,,20.00,,Viviter
+Raquel Regalado,20,2015-04-13,C,Jose  Lopez,2400 SW 27th Avenue,Apt 707,Miami,FL,33145,I,,CH,,20.00,,Lopez
+Raquel Regalado,21,2015-04-13,C,Orlando  Vitier,208 NW 33rd Avenue,,Miami,FL,33125,I,,CH,,20.00,,Vitier
+Raquel Regalado,22,2015-04-13,C,Marisela  Garcia,9123 SW 150th Avenue,,Miami,FL,33196,I,,CH,,20.00,,Garcia
+Raquel Regalado,23,2015-04-13,C,Ana Camila Lopez,2400 SW 27th Avenue,Apt 707,Miami,FL,33145,I,,CH,,20.00,,Lopez
+Raquel Regalado,24,2015-04-13,C,Eduardo Jose Garcia,1250 Anastasia Avenue,,Coral Gables,FL,33134,I,Real<br>Estate,CH,,1000.00,,Garcia
+Raquel Regalado,25,2015-04-13,C,"76 Street, LLC",2950 SW 27th Avenue,,Miami,FL,33133,B,Real<br>Estate,CH,-,1000.00,,"76 Street, LLC"
+Raquel Regalado,26,2015-04-15,C,Nivardo  Diaz,810 SW 173rd Avenue,,Pembroke Pines,FL,33029,I,,CH,,25.00,,Diaz
+Raquel Regalado,27,2015-04-15,C,Mario A Morales,8810 NW 150th Street,,Miami Lakes,FL,33018,I,,CH,,30.00,,Morales
+Raquel Regalado,28,2015-04-15,C,Ariel  Gonzalez,15052 SW 18th Street,,Miramar,FL,33027,I,,CH,,50.00,,Gonzalez
+Raquel Regalado,29,2015-04-15,C,Mario F Diaz,8261 SW 28th Street,,Miami,FL,33155,I,,CH,,50.00,,Diaz
+Raquel Regalado,30,2015-04-15,C,"Empire Enterprises Intl, Inc",7950 NW 53rd Street,Suite 337,Miami,FL,33166,B,,CH,,50.00,,"Empire Enterprises Intl, Inc"
+Raquel Regalado,31,2015-04-15,C,Rafael F Alburquerque,9248 SW 154th PL,,Miami,FL,33196,I,,CH,,50.00,,Alburquerque
+Raquel Regalado,32,2015-04-15,C,Reinaldo D Portal,12001 SW 105th Terrace,,Miami,FL,33186,I,,CH,,50.00,,Portal
+Raquel Regalado,33,2015-04-15,C,Armando A Antelo,13767-2 SW 149th Circle Lane,,Miami,FL,33186,I,,CH,,50.00,,Antelo
+Raquel Regalado,34,2015-04-15,C,Liana M Navarro,1200 Alhambra Circle,,Coral Gables,FL,33134,I,,CH,,50.00,,Navarro
+Raquel Regalado,35,2015-04-15,C,Luis  Medero,230 W San Marino DR,,Miami Beach,FL,33139,I,,CH,,50.00,,Medero
+Raquel Regalado,36,2015-04-15,C,Martina  Ramirez,2331 NW 10th Avenue,Apt 203,Miami,FL,33127,I,,CH,,50.00,,Ramirez
+Raquel Regalado,37,2015-04-15,C,El Paraiso de las Frutas Corp,2303 NW 7th Street,,Miami,FL,33125,B,,CH,,50.00,,El Paraiso de las Frutas Corp
+Raquel Regalado,38,2015-04-15,C,"Zap Investment, Inc.",310 NW 63rd Avenue,,Miami,FL,33126,B,Real<br>Estate<br>-Investment,CH,,50.00,,"Zap Investment, Inc."
+Raquel Regalado,39,2015-04-15,C,Star Towing,3110 Palm Avenue,,Hialeah,FL,33012,B,Towing<br>Services,CH,,50.00,,Star Towing
+Raquel Regalado,40,2015-04-15,C,Ruth  Castellanos,1855 NW 15th Ave,Apt 1707,Miami,FL,33125,I,,CH,,5.00,,Castellanos
+Raquel Regalado,41,2015-04-15,C,Josefa D Acosta,2331 NW 10th Ave,Apt 303,Miami,FL,33127,I,,CH,,5.00,,Acosta
+Raquel Regalado,42,2015-04-15,C,Marisol L Pichardo Rincon,2431 NW 10th Ave,Apt 304,Miami,FL,33127,I,,CH,,5.00,,Pichardo Rincon
+Raquel Regalado,43,2015-04-15,C,Boris E Abreu,2411 NW 10th Ave,Apt 306,Miami,FL,33127,I,,CH,,5.00,,Abreu
+Raquel Regalado,44,2015-04-15,C,Martha E Aguiar,1311 NW 29th Ave,,Miami,FL,33125,I,,CH,,5.00,,Aguiar
+Raquel Regalado,45,2015-04-15,C,Martha A Aguiar,1311 NW 29th Ave,,Miami,FL,33125,I,,CH,,5.00,,Aguiar
+Raquel Regalado,46,2015-04-15,C,Pilar  Armenteros,4170 SW 4th Street,,Miami,FL,33134,I,,CH,,5.00,,Armenteros
+Raquel Regalado,47,2015-04-15,C,Ivelisse  Pantaleon,1580 Biarritz DR,,Miami Beach,FL,33141,I,,CH,,10.00,,Pantaleon
+Raquel Regalado,48,2015-04-15,C,Michael  Gonzalez,1845 SW 7th Street,Apt 6,Miami,FL,33135,I,,CH,,10.00,,Gonzalez
+Raquel Regalado,49,2015-04-15,C,Marcelo  Rosario,2321 NW 10th Ave,Apt 201,Miami,FL,33127,I,,CH,,10.00,,Rosario
+Raquel Regalado,50,2015-04-15,C,Miguel Y Tirado,3881 W Flagler St,Apt 129,Miami,FL,33134,I,,CH,,10.00,,Tirado
+Raquel Regalado,51,2015-04-15,C,Haydee  Garcia,4050 SW 4th Street,,Miami,FL,33134,I,,CH,,10.00,,Garcia
+Raquel Regalado,52,2015-04-15,C,Luis E Domenech,3881 W Flagler St,Apt 207,Coral Gables,FL,33134,I,,CH,,10.00,,Domenech
+Raquel Regalado,53,2015-04-15,C,Nieves  Cerver,3881 W Flagler St,Apt 321,Coral Gables,FL,33134,I,,CH,,10.00,,Cerver
+Raquel Regalado,54,2015-04-15,C,Gerardo  Sanchez,3881 W Flalger St,Apt 311,Coral Gables,FL,33134,I,,CH,,10.00,,Sanchez
+Raquel Regalado,55,2015-04-15,C,Arnulfo S Garcia,940 NW 44th Ave,Apt 212,Miami,FL,33126,I,,CH,,15.00,,Garcia
+Raquel Regalado,56,2015-04-15,C,Nelson Marine Services & Parts,572 NW 74th Ave,,Miami,FL,33126,B,Marine<br>Services,CH,,20.00,,Nelson Marine Services & Parts
+Raquel Regalado,57,2015-04-15,C,Xiomara  Ramirez,13852 SW 13th Street,,Miami,FL,33184,I,,CH,,20.00,,Ramirez
+Raquel Regalado,58,2015-04-15,C,Orlando  Noesi,2613 NW 10th Ave,Apt 106,Miami,FL,33127,I,,CH,,20.00,,Noesi
+Raquel Regalado,59,2015-04-15,C,Javier  Lopez Pod,2421 NW 10th Ave,Apt 307,Miami,FL,33127,I,,CH,,20.00,,Lopez Pod
+Raquel Regalado,60,2015-04-15,C,Matilde  Sierra,3881 W Flagler St,Apt 233,Miami,FL,33134,I,,CH,,20.00,,Sierra
+Raquel Regalado,61,2015-04-15,C,Zoila  Carreno,3881 W Flagler St,Apt 220,Miami,FL,33134,I,,CH,,20.00,,Carreno
+Raquel Regalado,62,2015-04-15,C,Enna D Zayas-Bazan,3881 W Flagler St,Apt 131,Coral Gables,FL,33134,I,,CH,,20.00,,Zayas-Bazan
+Raquel Regalado,63,2015-04-15,C,Maritza  Marquez,3881 W Flagler St,Apt 114,Miami,FL,33134,I,,CH,,20.00,,Marquez
+Raquel Regalado,64,2015-04-15,C,Mary  Wilford,3881 W Flagler St,Apt 232,Miami,FL,33134,I,,CH,,20.00,,Wilford
+Raquel Regalado,65,2015-04-15,C,Jenny  Aranda,3881 W Flagler St,Apt 230,Miami,FL,33134,I,,CH,,20.00,,Aranda
+Raquel Regalado,66,2015-04-15,C,Sergio  De La Fe Sr.,14819 NW 88th Ave,,Hialeah,FL,33018,I,,CH,,25.00,,De La Fe Sr.
+Raquel Regalado,67,2015-04-15,C,Hector  Rodriguez,10900 SW 47th Terrace,,Miami,FL,33165,I,,CH,,25.00,,Rodriguez
+Raquel Regalado,68,2015-04-15,C,Diana Bakery,2328 NW 7th Street,,Miami,FL,33125,B,Bakery,CH,,200.00,,Diana Bakery
+Raquel Regalado,69,2015-04-15,C,Jenny  Aranda,3881 West Flagler St,Unit 230,Miami,FL,33134,I,Retired,CH,,279.00,,Aranda
+Raquel Regalado,70,2015-04-15,C,Jorge  Gonzalez,11529 SW 5th Street,,Miami,FL,33174,I,,CH,,50.00,,Gonzalez
+Raquel Regalado,71,2015-04-15,C,Auto Expo Inc,4020 E 8th St,,Hialeah,FL,33013,B,Auto Sales,CH,,50.00,,Auto Expo Inc
+Raquel Regalado,72,2015-04-15,C,Elvira  Rodriguez,544 NW 23rd Ave,,Miami,FL,33125,I,,CH,,50.00,,Rodriguez
+Raquel Regalado,73,2015-04-15,C,Jose  Savedra,2317 NW 7th Street,,Miami,FL,33125,I,,CH,,50.00,,Savedra
+Raquel Regalado,74,2015-04-15,C,Infinity Sound Production Inc,1707 NW 79th Ave,,Doral,FL,33129,B,Sound<br>Production,CH,,50.00,,Infinity Sound Production Inc
+Raquel Regalado,75,2015-04-15,C,Cuban Shopping Center,1060 East 33rd Street,,Hialeah,FL,33013,B,Shopping<br>Center,CH,,200.00,,Cuban Shopping Center
+Raquel Regalado,4,2015-04-22,E,Rodriguez Trueba & Co. CPA,1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1000.00,,Rodriguez Trueba & Co. CPA
+Raquel Regalado,76,2015-04-22,C,Hyala  Herrera Estrada,3110 SW 19th Street,,Miami,FL,33145,I,,CH,,3.00,,Herrera Estrada
+Raquel Regalado,77,2015-04-22,C,Luis E Albo,235 NW 41st Ave,,Miami,FL,33126,I,,CH,,20.00,,Albo
+Raquel Regalado,78,2015-04-22,C,Liliana  Beatriz Vertiz,28466 SW 130th Ave,,Homestead,FL,33033,I,,CH,,20.00,,Vertiz
+Raquel Regalado,79,2015-04-22,C,Marie  Sanjurjo,16815 SW 84th Court,,Palmetto Bay,FL,33157,I,,CH,,20.00,,Sanjurjo
+Raquel Regalado,80,2015-04-22,C,Francisco J Diaz Pou,2257 SW 21st Street,,Miami,FL,33145,I,,CH,,20.00,,Diaz Pou
+Raquel Regalado,81,2015-04-22,C,Jose Juan Collado,3021 SW 102nd Ave,,Miami,FL,33165,I,,CH,,20.00,,Collado
+Raquel Regalado,82,2015-04-22,C,Adela C Collado,3021 SW 102nd Ave,,Miami,FL,33165,I,,CH,,20.00,,Collado
+Raquel Regalado,83,2015-04-22,C,Elena H Bergamo,5980 SW 63rd Court,,South Miami,FL,33143,I,,CH,,20.00,,Bergamo
+Raquel Regalado,84,2015-04-22,C,Marcos A Ramos,2765 SW 32nd Ct,,Miami,FL,33133,I,,CH,,20.00,,Ramos
+Raquel Regalado,85,2015-04-22,C,Maria O Diaz Pou,2257 SW 21st Street,,Miami,FL,33145,I,,CH,,20.00,,Diaz Pou
+Raquel Regalado,86,2015-04-22,C,Mendezation Food Technologies,15401 NE 21st Ave,,North Miami Beach,FL,33162,B,,CH,,50.00,,Mendezation Food Technologies
+Raquel Regalado,87,2015-04-22,C,Luis  Rodriguez,6988 SW 47th Street,,Miami,FL,33155,I,Retired,CH,,200.00,,Rodriguez
+Raquel Regalado,88,2015-04-22,C,Maria  Molina,1425 NW 27th St,,Miami,FL,33131,I,,CH,,10.00,,Molina
+Raquel Regalado,89,2015-04-22,C,Mirta  Aguedo,18360 Mediterranea Blvd,
+Raquel Regalado,90,2015-04-22,C,Hilda Margarita Garcia,761 SE 4th Place,,Hialeah,FL,33010,I,,CH,,10.00,,Garcia
+Raquel Regalado,91,2015-04-22,C,Victor  Soler,118 NW 35th St,,Miami,FL,33127,I,,CH,,10.00,,Soler
+Raquel Regalado,92,2015-04-22,C,Mario de Jesus  Alonso,5871 Coral Way,,Miami,FL,33155,I,,CH,,10.00,,Alonso
+Raquel Regalado,93,2015-04-22,C,Fricot  Benoit,12450 NW 5th Ave,,North Miami,FL,33168,I,,CH,,10.00,,Benoit
+Raquel Regalado,94,2015-04-22,C,Juan Gualberto Fernandez,9715 Fountainbleau,Apt E-307,Miami,FL,33172,I,,CH,,10.00,,Fernandez
+Raquel Regalado,95,2015-04-22,C,Alexis  Suarez Perdomo,2787 NW 30th Street,,Miami,FL,33142,I,,CH,,10.00,,Suarez Perdomo
+Raquel Regalado,96,2015-04-22,C,Luis F Martinez,6743 Brookline Dr,,Hialeah,FL,33015,I,,CH,,10.00,,Martinez
+Raquel Regalado,97,2015-04-22,C,Carmen D Laurencio Martinez,6743 Brookline Dr,,Hialeah,FL,33015,I,,CH,,10.00,,Laurencio Martinez
+Raquel Regalado,98,2015-04-22,C,Mario  Alonso,5871 Coral Way,,Miami,FL,33155,I,,CH,,15.00,,Alonso
+Raquel Regalado,99,2015-04-22,C,Bonifacio F Alonso,3165 SW 4th St,,Miami,FL,33135,I,,CH,,15.00,,Alonso
+Raquel Regalado,100,2015-04-22,C,Yaima  Reinaldo,7525 W 11th Court,Apt 213,Hialeah,FL,33014,I,,CH,,3.00,,Reinaldo
+Raquel Regalado,101,2015-04-22,C,Dania  Rodriguez,3691 SW 5th Terrace,Apt 301,Miami,FL,33135,I,,CH,,3.00,,Rodriguez
+Raquel Regalado,102,2015-04-22,C,Luis A Blanco,1720 NW N River Drive,Apt 213,Miami,FL,33135,I,,CH,,3.00,,Blanco
+Raquel Regalado,103,2015-04-22,C,Carlos N Pena,670 NW 6th St,Apt 308,Miami,FL,33136,I,,CH,,3.00,,Pena
+Raquel Regalado,104,2015-04-22,C,Sixto  Burgos de Leon,3000 NW 3rd Ave,Apt 101,Miami,FL,33127,I,,CH,,5.00,,Burgos de Leon
+Raquel Regalado,105,2015-04-22,C,Frank  Mesa,1100 SW 36th Ct,Apt 19,Miami,FL,33135,I,,CH,,5.00,,Mesa
+Raquel Regalado,106,2015-04-22,C,Jorge  Valladares,3149 NW 100th St,,Miami,FL,33147,I,,CH,,5.00,,Valladares
+Raquel Regalado,107,2015-04-22,C,Beatriz E Cuba,14221 SW 88th St,Apt C406,Miami,FL,33186,I,,CH,,5.00,,Cuba
+Raquel Regalado,108,2015-04-22,C,Gabriel S Lecoultre,677 NE 24th St,Apt 506,Miami,FL,33137,I,,CH,,5.00,,Lecoultre
+Raquel Regalado,109,2015-04-22,C,Mabel  Ginorio,3149 NW 100th St,,Miami,FL,33147,I,,CH,,5.00,,Ginorio
+Raquel Regalado,110,2015-04-22,C,Sofia A Giron,2411 NW 10th Ave,Apt 204,Miami,FL,33127,I,,CH,,10.00,,Giron
+Raquel Regalado,111,2015-04-22,C,Juan  Quesada,3040 NW 2nd Ave,,Miami,FL,33127,I,,CH,,10.00,,Quesada
+Raquel Regalado,112,2015-04-22,C,Agustino  Manon,1629 NW 14th St,Apt 103,Miami,FL,33125,I,,CH,,10.00,,Manon
+Raquel Regalado,5,2015-04-29,E,PayPal,2211 North 1st Street,,San Jose,CA,95131,,,MO,Service Charge,1.91,,PayPal
+Raquel Regalado,113,2015-04-29,C,Julia  Prida,5100 West Flagler Street,,Miami,FL,33134,I,,CH,,5.00,,Prida
+Raquel Regalado,114,2015-04-29,C,Vapor Passion Corp.,14234 SW 8th Street,,Miami,FL,33184,B,Electronic<br>Vaporizer,CH,,5.00,,Vapor Passion Corp.
+Raquel Regalado,115,2015-04-29,C,All Florida Insurance Agency,1368 NW 36th Street,,Miami,FL,33142,B,Insurance<br>Agency,CH,,50.00,,All Florida Insurance Agency
+Raquel Regalado,116,2015-04-29,C,JM Private Insurance Agency,PO Box
+Raquel Regalado,117,2015-04-29,C,Casablanca Seafood Bar & Grill,400 NW North River Dr,,Miami,FL,33128,B,Restaurant,CH,,1000.00,,Casablanca Seafood Bar & Grill
+Raquel Regalado,118,2015-04-29,C,Susana  Mata,260 NW 50th Street,,Miami,FL,33127,I,,CH,,5.00,,Mata
+Raquel Regalado,119,2015-04-29,C,Juan  Martinez,22 NW 31st Street,,Miami,FL,33127,I,,CH,,10.00,,Martinez
+Raquel Regalado,120,2015-04-29,C,Luis  Diaz,3002 NW 31st Street,,Miami,FL,33127,I,,CH,,10.00,,Diaz
+Raquel Regalado,121,2015-04-29,C,Ermita  Gomez,912 SW 139th Court,,Miami,FL,33184,I,,CH,,10.00,,Gomez
+Raquel Regalado,122,2015-04-29,C,Ermita  Gomez,912 SW 139th Court,,Miami,FL,33184,I,,CH,,10.00,,Gomez
+Raquel Regalado,123,2015-04-29,C,Angel A Almaguer,14081 SW 8th Ter,,Miami,FL,33184,I,,CH,,10.00,,Almaguer
+Raquel Regalado,124,2015-04-29,C,Maria Elena Muniz,13350 SW 58th Terrace,Unit 9,Miami,FL,33183,I,,CH,,10.00,,Muniz
+Raquel Regalado,125,2015-04-29,C,Juana  Garcia,902 SW 140th Avenue,,Miami,FL,33184,I,,CH,,10.00,,Garcia
+Raquel Regalado,126,2015-04-29,C,Agustin  Robaina,251 SW 63rd Court,,Miami,FL,33144,I,,CH,,10.00,,Robaina
+Raquel Regalado,127,2015-04-29,C,Claro  Velazquez,115 NW 64th Court,,Miami,FL,33126,I,,CH,,10.00,,Velazquez
+Raquel Regalado,128,2015-04-29,C,Jorge  Portuondo,124 NW 15th Avenue,,Miami,FL,33125,I,,CH,,10.00,,Portuondo
+Raquel Regalado,129,2015-04-29,C,Agustin  Robina,251 SW 63rd Court,,Miami,FL,33144,I,,CH,,10.00,,Robina
+Raquel Regalado,130,2015-04-29,C,Florentino  Padilla,1919 NW 15th Avenue,Apt 908,Miami,FL,33125,I,,CH,,10.00,,Padilla
+Raquel Regalado,131,2015-04-29,C,Vilma N Lagos,1919 NW 15th Avenue,Apt 906,Miami,FL,33125,I,,CH,,10.00,,Lagos
+Raquel Regalado,132,2015-04-29,C,Maria Luisa Pastor,3543 SW 13th Terrace,,Miami,FL,33145,I,,CH,,10.00,,Pastor
+Raquel Regalado,133,2015-04-29,C,Jorge  Sanchez,8520 NW 139th Terrace,Apt 1609,Miami Lakes,FL,33016,I,,CH,,10.00,,Sanchez
+Raquel Regalado,134,2015-04-29,C,Joaquin  Ramos,640 SW 62nd Avenue,,Miami,FL,33144,I,,CH,,10.00,,Ramos
+Raquel Regalado,135,2015-04-29,C,Felix O Martinez,590 NW 124th Street,,North Miami,FL,33168,I,,CH,,15.00,,Martinez
+Raquel Regalado,136,2015-04-29,C,Ileana  C Jimenez,906 SW 140th Avenue,,Miami,FL,33184,I,,CH,,15.00,,Jimenez
+Raquel Regalado,137,2015-04-29,C,Lorenzo  Garmendia,910 SW 140th Avenue,,Miami,FL,33184,I,,CH,,20.00,,Garmendia
+Raquel Regalado,138,2015-04-29,C,Manuel  Medina,13700 SW 62nd Street,Apt 106,Miami,FL,33183,I,,CH,,20.00,,Medina
+Raquel Regalado,139,2015-04-29,C,Fidel  Borges,10601 NW 105th Way,Lot 733,Medley,FL,33178,I,,CH,,25.00,,Borges
+Raquel Regalado,140,2015-04-29,C,Virginia  Alvarez,10291 SW 5th Street,,Miami,FL,33174,I,,CH,,25.00,,Alvarez
+Raquel Regalado,141,2015-04-29,C,Jose N Rivero,1535 Cantoria Avenue,,Coral Gables,FL,33146,I,Retired,CH,,150.00,,Rivero
+Raquel Regalado,142,2015-04-29,C,Juan Carlos Arriola,9357 SW 77th Avenue,Apt 705,Miami,FL,33156,I,,CH,,25.00,,Arriola
+Raquel Regalado,143,2015-04-29,C,Lilliam  Olivares-Valdivia,2326 SW 24th Avenue,,Miami,FL,33145,I,,CH,,20.00,,Olivares-Valdivia
+Raquel Regalado,144,2015-04-30,C,Longia Masonica  Francisco V Aguilera Corp.,600 W 29th Street,,Hialeah,FL,33010,B,,CH,,25.00,,Francisco V Aguilera Corp.
+Raquel Regalado,145,2015-04-30,C,Angel  Dib,3659 SW 148th Place,,Miami,FL,33185,I,,CH,,25.00,,Dib
+Raquel Regalado,146,2015-04-30,C,Orlando Dimas Tamayo,1736 SW 14th Street,,Miami,FL,33145,I,,CH,,100.00,,Tamayo
+Raquel Regalado,147,2015-04-30,C,National Business Accounting,2828 Coral Way,Suite 300,Miami,FL,33145,B,Accounting<br>Firm,CH,,500.00,,National Business Accounting
+Raquel Regalado,148,2015-04-30,C,Ralph H Bodden,PO Box
+Raquel Regalado,149,2015-04-30,C,Carlos A Llado,6120 SW 25th Street,,Miami,FL,33155,I,Developer,CH,,1000.00,,Llado
+Raquel Regalado,150,2015-04-30,C,Thomas G Cesta,9925 NW 52nd Terrace,,Doral,FL,33178,I,Accountant,CH,,1000.00,,Cesta
+Raquel Regalado,151,2015-04-30,C,Douglas E Ramberg,3590 Coral Way,Apt 911,Miami,FL,33145,I,Controller<br> -DeveloperCo,CH,,1000.00,,Ramberg
+Raquel Regalado,152,2015-04-30,C,Mirna Mina Arteaga,6120 SW 25th Street,,Miami,FL,33155,I,Teacher,CH,,1000.00,,Arteaga
+Raquel Regalado,153,2015-04-30,C,David A Abarca,15705 Indian Queen Dr,,Odessa,FL,33556,I,Realtor,CH,,1000.00,,Abarca
+Raquel Regalado,154,2015-04-30,C,Juan Carlos Santos,3255 SW 59th Avenue,,Miami,FL,33155,I,Accountant,CH,,1000.00,,Santos
+Raquel Regalado,155,2015-04-30,C,PM Food Management Corp.,2828 Coral Way,Suite 500,Miami,FL,33145,B,Food<br>Management,CH,,1000.00,,PM Food Management Corp.
+Raquel Regalado,156,2015-04-30,C,Fausto Alvarez PA,2828 Coral Way,Suite 300,Miami,FL,33145,B,Accounting<br>Firm,CH,,1000.00,,Fausto Alvarez PA
+Raquel Regalado,157,2015-04-30,C,Leonardo  Garcia-Acanda,1444 SW 5th Street,Apt 17,Miami,FL,33135,I,,CH,,10.00,,Garcia-Acanda
+Raquel Regalado,158,2015-04-30,C,Yuliet  Martinez Miranda,11840 SW 5th Street,,Miami,FL,33184,I,,CH,,10.00,,Martinez Miranda
+Raquel Regalado,159,2015-04-30,C,Candido R Gonzalez,21 NW 49th Avenue,,Miami,FL,33126,I,,CH,,10.00,,Gonzalez
+Raquel Regalado,160,2015-04-30,C,Georgi  Gonzalez,634 W 29th Street,Apt 4,Hialeah,FL,33012,I,,CH,,10.00,,Gonzalez
+Raquel Regalado,161,2015-04-30,C,Geidy  Beauballet,634 W 29th Street,Apt 4,Hialeah,FL,33012,I,,CH,,10.00,,Beauballet
+Raquel Regalado,162,2015-04-30,C,Lourdes M Moscoso,10091 SW 223rd Street,,Cutler Bay,FL,33190,I,,CH,,10.00,,Moscoso
+Raquel Regalado,163,2015-04-30,C,Nieves  Tamayo La O,10091 SW 223rd Street,,Cutler Bay,FL,33190,I,,CH,,10.00,,Tamayo La O
+Raquel Regalado,164,2015-04-30,C,Marcheco  Veloz,1753 SW 6th Street,Apt 5,Miami,FL,33135,I,,CH,,10.00,,Veloz
+Raquel Regalado,165,2015-04-30,C,Borges Professional Painting,11840 SW 5th Street,,Miami,FL,33184,B,Painting<br>Contractor,CH,,10.00,,Borges Professional Painting
+Raquel Regalado,166,2015-04-30,C,Aida  Policard,1753 SW 6th Street,Apt 5,Miami,FL,33135,I,,CH,,10.00,,Policard
+Raquel Regalado,167,2015-04-30,C,Maria  Gonzalez,1301 NE 191st Street,Apt 115,Miami,FL,33179,I,,CH,,15.00,,Gonzalez
+Raquel Regalado,168,2015-04-30,C,Diana C Fernandez,PO Box
+Raquel Regalado,169,2015-04-30,C,Noemi  Arteaga,6817 SW 13th Street,,Miami,FL,33144,I,Retired,CH,,1000.00,,Arteaga
+Raquel Regalado,170,2015-04-30,C,Pablo  Arteaga,6120 SW 25th Street,,Miami,FL,33155,I,Realtor,CH,,1000.00,,Arteaga
+Raquel Regalado,171,2015-04-30,C,Gabriel  Garcia Rodriguez,8000 SW 149th Avenue,Apt A305,Miami,FL,33193,I,,CH,,5.00,,Garcia Rodriguez
+Raquel Regalado,172,2015-04-30,C,Eduardo  Lopez,210 W 68th Street,Apt 104,Hialeah,FL,33014,I,,CH,,5.00,,Lopez
+Raquel Regalado,173,2015-04-30,C,Ernesto  Rodriguez,13920 SW 93rd Lane,,Miami,FL,33186,I,,CH,,5.00,,Rodriguez
+Raquel Regalado,174,2015-04-30,C,Rosa L Roca,900 SW 30th Avenue,Apt 2,Miami,FL,33135,I,,CH,,5.00,,Roca
+Raquel Regalado,175,2015-04-30,C,Belkis B De La Noval,8350 SW 41st Terrace,,Miami,FL,33155,I,,CH,,8.00,,De La Noval
+Raquel Regalado,176,2015-04-30,C,Wendy  Roca Moreno,803 NW 133rd Court,,Miami,FL,33182,I,,CH,,5.00,,Roca Moreno
+Raquel Regalado,177,2015-04-30,C,Cristina  Villate,829 NW 23rd Avenue,,Miami,FL,33125,I,,CH,,5.00,,Villate
+Raquel Regalado,178,2015-04-30,C,Mileny  Requejo Lopez,1640 SW 4th Street,Apt 1,Miami,FL,3135,I,,CH,,5.00,,Requejo Lopez
+Raquel Regalado,179,2015-04-30,C,Nisme DeJesus Ruiz,10292 NW 9th Street Cir,Apt 205,Miami,FL,33172,I,,CH,,10.00,,Ruiz
+Raquel Regalado,180,2015-04-30,C,Alberto  Hernandez Martinez,3297 W 14th Lane,,Hialeah,FL,33012,I,,CH,,10.00,,Hernandez Martinez
+Raquel Regalado,181,2015-04-30,C,Lucia  Gonzalez Valdes,922 SW 30th Avenue,Apt 1,Miami,FL,33135,I,,CH,,10.00,,Gonzalez Valdes
+Raquel Regalado,182,2015-04-30,C,Noval Air Conditioning Inc.,8350 SW 41st Terrace,,Miami,FL,33155,B,A/C<br>Contractor,CH,,8.00,,Noval Air Conditioning Inc.
+Raquel Regalado,183,2015-04-30,C,Roland Sanchez-Medina Jr PA,201 Alhambra Circle,Suite 1205,Coral Gables,FL,33134,B,Law Firm,CH,,1000.00,,Roland Sanchez-Medina Jr PA
+Raquel Regalado,184,2015-04-30,C,"Jennie S. Malloy, PL",2800 SW 3rd Avenue,,Miami,FL,33129,B,Law Firm,CH,,1000.00,,"Jennie S. Malloy, PL"
+Raquel Regalado,185,2015-04-30,C,Luis Jose Perez Gutierrez,6030 W 22nd Court,Apt 102,Hialeah,FL,33016,I,,CH,,3.00,,Perez Gutierrez
+Raquel Regalado,186,2015-04-30,C,Jenny Maria Campos,1011 NW 47th Terrace,,Miami,FL,33127,I,,CH,,3.00,,Campos
+Raquel Regalado,187,2015-04-30,C,Nayla  Cuesta,5005 Collins Avenue,Apt 1023,Miami Beach,FL,33140,I,,CH,,3.00,,Cuesta
+Raquel Regalado,188,2015-04-30,C,Ofelia  Cruz,6895 SW 37th Street,,Miami,FL,33155,I,,CH,,3.00,,Cruz
+Raquel Regalado,189,2015-04-30,C,Maria  Sanchez,6880 SW 37th Street,,Miami,FL,33155,I,,CH,,3.00,,Sanchez
+Raquel Regalado,190,2015-04-30,C,Loreta B Sanchez,6880 SW 37th Street,,Miami,FL,33155,I,,CH,,3.00,,Sanchez
+Raquel Regalado,191,2015-04-30,C,Jonniel  Ramos-Rodriguez,561 NW 6th Street,Apt 201,Miami,FL,33136,I,,CH,,3.00,,Ramos-Rodriguez
+Raquel Regalado,192,2015-04-30,C,Greter  Monzon,6580 W 13th Court,,Hialeah,FL,33012,I,,CH,,3.00,,Monzon
+Raquel Regalado,193,2015-04-30,C,Felix  Marquez Sigler,905 SW 1st Street,Apt 213,Miami,FL,33130,I,,CH,,5.00,,Marquez Sigler
+Raquel Regalado,194,2015-04-30,C,Lourdes M Rodriguez-Restrepo,6326 SW 10th Terrace,,Miami,FL,33144,I,,CH,,5.00,,Rodriguez-Restrepo
+Raquel Regalado,195,2015-04-30,C,Jose R Miranda,12390 NE 2nd Court,,Miami,FL,33161,I,,CH,,5.00,,Miranda
+Raquel Regalado,196,2015-04-30,C,Yordanys  Ortiz Placeres,1945 NW 2nd Street,,Miami,FL,33125,I,,CH,,5.00,,Ortiz Placeres
+Raquel Regalado,197,2015-04-30,C,Clarice D Abrante,6435 SW 46th Terrace,,Miami,FL,33155,I,Chef,CH,,1000.00,,Abrante
+Raquel Regalado,198,2015-04-30,C,Maria  Roca,831 NW 23rd Avenue,,Miami,FL,33125,I,,CH,,20.00,,Roca
+Raquel Regalado,199,2015-04-30,C,Raymond J Zomerfeld PA CPA,999 POnce de Leon Blvd,Suite 1045,Coral Gables,FL,33134,B,CPA Firm,CH,,100.00,,Raymond J Zomerfeld PA CPA
+Raquel Regalado,200,2015-04-30,C,Lagos & Priovolos PLLC,66 W Flagler Street,Suite 1000,Miami,FL,33130,B,Law Firm,CH,,250.00,,Lagos & Priovolos PLLC
+Raquel Regalado,201,2015-04-30,C,"Easy Awnings Systems, Inc.",3480 NW 21st Street,,Miami,FL,33142,B,Awnings<br>Sales,CH,,1000.00,,"Easy Awnings Systems, Inc."
+Raquel Regalado,202,2015-04-30,C,Wilma Schumann Skin Care Produ,4850 SW 72nd Avenue,,Miami,FL,33155,B,Skin Care<br>Products,CH,,150.00,,Wilma Schumann Skin Care Produ
+Raquel Regalado,203,2015-04-30,C,"John Cyril Malloy III, P.L.",2800 SW 3rd Avenue,,Miami,FL,33129,B,Law Firm,CH,,1000.00,,"John Cyril Malloy III, P.L."
+Raquel Regalado,204,2015-04-30,C,"Loren S Granoff, PA",2300 Coral Way,Suite 100,Miami,FL,33145,B,Law Firm,CH,,1000.00,,"Loren S Granoff, PA"
+Raquel Regalado,205,2015-04-30,C,"Malloy & Malloy, PL",2800 SW 3rd Avenue,,Miami,FL,33129,B,Law Firm,CH,,1000.00,,"Malloy & Malloy, PL"
+Raquel Regalado,206,2015-04-30,C,Aristo Investors LLC,3135 SW 3rd Avenue,,Miami,FL,33129,B,Real<br>Estate<br>-Investment,CH,,1000.00,,Aristo Investors LLC
+Raquel Regalado,207,2015-04-30,C,Cedric  D Alexander,1901 Brickell Ave,Unit B1213,Miami,FL,33129,I,,CH,,50.00,,Alexander
+Raquel Regalado,208,2015-04-30,C,Ruben  Perez Sanchez,5943 SW 135th Terrace,,Miami,FL,33156,I,,CH,,100.00,,Perez Sanchez
+Raquel Regalado,209,2015-04-30,C,John  Fulton Jr,7751 NE Bayshore Court,2-C,Miami,FL,33138,I,Attorney,CH,,100.00,,Fulton Jr
+Raquel Regalado,210,2015-04-30,C,Meredith Frank Mendez,1413 Sunset Harbour Dr,
+Raquel Regalado,211,2015-04-30,C,Bradley R Smith,5161 Collins Avenue,Apt 715,Miami Beach,FL,33140,I,Pharma<br>Nktc V.P,CH,,100.00,,Smith
+Raquel Regalado,212,2015-04-30,C,Pendray Financial Advisory Inc,10 Aragon Avenue,
+Raquel Regalado,213,2015-04-30,C,Linda M Russell,13055 Sw 60th Avenue,,Miami,FL,33156,I,Attorney,CH,,100.00,,Russell
+Raquel Regalado,214,2015-04-30,C,River Blues Inc.,34 W San Marino Dr,,Miami Beach,FL,33139,B,Real<br>Estate-Investments,CH,,500.00,,River Blues Inc.
+Raquel Regalado,215,2015-04-30,C,Peter A Matos P.L.,1465 Cleyland Rd,,Miami Beach,FL,33141,B,Law Firm,CH,,1000.00,,Peter A Matos P.L.
+Raquel Regalado,216,2015-04-30,C,"Chuculu, LLC",9455 SW 78th Street,,Miami,FL,33173,B,Energy Co,CH,,1000.00,,"Chuculu, LLC"
+Raquel Regalado,217,2015-04-30,C,Pablo  Arteaga Sr,6817 SW 13th Street,,Miami,FL,33144,I,Retired,CH,,1000.00,,Arteaga Sr
+Raquel Regalado,1,2015-05-08,C,Josefina  Ventura,2760 Brickell Ct,,Miami,FL,33129,I,Engineer,CH,,100.00,,Ventura
+Raquel Regalado,2,2015-05-08,C,Dance Tech Studios Miami 2 Inc,1333 Coral Way,Suite 100,Miami,FL,33145,B,Dance<br>Studio,CH,,100.00,,Dance Tech Studios Miami 2 Inc
+Raquel Regalado,3,2015-05-08,C,David  Van Sky,7510 Center Bay Dr,,North Bay Village,FL,33141,I,Banker,CH,,100.00,,Van Sky
+Raquel Regalado,4,2015-05-08,C,Adib E Chartouni,800 Lake Road,,Miami,FL,33137,I,Retired,CH,,200.00,,Chartouni
+Raquel Regalado,5,2015-05-08,C,Jose E Estrell,315 Woodcrest Road,,Key Biscayne,FL,33149,I,Ins<br>Underwriter-Agent,CH,,250.00,,Estrell
+Raquel Regalado,6,2015-05-08,C,"Accurate Group, LLC",8300 W Flagler Street,Suite 114,Miami,FL,33144,B,Insurance,CH,,250.00,,"Accurate Group, LLC"
+Raquel Regalado,7,2015-05-08,C,Abdo K Mazloum,640 Sabal Palm Rd,,Miami,FL,33137,I,Jewler,CH,,500.00,,Mazloum
+Raquel Regalado,8,2015-05-08,C,Feras  Ahmad,18051 Biscayne Blvd,PH4,Aventura,FL,33160,I,Ice Cream<br>Store<br>Owner,CH,,500.00,,Ahmad
+Raquel Regalado,9,2015-05-08,C,Aimee  Mazloum,640 Sabal Palm Rd,,Miami,FL,33137,I,Jewler,CH,,500.00,,Mazloum
+Raquel Regalado,10,2015-05-08,C,Miami Beach Coins & Jewlery,36 NE 1st Street,
+Raquel Regalado,11,2015-05-08,C,Newton Y  Nig,141 Crandon Blvd,
+Raquel Regalado,12,2015-05-08,C,Ponte Vicchio Time Inc.,169 E Flagler St,
+Raquel Regalado,13,2015-05-08,C,Traffic Ticket Office Inc.,720 NW 163rd St,,Miami,FL,33156,B,Legal<br>traffic<br>Services,CH,,500.00,,Traffic Ticket Office Inc.
+Raquel Regalado,14,2015-05-08,C,Michael I Rose,150 W Flagler St,,Miami,FL,33130,I,Attorney,CH,,500.00,,Rose
+Raquel Regalado,15,2015-05-08,C,Time Boutique Jewelers Inc.,24 NE 1st Street,,Miami,FL,33132,B,Jewelry<br>Store,CH,,1000.00,,Time Boutique Jewelers Inc.
+Raquel Regalado,1,2015-05-11,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1500.00,,"Rodriguez Trueba & Co, CPA"
+Raquel Regalado,16,2015-05-12,C,Georgi  Gonzalez,634 W 29th Street,Apr 4,Hialeah,FL,33012,I,Returned<br>Check,RE,,-10.00,,Gonzalez
+Raquel Regalado,17,2015-05-12,C,Victor A Rodriguez,6901 SW 147th Ave,Apt 2C,Miami,FL,33193,I,,CH,,15.00,,Rodriguez
+Raquel Regalado,18,2015-05-12,C,Aidant Professional Services,11620 SW 98 Ave,,Miami,FL,33176,B,,CH,,15.00,,Aidant Professional Services
+Raquel Regalado,19,2015-05-12,C,"CCC 11, LLC",1491 NE 148th Street,,Miami,FL,33161,B,,CH,,20.00,,"CCC 11, LLC"
+Raquel Regalado,20,2015-05-12,C,A Anthony  Noboa,9104 SW 65th Street,,Miami,FL,33173,I,,CH,,25.00,,Noboa
+Raquel Regalado,21,2015-05-12,C,Osvaldo J Rubi,8615 NW 169th Terrace,,Miami Lakes,FL,33016,I,,CH,,25.00,,Rubi
+Raquel Regalado,22,2015-05-12,C,Angel A Curbelo,14255 SW 39th Street,,Miami,FL,33175,I,,CH,,25.00,,Curbelo
+Raquel Regalado,23,2015-05-12,C,Franklin R Abbott,6821 SW 147th Ave,Apt 4F,Miami,FL,33193,I,,CH,,25.00,,Abbott
+Raquel Regalado,24,2015-05-12,C,Marilyn L Rodriguez,9715 NW 27th Terrace,,Miami,FL,33172,I,,CH,,25.00,,Rodriguez
+Raquel Regalado,25,2015-05-12,C,Mario  Mesa,11385 SW 57th Terrace,,Miami,FL,33173,I,,CH,,50.00,,Mesa
+Raquel Regalado,26,2015-05-12,C,Chantell P Berfanger,585 105th Ave N,,Naples,FL,34108,I,,CH,,50.00,,Berfanger
+Raquel Regalado,27,2015-05-12,C,Marisela  Rubio,805 NW 164th Ave,,Pembroke Pines,FL,33028,I,,CH,,50.00,,Rubio
+Raquel Regalado,28,2015-05-12,C,Jose  Matto,20340 NE 10th Court Rd,,North Miami,FL,33179,I,,CH,,50.00,,Matto
+Raquel Regalado,29,2015-05-12,C,Adys  Rivera,1551 Salvatierra Dr,,Coral Gables,FL,33134,I,,CH,,75.00,,Rivera
+Raquel Regalado,30,2015-05-12,C,West Indies Technologies LLC,600 E Hallandale Beach Blvd,
+Raquel Regalado,31,2015-05-12,C,Bayside Fish Market Bar&Grill,3501 Rickenbacker Causeway,,Miami,FL,33149,B,Restaurant,CH,,1000.00,,Bayside Fish Market Bar&Grill
+Raquel Regalado,2,2015-05-12,E,City National Bank,8725 NW 18th Terrace,,Miami,FL,33172,,,MO,Bank Charge,10.00,,City National Bank
+Raquel Regalado,32,2015-05-18,C,Juan C De Ona,2901 SW 117th Court,,Miami,FL,33175,I,Mortgage<br>Broker,CH,,500.00,,De Ona
+Raquel Regalado,33,2015-05-18,C,Ramon  Riera,13300 Old Cutler Rd,,Miami,FL,33156,I,Healthcare,CH,,100.00,,Riera
+Raquel Regalado,34,2015-05-18,C,"Ysha Arteaga, PA",8260 SW 105th Street,,Miami,FL,33156,I,Real<br>Estate,CH,,100.00,,"Ysha Arteaga, PA"
+Raquel Regalado,35,2015-05-18,C,Advanced Marketing Systems II,140 S DIxie Hwy,Apt 901,Hollywood,FL,33020,B,Marketing,CH,,1000.00,,Advanced Marketing Systems II
+Raquel Regalado,36,2015-05-18,C,"ACRX, LLC",4905 34th Street,Suite 144,St Petersburg,FL,33711,B,Real<br>Estate<br>Holdings,CH,,1000.00,,"ACRX, LLC"
+Raquel Regalado,37,2015-05-18,C,La Ley con John H Ruiz PA,5000 SW 75th Avenue,Suite 400,Miami,FL,33155,B,Law Firm,CH,,1000.00,,La Ley con John H Ruiz PA
+Raquel Regalado,38,2015-05-18,C,"MSP Recovery, LLC",5000 SW 75th Avenue,
+Raquel Regalado,39,2015-05-18,C,"TFG Group, LLC",2550 S Bayshore Dr,Suite 2,Miami,FL,33133,B,Aviation,CH,,1000.00,,"TFG Group, LLC"
+Raquel Regalado,40,2015-05-18,C,"FYI Aerostore, LLC",2550 S Bayshore Dr,Suite 2,Miami,FL,33133,B,Aircraft<br>parts,CH,,1000.00,,"FYI Aerostore, LLC"
+Raquel Regalado,41,2015-05-18,C,MYI International LLC,2550 S Bayshore Dr,Suite 2,Miami,FL,33133,B,Yacht<br>Sales,CH,,1000.00,,MYI International LLC
+Raquel Regalado,42,2015-05-21,C,Iris B Bacels,13400 SW 23rd Street,,Miami,FL,33175,I,,CH,,50.00,,Bacels
+Raquel Regalado,43,2015-05-21,C,Odalis  Adrian,15833 SW 79th Street,,Miami,FL,33193,I,,CH,,50.00,,Adrian
+Raquel Regalado,44,2015-05-21,C,Orlando L Blanco,4529 SW 147th Court,,Miami,FL,33185,I,,CH,,50.00,,Blanco
+Raquel Regalado,45,2015-05-21,C,Jeanne A Becker,7350 SW 89th Street,
+Raquel Regalado,46,2015-05-21,C,Angel A Hernandez,4051 SW 140th Avenue,,Miami,FL,33175,I,,CH,,100.00,,Hernandez
+Raquel Regalado,47,2015-05-21,C,Carmelita  Concepcion,505 NE 30th Street,Apt 202,Miami,FL,33137,I,Insurance<br>Broker,CH,,250.00,,Concepcion
+Raquel Regalado,48,2015-05-21,C,Balbino  Vazquez,1415 Granada Blvd,,Coral Gables,FL,33134,I,Medical<br>Administrator,CH,,350.00,,Vazquez
+Raquel Regalado,49,2015-05-21,C,Rene  Valverde,460 Leucadenda Dr,,Coral Gables,FL,33156,I,Healthcare,CH,,500.00,,Valverde
+Raquel Regalado,50,2015-05-21,C,Luis  Vazquez,4550 Alhambra Circle,,Coral Gables,FL,33146,I,Healthcare,CH,,500.00,,Vazquez
+Raquel Regalado,51,2015-05-21,C,Century Fire Inc Miami,8119 NW 33rd Street,,Doral,FL,33122,B,Fire<br>Equipment<br>Sales,CH,,500.00,,Century Fire Inc Miami
+Raquel Regalado,52,2015-05-21,C,NuSpace Network,40 SW 13th Street,Unit 101,Miami,FL,33130,B,Developer,CH,,500.00,,NuSpace Network
+Raquel Regalado,53,2015-05-21,C,"HSQ Group, Inc.",1489 W Palmetto Park Road,Suite 340,Boca Raton,FL,33486,B,Engineering,CH,,1000.00,,"HSQ Group, Inc."
+Raquel Regalado,54,2015-05-21,C,Jorge  Sanchez Villalba,6415 SW 133rd Court,,Miami,FL,33186,I,,CH,,10.00,,Sanchez Villalba
+Raquel Regalado,55,2015-05-21,C,Ileana  Muxo,11351 NE Miami Gardens Dr,
+Raquel Regalado,56,2015-05-21,C,Jorge  Sanchez Villalba,6415 SW 133rd Court,,Miami,FL,33183,I,,CH,,10.00,,Sanchez Villalba
+Raquel Regalado,57,2015-05-21,C,Jorge  Sanchez Villalba,6415 SW 133rd Court,,Miami,FL,33183,I,,CH,-,10.00,,Sanchez Villalba
+Raquel Regalado,58,2015-05-21,C,Raul R Casas,2046 SW 103rd Ct,,Miami,FL,33165,I,,CH,,10.00,,Casas
+Raquel Regalado,59,2015-05-21,C,Lazaro Eugenio Guerra,10355 SW 40th Street,Apt 527,Miami,FL,33165,I,,CH,,10.00,,Guerra
+Raquel Regalado,60,2015-05-21,C,Hortensia Catalina Guerra,10355 SW 40th Street,
+Raquel Regalado,61,2015-05-21,C,Jose A Reyes,1336 SW 21st Avenue,,Miami,FL,33145,I,,CH,,10.00,,Reyes
+Raquel Regalado,62,2015-05-21,C,Gustavo E Garcia,850 E 12th Place,,Hialeah,FL,33010,I,,CH,,10.00,,Garcia
+Raquel Regalado,63,2015-05-21,C,Haroldo  Hernandez,850 E 12th Place,,Hialeah,FL,33010,I,,CH,,10.00,,Hernandez
+Raquel Regalado,64,2015-05-21,C,Pablo  Palmieri,15398 SW 25th Terrace,,Miami,FL,33185,I,,CH,,10.00,,Palmieri
+Raquel Regalado,65,2015-05-21,C,Rodrigo  Paredes Henriquez,11710 SW 113th Terrace,,Miami,FL,33186,I,,CH,,20.00,,Paredes Henriquez
+Raquel Regalado,66,2015-05-21,C,Miguel A Cabrera,1920 SW 86th Ave,,Miami,FL,33155,I,,CH,,30.00,,Cabrera
+Raquel Regalado,67,2015-05-21,C,The Relocation & Development,4952 NW 7th Avenue,,Miami,FL,33127,B,Construction,CH,,250.00,,The Relocation & Development
+Raquel Regalado,68,2015-05-21,C,Miguel  Montesino,1900 N Bayshore Dr,Apt 3204,Miami,FL,33132,I,,CH,,10.00,,Montesino
+Raquel Regalado,69,2015-05-21,C,Alexandra  Durand Leon,8995 SW 56th Street,,Miami,FL,33165,I,,CH,,10.00,,Durand Leon
+Raquel Regalado,70,2015-05-21,C,Yanil A Echeverria,8701 SW 159th Place,,Miami,FL,33193,I,,CH,,10.00,,Echeverria
+Raquel Regalado,71,2015-05-21,C,Carolina  Toro,10081 NW 51st Lane,,Doral,FL,33178,I,,CH,,10.00,,Toro
+Raquel Regalado,72,2015-05-21,C,Carolyn  Antia Torrez,14396 SW 95th Terrace,,Miami,FL,33186,I,,CH,,10.00,,Antia Torrez
+Raquel Regalado,73,2015-05-21,C,Joany  Masvidal,2430 SW 83rd Court,,Miami,FL,33155,I,,CH,,10.00,,Masvidal
+Raquel Regalado,74,2015-05-21,C,Janet C Sancho,4762 NW 99th Place,,Doral,FL,33178,I,,CH,,10.00,,Sancho
+Raquel Regalado,75,2015-05-21,C,Twins Capital Corporation,7270 NW 12th Street,
+Raquel Regalado,76,2015-05-21,C,Gloria  Borroto,4301 NW 18th Street,Apt 310,Miami,FL,33126,I,,CH,,20.00,,Borroto
+Raquel Regalado,77,2015-05-21,C,Maria  Odio,8430 SW 27th Street,,Miami,FL,33155,I,,CH,,30.00,,Odio
+Raquel Regalado,78,2015-05-21,C,Luis  Lemes,330 SW 27th Ave,Suite 101-102,Miami,FL,33135,I,Doctor,CH,,500.00,,Lemes
+Raquel Regalado,79,2015-05-21,C,Marlene Investment Co.,330 SW 27th Ave,Suite 101-102,Miami,FL,33135,B,Medical<br>Investments,CH,,500.00,,Marlene Investment Co.
+Raquel Regalado,80,2015-05-21,C,Finlay Clinical Laboratory Inc,330 SW 27th Ave,Suite 101-102,Miami,FL,33135,B,Laboratory,CH,,500.00,,Finlay Clinical Laboratory Inc
+Raquel Regalado,81,2015-05-21,C,Martha  Vega,12217 SW 16th Ter,B-105,Miami,FL,33175,I,,CH,,10.00,,Vega
+Raquel Regalado,82,2015-05-21,C,Ramiro  Poza,11602 NW 51st Lane,,Doral,FL,33178,I,,CH,,10.00,,Poza
+Raquel Regalado,83,2015-05-21,C,Gliset  Garrido,5000 NW 78th Ave,Apt 205,Miami,FL,33166,I,,CH,,10.00,,Garrido
+Raquel Regalado,84,2015-05-21,C,Johnny P Sandoval,6190 NW 176rd Street,Apt 622,Hialeah,FL,33015,I,,CH,,10.00,,Sandoval
+Raquel Regalado,85,2015-05-21,C,Gabriela M Zamora,4701 NW 178th Terrace,,Miami Gardens,FL,33055,I,,CH,,10.00,,Zamora
+Raquel Regalado,86,2015-05-21,C,Jose  Peyrellade,12217 SW 16th Terrace,,Miami,FL,33175,I,,CH,,10.00,,Peyrellade
+Raquel Regalado,87,2015-05-21,C,Jose S Escriba,25913 SW 133 PL,,Homestead,FL,33032,I,,CH,,10.00,,Escriba
+Raquel Regalado,88,2015-05-21,C,Ormani  Quinones,10081 NW 51st Lane,,Doral,FL,33178,I,,CH,,10.00,,Quinones
+Raquel Regalado,89,2015-05-21,C,Sylvia Marie Vives-Montano,3141 SW 152nd Court,,Miami,FL,33185,I,,CH,,10.00,,Vives-Montano
+Raquel Regalado,90,2015-05-21,C,Joaquin A Fernandez,1840 SW 92nd PL,,Miami,FL,33165,I,,CH,,10.00,,Fernandez
+Raquel Regalado,91,2015-05-21,C,Jose L Naranjo-Torres,15957 SW 85th Street,,Miami,FL,33193,I,,CH,,10.00,,Naranjo-Torres
+Raquel Regalado,92,2015-05-21,C,Kurt  Diblin,15471 SW 36th Terr,,Miami,FL,33185,I,,CH,,10.00,,Diblin
+Raquel Regalado,93,2015-05-21,C,Social Technology Enterprises,420 W 27th Street,,Hialeah,FL,33010,B,Safety<br>Equipments,CH,,1000.00,,Social Technology Enterprises
+Raquel Regalado,94,2015-05-22,C,Luis  Garcia,950 Brickell Bay Dr,,Miami,FL,33129,I,Engineer,CH,,1000.00,,Garcia
+Raquel Regalado,95,2015-05-22,C,"Power Design, Inc.",11600 9th St North,,St Petersburg,FL,33716,B,Electrical<br>Contractor,CH,,500.00,,"Power Design, Inc."
+Raquel Regalado,3,2015-05-29,E,City National Bank,8725 NW 18th Terrace,,Miami,FL,33172,,,MO,Bank Charge,10.00,,City National Bank
+Raquel Regalado,96,2015-05-29,C,Century Fire Inc Miami,8119 NW 33rd Street,,Doral,FL,33122,I,Returned<br>Check,RE,,-500.00,,Century Fire Inc Miami
+Raquel Regalado,97,2015-05-29,C,Elba  Hernandez,3001 SW 80th Ave,,Miami,FL,33155,I,,CH,,10.00,,Hernandez
+Raquel Regalado,98,2015-05-29,C,Norma  Reyes,620 E 7th Street,,Hialeah,FL,33010,I,,CH,,10.00,,Reyes
+Raquel Regalado,99,2015-05-29,C,Luis M Masson,525 NW 130 St,,North Miami,FL,33168,I,,CH,,10.00,,Masson
+Raquel Regalado,100,2015-05-29,C,Steven Mark Van Fossan,26 Loantaka Lane N,,Morristown,NJ,07960,I,Media<br>Executive,CH,,500.00,,Van Fossan
+Raquel Regalado,101,2015-05-29,C,Olmedo Printing Corp.,710 SW 73rd Court,,Miami,FL,33144,B,Printing,CH,,10.00,,Olmedo Printing Corp.
+Raquel Regalado,102,2015-05-29,C,Heria PA  The Law Office of Raul C De La,2100 Coral Way,Suite 500,Miami,FL,33145,B,Law Firm,CH,,500.00,,The Law Office of Raul C De La
+Raquel Regalado,103,2015-05-29,C,Universe Mechanical & AC Inc.,812 NW 135th Ct,,Miami,FL,33182,B,Mechanical<br>Contractor,CH,,500.00,,Universe Mechanical & AC Inc.
+Raquel Regalado,104,2015-05-29,C,"CB Constructors, Inc.",2251 Blount Road,,Pompano Beach,FL,33069,B,Construction,CH,,500.00,,"CB Constructors, Inc."
+Raquel Regalado,105,2015-05-29,C,Berry L Rush,1604 Thistlewood Dr,,Washington Crossing,PA,18977,I,Media<br>Executive,CH,,500.00,,Rush
+Raquel Regalado,106,2015-05-29,C,M&C Contractors,1424 Collins Ave,,Miami Beach,FL,33139,B,General<br>Contractors,CH,,500.00,,M&C Contractors
+Raquel Regalado,107,2015-05-29,C,Bay  Management Services LLC,2601 Collins Avenue,,Miami Beach,FL,33140,B,Management<br>Services,CH,,500.00,,Bay  Management Services LLC
+Raquel Regalado,108,2015-05-29,C,"Blue Road, LLC",2601 Collins Avenue,,Miami Beach,FL,33140,B,Hotel,CH,,500.00,,"Blue Road, LLC"
+Raquel Regalado,109,2015-05-29,C,New Tradition Outdoor,1407 Broadway,30th Floor,New York,NY,10018,B,Outdoor<br>Media,CH,,1000.00,,New Tradition Outdoor
+Raquel Regalado,110,2015-05-29,C,"New Tradition Media, LLC",36 East 23rd Street,8th Floor,New York,NY,10010,B,Outdoor<br>Media,CH,,1000.00,,"New Tradition Media, LLC"
+Raquel Regalado,111,2015-05-29,C,Mark B Eisenthal,55 Countryside Dr,,Summit,NJ,07901,I,Media<br>Executive,CH,,500.00,,Eisenthal
+Raquel Regalado,112,2015-05-29,C,Jorge I Pedraza,150 Ocean Lane Dr,
+Raquel Regalado,113,2015-05-29,C,Patricia  Zapater,2550 S Bayshore Dr,
+Raquel Regalado,114,2015-05-29,C,Charles A De Lucca,6840 Loch Ness Dr,,Miami Lakes,FL,33014,I,Golf<br>Professional,CH,,1000.00,,De Lucca
+Raquel Regalado,115,2015-05-29,C,Charles  DeLucca III,6840 Queen Palm Terrace,,Miami Lakes,FL,33014,I,Golf<br>Professional,CH,,1000.00,,DeLucca III
+Raquel Regalado,116,2015-05-29,C,Avra  Jain,900 Biscayne Blvd,Apt 1706,Miami,FL,33132,I,Real<br>Estate,CH,,1000.00,,Jain
+Raquel Regalado,117,2015-05-29,C,Joseph A Del Vecchio,152 West 57th St,,New York,NY,10019,I,Developer,CH,,1000.00,,Del Vecchio
+Raquel Regalado,118,2015-05-29,C,Golf Inc.  Charles De Lucca School of,1802 NW 37th Ave,,Miami,FL,33125,B,Golf<br>School,CH,,1000.00,,Charles De Lucca School of
+Raquel Regalado,119,2015-05-29,C,"200 Oasis, LLC",888 Biscayne Blvd,
+Raquel Regalado,120,2015-05-29,C,"6200 Oasis, LLC",888 Biscayne Blvd,
+Raquel Regalado,121,2015-05-29,C,Bunkers Inc.,1802 NW 37th Ave,,Miami,FL,33125,B,Golf Balls<br>Industry,CH,,1000.00,,Bunkers Inc.
+Raquel Regalado,122,2015-05-29,C,RAD Marketing Co.,8305 SW 98th Co.,,Miami,FL,33156,B,Marketing,CH,,1000.00,,RAD Marketing Co.
+Raquel Regalado,123,2015-05-29,C,888 Biscayne Holdings LLC,888 Biscayne Blvd,Suite 100,Miami,FL,33132,B,Real<br>Estate<br>Holdings,CH,,1000.00,,888 Biscayne Holdings LLC
+Raquel Regalado,124,2015-05-30,C,Alicia  Hernandez,3340 SW 14th Street,,Miami,FL,33135,I,,CH,,50.00,,Hernandez
+Raquel Regalado,125,2015-05-30,C,Juan  Hernandez,3340 SW 14th Street,,Miami,FL,33135,I,,CH,,50.00,,Hernandez
+Raquel Regalado,126,2015-05-31,C,Marlen  Monsibaez,979 SW 11th St,,Miami,FL,33129,I,,CH,,10.00,,Monsibaez
+Raquel Regalado,127,2015-05-31,C,Sixto  Sierra,6920 Harding Ave,Apt 504,Miami Beach,FL,33141,I,,CH,,10.00,,Sierra
+Raquel Regalado,128,2015-05-31,C,Nora  Lombera,855 W 79th PL,,Hialeah,FL,33014,I,,CH,,10.00,,Lombera
+Raquel Regalado,129,2015-05-31,C,Maritza Yolanda Sierra,1134 Biarritz Dr,,Miami Beach,FL,33141,I,,CH,,10.00,,Sierra
+Raquel Regalado,130,2015-05-31,C,Calixto  Villa,926 SW 8th Ave,,Miami,FL,33130,I,,CH,,10.00,,Villa
+Raquel Regalado,131,2015-05-31,C,Maria  Moreno,7122 SW 102nd Ct,,Miami,FL,33173,I,,CH,,20.00,,Moreno
+Raquel Regalado,132,2015-05-31,C,Kenia  Dib Sanchez,1152 SW 102nd Ct,,Miami,FL,33174,I,,CH,,25.00,,Dib Sanchez
+Raquel Regalado,133,2015-05-31,C,Ileana  Figueredo,16206 Camden Lakes Cir,,Naples,FL,34110,I,,CH,,25.00,,Figueredo
+Raquel Regalado,134,2015-05-31,C,Iliana  Monteagudo,13601 SW 143rd Ct,Unit 3,Miami,FL,33186,I,Misc.<br>Import<br>Export,CH,,1000.00,,Monteagudo
+Raquel Regalado,135,2015-05-31,C,Raymond L Pardo,16425 Collins Ave,Apt 716,Sunny Isles Beach,FL,33160,I,Security<br>Co / Owner,CH,,1000.00,,Pardo
+Raquel Regalado,136,2015-05-31,C,Clemente Sergio Gonzalez,11 Shore Drive East,,Miami,FL,33133,I,,CH,,50.00,,Gonzalez
+Raquel Regalado,137,2015-05-31,C,Jose D Otero,800 West Ave,Apt 538,Miami Beach,FL,33139,I,,CH,,50.00,,Otero
+Raquel Regalado,138,2015-05-31,C,L\'Stone Investment Corp.,4001 SW 129th Ave,,Miami,FL,33175,B,Investments,CH,,50.00,,L\'Stone Investment Corp.
+Raquel Regalado,139,2015-05-31,C,"Colbra Properties, LLC",8567 Coral Way,Suite 272,Miami,FL,33155,B,,CH,,50.00,,"Colbra Properties, LLC"
+Raquel Regalado,140,2015-05-31,C,"RMP Accounting Services, Inc",1901 SW 12th Ave,,Miami,FL,33129,B,Accounting<br>Firm,CH,,100.00,,"RMP Accounting Services, Inc"
+Raquel Regalado,141,2015-05-31,C,Vino del Sur Corporation,13601 SW 143rd Court,Unit 3,Miami,FL,33186,B,Wine<br>Distributor,CH,,1000.00,,Vino del Sur Corporation
+Raquel Regalado,142,2015-05-31,C,Mindy  Pham,945 SE 13th Rd,,Homestead,FL,33035,I,,CH,,20.00,,Pham
+Raquel Regalado,1,2015-06-08,C,Jose R Morales,17530 NW 62nd Place N,,Hialeah,FL,33015,I,Event<br>Planner,CH,,1000.00,,Morales
+Raquel Regalado,2,2015-06-08,C,"Escape Sea Charters, Inc.",7213 W 29th Lane,,Hialeah,FL,33018,B,Sea<br>Charters,CH,,1000.00,,"Escape Sea Charters, Inc."
+Raquel Regalado,3,2015-06-08,C,Ciboney Restaurant & Lounge,13960 SW 8th Street,,Miami,FL,33184,B,Restaurant<br>& Lounge,CH,,1000.00,,Ciboney Restaurant & Lounge
+Raquel Regalado,4,2015-06-08,C,Noris C Rivera,350 NW 124th Avenue,,Miami,FL,33182,I,Realtor,CH,,1000.00,,Rivera
+Raquel Regalado,5,2015-06-08,C,Events by Ciboney Restaurant,13960 SW 8th Street,Suite 202,Miami,FL,33184,B,Event<br>Planner,CH,,1000.00,,Events by Ciboney Restaurant
+Raquel Regalado,6,2015-06-08,C,Univista Financial Group,221 SW 42nd Avenue,3rd Floor,Coral Gables,FL,33134,B,Financial<br>Advisors,CH,,1000.00,,Univista Financial Group
+Raquel Regalado,7,2015-06-08,C,Univista Insurance,221 SW 42nd Avenue,3rd Floor,Coral Gables,FL,33134,B,Insurance<br>Agency,CH,,1000.00,,Univista Insurance
+Raquel Regalado,8,2015-06-08,C,"Viva Travel & Tours, Inc.",8103 Coral Way,,Miami,FL,33155,B,Travel<br>Agency,CH,,500.00,,"Viva Travel & Tours, Inc."
+Raquel Regalado,9,2015-06-08,C,CMG Products Corp.,7320 NW 12th Street,Suite 107,Miami,FL,33126,B,Airplane<br>Parts,CH,,500.00,,CMG Products Corp.
+Raquel Regalado,1,2015-06-10,E,PayPal,2211 North 1st Street,,San Jose,CA,95131,,,MO,Service Charge,14.80,,PayPal
+Raquel Regalado,10,2015-06-10,C,Vince  Castro,701 Easterford Way,Suite 300,Miami,FL,33126,I,Marketing,CH,,500.00,,Castro
+Raquel Regalado,11,2015-06-12,C,Maria E Gonzalez,1331 SW 32nd Avenue,Apt
+Raquel Regalado,12,2015-06-12,C,Rolando  Fernandez,2271 SW 14th Street,,Miami,FL,33145,I,,CH,,50.00,,Fernandez
+Raquel Regalado,13,2015-06-12,C,Rita K Hernandez,11705 SW 69th Avenue,,Pinecrest,FL,33156,I,Homemaker,CH,,500.00,,Hernandez
+Raquel Regalado,14,2015-06-12,C,"Spotless Carts, LLC",13611 S Dixie Hwy,
+Raquel Regalado,15,2015-06-12,C,Jonathan D Tovar,3250 NE 1st Avenue,Apt 1102,Miami,FL,33137,I,Park One /<br>Manager,CH,,500.00,,Tovar
+Raquel Regalado,16,2015-06-12,C,Ricovery 911 Mitication LLC,1825 Ponce de Leon,Suite 555,Coral Gables,FL,33134,B,Water &<br>Fire-Restoration,CH,,500.00,,Ricovery 911 Mitication LLC
+Raquel Regalado,17,2015-06-12,C,Jose O Rodriguez,8113 NW 158th Terrace,,Miami Lakes,FL,33016,I,,CH,,50.00,,Rodriguez
+Raquel Regalado,18,2015-06-12,C,Architectural Shades,11231 NW 20th Street,Unit 140-256,Miami,FL,33172,B,Architectural<br>Firm,CH,,1000.00,,Architectural Shades
+Raquel Regalado,19,2015-06-12,C,"Miami Management, Inc.",14275 SW 142nd Avenue,,Miami,FL,33186,B,Real<br>Estate<br>Management,CH,,1000.00,,"Miami Management, Inc."
+Raquel Regalado,20,2015-06-15,C,Turner A Cathey,8631 NW 4th Terrace,Apt 7,Miami,FL,33126,I,,CH,,50.00,,Cathey
+Raquel Regalado,2,2015-06-18,E,Rodriguez Trueba & Co,1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1600.00,,Rodriguez Trueba & Co
+Raquel Regalado,21,2015-06-19,C,Iris V Escarra,1402 Pizarro Street,,Coral Gables,FL,33134,I,Attorney,CH,,1000.00,,Escarra
+Raquel Regalado,22,2015-06-19,C,"Valsan Sales, Inc.",2659 NW 20th Street,,Miami,FL,33142,B,Shoe Store,CH,,500.00,,"Valsan Sales, Inc."
+Raquel Regalado,23,2015-06-19,C,"Century Fire, Inc.",2659 NW 20th Street,,Miami,FL,33142,B,Fire<br>Safety<br>Supplier,CH,,600.00,,"Century Fire, Inc."
+Raquel Regalado,24,2015-06-19,C,Astor Development Group LLC,2601 South Bayshore Drive,Suite 1800,Miami,FL,33133,B,Developer,CH,,1000.00,,Astor Development Group LLC
+Raquel Regalado,25,2015-06-19,C,Presidente Supermarket No 3,1895 SW 8th Strret,,Miami,FL,33135,B,Supermarket,CH,,1000.00,,Presidente Supermarket No 3
+Raquel Regalado,26,2015-06-19,C,Presidente Supermarket No 11,4275 West Flagler Street,,Miami,FL,33134,B,Supermarket,CH,,1000.00,,Presidente Supermarket No 11
+Raquel Regalado,27,2015-06-19,C,Presidente Supermarket
+Raquel Regalado,28,2015-06-19,C,Presidente Supermarket No 19,500 SW 8th Street,,Miami,FL,33130,B,Supermarket,CH,,1000.00,,Presidente Supermarket No 19
+Raquel Regalado,29,2015-06-29,C,Jose M Almonte,5890 NW 186th Street,Apt 102,Hialeah,FL,33015,I,,CH,,25.00,,Almonte
+Raquel Regalado,30,2015-06-29,C,Edward  Paulino,15745 NW 52nd Avenue,Apt 208,Hialeah,FL,33014,I,,CH,,25.00,,Paulino
+Raquel Regalado,31,2015-06-29,C,Hilda Margarita Garcia,761 SE 4th Place,,Hialeah,FL,33010,I,,CH,,25.00,,Garcia
+Raquel Regalado,32,2015-06-29,C,Beris F Pena,683 NW 125th Court,,Miami,FL,33182,I,,CH,,25.00,,Pena
+Raquel Regalado,33,2015-06-29,C,Julia  Dawson,1701 SW 4th Avenue,,Miami,FL,33129,I,,CH,,30.00,,Dawson
+Raquel Regalado,34,2015-06-29,C,Rosa L Medina,1727 NW 16th Terrace,,Miami,FL,33125,I,,CH,,50.00,,Medina
+Raquel Regalado,35,2015-06-29,C,Rafael  Iglesias,177 Ocean Lane Dr,Apt 208,Key Biscayne,FL,33149,I,,CH,,50.00,,Iglesias
+Raquel Regalado,36,2015-06-29,C,Luis D Herrera,1181 SW 22nd Terrace,,Miami,FL,33129,I,Retired,CH,,100.00,,Herrera
+Raquel Regalado,37,2015-06-29,C,Michael  Rosenberg,13030 N Calusa Club Dr,,Miami,FL,33186,I,NonProfit<br>Org-Director,CH,,100.00,,Rosenberg
+Raquel Regalado,38,2015-06-29,C,Zachary K Elliott,475 Brickell Avenue,,Miami,FL,33131,I,Attorney,CH,,100.00,,Elliott
+Raquel Regalado,39,2015-06-29,C,"Manuel L Crespo, PA",201 Alhambra Circle,Suite 1205,Coral Gables,FL,33134,B,Law Firm,CH,,250.00,,"Manuel L Crespo, PA"
+Raquel Regalado,40,2015-06-29,C,Royal Palm Films Inc.,7133 SW 109th Court,,Miami,FL,33171,B,Film<br>Productions,CH,,500.00,,Royal Palm Films Inc.
+Raquel Regalado,41,2015-06-29,C,Gallery  Upscale Furniture Consignment,8845 SW 132nd Street,,Miami,FL,33176,B,Furniture<br>Gallery,CH,,1000.00,,Upscale Furniture Consignment
+Raquel Regalado,42,2015-06-29,C,ATCi Communications Inc.,1270 NW 165th Street,,Miami,FL,33169,B,Technology<br>Consulting,CH,,1000.00,,ATCi Communications Inc.
+Raquel Regalado,43,2015-06-29,C,Abel  Holtz,1024 Kane Concourse,,Bay Harbor Islands,FL,33154,I,Retired,CH,,1000.00,,Holtz
+Raquel Regalado,44,2015-06-29,C,Ruben  Rodriguez,2900 NW 7th Avenue,,Miami,FL,33127,I,,CH,,10.00,,Rodriguez
+Raquel Regalado,45,2015-06-29,C,Ruben  Rodriguez,2900 NW 7th Avenue,,Miami,FL,33127,I,,CH,,10.00,,Rodriguez
+Raquel Regalado,46,2015-06-29,C,Manuel  Garcia,4255 SW 2nd Terrace,,Miami,FL,33134,I,,CH,,10.00,,Garcia
+Raquel Regalado,47,2015-06-29,C,Trinidad  Fernandez,9961 SW 37th Street,,Miami,FL,33165,I,,CH,,10.00,,Fernandez
+Raquel Regalado,48,2015-06-29,C,Jose M Redondo,1765 West 42nd Place,Apt 211,Hialeah,FL,33012,I,,CH,,10.00,,Redondo
+Raquel Regalado,49,2015-06-29,C,Miguel L Acosta,1750 West 46th Street,Apt 231,Hialeah,FL,33012,I,,CH,,10.00,,Acosta
+Raquel Regalado,50,2015-06-29,C,Belkis  Loureiro,7355 SW 89th Street,Unit 427,Miami,FL,33156,I,,CH,,10.00,,Loureiro
+Raquel Regalado,51,2015-06-29,C,Jose M Bouza,PO Box
+Raquel Regalado,52,2015-06-29,C,Benita  Lopez-Aguiar,1750 West 46th Street,,Hialeah,FL,33012,I,,CH,,10.00,,Lopez-Aguiar
+Raquel Regalado,53,2015-06-29,C,Patricia G Castillo,10364 SW 8th Terrace,,Miami,FL,33174,I,,CH,,20.00,,Castillo
+Raquel Regalado,54,2015-06-29,C,Rogelio C Viton,1750 West 46th Street,Apt 432,Hialeah,FL,33012,I,,CH,,20.00,,Viton
+Raquel Regalado,55,2015-06-29,C,Maria C Alvarez,453 SW 19th Road,,Miami,FL,33129,I,,CH,,20.00,,Alvarez
+Raquel Regalado,56,2015-06-29,C,Adriano  Alvarez,453 SW 19th Road,,Miami,FL,33129,I,,CH,,20.00,,Alvarez
+Raquel Regalado,57,2015-06-29,C,Raul Nicolas  Orsini,1550 Stillwater Dr,,Miami Beach,FL,33141,I,Construction,CH,,1000.00,,Orsini
+Raquel Regalado,58,2015-06-29,C,Damian  Pardo,421 NE 51st Street,,Miami,FL,33137,I,Financial<br>Advisor,CH,,1000.00,,Pardo
+Raquel Regalado,59,2015-06-29,C,Melissa L Bernheim,160 West Sunrise Avenue,,Coral Gables,FL,33133,I,Attorney,CH,,1000.00,,Bernheim
+Raquel Regalado,60,2015-06-29,C,William  O Fuller,160 West Sunrise Avenue,,Coral Gables,FL,33133,I,Bar Owner,CH,,1000.00,,Fuller
+Raquel Regalado,61,2015-06-30,C,Barbara  Rodriguez,9300 SW 42nd St,,Miami,FL,33165,I,,CH,,5.00,,Rodriguez
+Raquel Regalado,62,2015-06-30,C,Margarita  Delgado,2966 NW 26th St,,Miami,FL,33142,I,,CH,,5.00,,Delgado
+Raquel Regalado,63,2015-06-30,C,Stephanie  Delgado,17841 NW 82nd Ave,,Miami,FL,33015,I,,CH,,5.00,,Delgado
+Raquel Regalado,64,2015-06-30,C,Grill Master Cafe,2739 West 79th Street,,Hialeah,FL,33015,B,Restaurant,CH,,5.00,,Grill Master Cafe
+Raquel Regalado,65,2015-06-30,C,Custom Food Truck,2739 West 79th Street,,Hialeah,FL,33015,B,Food Truck,CH,,5.00,,Custom Food Truck
+Raquel Regalado,66,2015-06-30,C,Oscar  Rodriguez,9300 SW 42nd Street,,Miami,FL,33165,I,,CH,,5.00,,Rodriguez
+Raquel Regalado,67,2015-06-30,C,Janet  Ponte,3250 NE 1st Ave,
+Raquel Regalado,68,2015-06-30,C,Manuel  Marrero,3250 NE 1st Avenue,
+Raquel Regalado,69,2015-06-30,C,Janelly  Silva,17841 NW 82nd Ave,,Miami,FL,33015,I,,CH,,5.00,,Silva
+Raquel Regalado,70,2015-06-30,C,Elayne  Vanderbilt,18551 SW 104th St,,Miami,FL,33137,I,,CH,,5.00,,Vanderbilt
+Raquel Regalado,71,2015-06-30,C,Floridian Millwork Inc.,2280 West 80th St Bay,
+Raquel Regalado,72,2015-06-30,C,Ana  Maria Martinez,9491 SW 97th Street,,Miami,FL,33176,I,Retired,CH,,300.00,,Martinez
+Raquel Regalado,73,2015-06-30,C,Gina  Gutman,2645 Pine Tree Dr,,Miami Beach,FL,33140,I,Retired,CH,,500.00,,Gutman
+Raquel Regalado,74,2015-06-30,C,"Led Industrial Group, Inc.",1300 Country Club Prado,,Coral Gables,FL,33134,B,Electrical<br>Contractor,CH,,500.00,,"Led Industrial Group, Inc."
+Raquel Regalado,75,2015-06-30,C,Christopher J Fries Sr,5592 SW 114 Ave,,Cooper City,FL,33330,I,Produce Co<br>/ Owner,CH,,500.00,,Fries Sr
+Raquel Regalado,76,2015-06-30,C,Interamerican Medical Center,15105 NW 77th Ave,4th Floor,Miami Lakes,FL,33014,B,Healthcare,CH,,500.00,,Interamerican Medical Center
+Raquel Regalado,77,2015-06-30,C,Teresa  Cabrera,861 East 8th Ave,,Hialeah,FL,33012,I,,CH,,5.00,,Cabrera
+Raquel Regalado,78,2015-06-30,C,Melba  Cabrera,7220 Fairway Dr,
+Raquel Regalado,79,2015-06-30,C,Manuel C Delgado,17841 NW 82nd Ave,,Miami,FL,33015,I,,CH,,5.00,,Delgado
+Raquel Regalado,80,2015-06-30,C,Janet  Forte,2739 West 79th St,
+Raquel Regalado,81,2015-06-30,C,Isaura  Delgado,2966 NW 26 St,,Miami,FL,33142,I,,CH,,5.00,,Delgado
+Raquel Regalado,82,2015-06-30,C,Maylene  Duarte,206 NW 60th Ave,,Miami,FL,33126,I,,CH,,5.00,,Duarte
+Raquel Regalado,83,2015-06-30,C,Jary  Hernandez,4661 SW 71 Ave,,Miami,FL,33155,I,,CH,,5.00,,Hernandez
+Raquel Regalado,84,2015-06-30,C,ISP DJ Service,4661 SW 71st Ave,,Miami,FL,33155,B,,CH,,5.00,,ISP DJ Service
+Raquel Regalado,85,2015-06-30,C,Carlos  Torres,900 SW 9th Ct,,Miami,FL,33130,I,,CH,,5.00,,Torres
+Raquel Regalado,86,2015-06-30,C,Carlos  Torres,910 SW 9th Ct,,Miami,FL,33130,I,,CH,,5.00,,Torres
+Raquel Regalado,87,2015-06-30,C,Roberto  Martin-Cabrera,7220 Fairway Dr,Apt 615,Miami Lakes,FL,33014,I,,CH,,50.00,,Martin-Cabrera
+Raquel Regalado,88,2015-06-30,C,Eduardo  De Las Cavadas,2640 SW 92nd Ct,,Miami,FL,33165,I,,CH,,50.00,,De Las Cavadas
+Raquel Regalado,89,2015-06-30,C,Ricky  Rivera,350 NW 124th Ave,,Miami,FL,33182,I,,CH,,50.00,,Rivera
+Raquel Regalado,90,2015-06-30,C,O M Corporation,6505 Blue Lagoon DR,Suite 130,Miami,FL,33126,B,Builders,CH,,250.00,,O M Corporation
+Raquel Regalado,91,2015-06-30,C,Robert A Chahine,1915 Brickell Ave,C-701,Miami,FL,33129,I,Retired,CH,,500.00,,Chahine
+Raquel Regalado,92,2015-06-30,C,ET Auto Repair Inc.,711 NW 24th Street,,Miami,FL,33127,B,Auto<br>Repair,CH,,500.00,,ET Auto Repair Inc.
+Raquel Regalado,93,2015-06-30,C,Sorimar Inc.,4840 NW 7th Street,,Miami,FL,33126,B,Supermarket,CH,-,500.00,,Sorimar Inc.
+Raquel Regalado,2,2015-07-08,E,City National Bank,8725 NW 18th Terrace,,Miami,FL,33172,,,MO,Service Charge,14.25,,City National Bank
+Raquel Regalado,1,2015-07-14,E,Rodriguez Trueba & Co. CPA,1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1425.00,,Rodriguez Trueba & Co. CPA
+Raquel Regalado,1,2015-07-24,C,Eileen  Broton,951 NW 10th Court,,Miami,FL,33136,I,,CH,,25.00,,Broton
+Raquel Regalado,2,2015-07-24,C,Maria C Doval,1700 SW 32nd Court,,Miami,FL,33145,I,,CH,,20.00,,Doval
+Raquel Regalado,3,2015-07-24,C,"Rilea Group, Inc.",1450 Brickell Avenue,Suite 1420,Miami,FL,33131,B,Developers,CH,,500.00,,"Rilea Group, Inc."
+Raquel Regalado,4,2015-07-28,C,Natalie  Quiles,4697 NW 196th St,,Miami,FL,33013,I,,CH,,5.00,,Quiles
+Raquel Regalado,5,2015-07-28,C,Jose M Delgado,2739 W 79 St,Apt 18,Miami,FL,33155,I,,CH,,5.00,,Delgado
+Raquel Regalado,6,2015-07-28,C,Aida  Quiles,4297 NW 196 St,,Miami,FL,33013,I,,CH,,5.00,,Quiles
+Raquel Regalado,7,2015-07-28,C,Melba  Cedera,7220 Fairly Dr,,Miami Lakes,FL,33014,I,,CH,,5.00,,Cedera
+Raquel Regalado,8,2015-07-28,C,Isaias  Delgado,2739 W 79 St,,Miami,FL,33015,I,,CH,,5.00,,Delgado
+Raquel Regalado,9,2015-07-28,C,Margarita  Delgado,2966 NW 96 St,,Miami,FL,33142,I,,CH,,5.00,,Delgado
+Raquel Regalado,10,2015-07-28,C,Stephanie  Delgado,2739 W 79 St,,Hialeah,FL,33016,I,,CH,,5.00,,Delgado
+Raquel Regalado,11,2015-07-28,C,Margarita  Delgado,2966 NW 26 St,,Miami,FL,33142,I,,CH,,5.00,,Delgado
+Raquel Regalado,12,2015-07-28,C,Isaias  Delgado,2966 NW 26 St,,Miami,FL,33142,I,,CH,,5.00,,Delgado
+Raquel Regalado,13,2015-07-28,C,Lupe  Delgado,2966 NW 26 St,,Miami,FL,33142,I,,CH,,5.00,,Delgado
+Raquel Regalado,14,2015-07-28,C,Marcia  Delgado,2966 NW 26 St,,Miami,FL,33142,I,,CH,,5.00,,Delgado
+Raquel Regalado,15,2015-07-28,C,Marie C Delgado,17841 NW 82 Ave,,Miami,FL,33142,I,,CH,,5.00,,Delgado
+Raquel Regalado,16,2015-07-28,C,Amalia  De Armas,7559 W 32 Ln,,Hialeah,FL,33018,I,,CH,,5.00,,De Armas
+Raquel Regalado,17,2015-07-28,C,Barbara  Rodriguez,9200 SW 42 St,,Miami,FL,33165,I,,CH,,5.00,,Rodriguez
+Raquel Regalado,18,2015-07-28,C,Maricela  Martell Conesa,4029 SW 10 St,,Miami,FL,33134,I,,CH,,50.00,,Martell Conesa
+Raquel Regalado,19,2015-07-28,C,Frank J Lorenzo,310 NW 130th Ave,,Miami,FL,33182,I,,CH,,50.00,,Lorenzo
+Raquel Regalado,20,2015-07-28,C,Ernesto  Triay,9904 Lone Tree Lane,,Tampa,FL,33618,I,,CH,,50.00,,Triay
+Raquel Regalado,21,2015-07-28,C,Lourdes  Blanco,3915 Monserrate St,,Coral Gables,FL,33134,I,Realtor,CH,,500.00,,Blanco
+Raquel Regalado,22,2015-07-30,C,Rafael  Rodriguez,420 E 8th Street,,Hialeah,FL,33010,I,,CH,,3.00,,Rodriguez
+Raquel Regalado,23,2015-07-30,C,Armando  Perez,8932 SW 40 St,,Miami,FL,33165,I,,CH,,3.00,,Perez
+Raquel Regalado,24,2015-07-30,C,Roberto  Lopez,7541 West 32 Lane,,Hialeah,FL,33018,I,,CH,,3.00,,Lopez
+Raquel Regalado,25,2015-07-30,C,Pablo  Roqueir,7559 W 33rd Court,,Hialeah,FL,33018,I,,CH,,3.00,,Roqueir
+Raquel Regalado,26,2015-07-30,C,Jenny  Lastre,8932 SW 40th Street,,Miami,FL,33165,I,,CH,,3.00,,Lastre
+Raquel Regalado,27,2015-07-30,C,Raquel  Lopez,10090 NW  80 Ct,,Hialeah Gardens,FL,33016,I,,CH,,3.00,,Lopez
+Raquel Regalado,28,2015-07-30,C,Candido  Cardona,510 Harlem Ave,,Opalocka,FL,33054,I,,CH,,3.00,,Cardona
+Raquel Regalado,29,2015-07-30,C,Lupe  Roqueir,10090 NW  80 Court,,Hialeah Gardens,FL,33016,I,,CH,,3.00,,Roqueir
+Raquel Regalado,30,2015-07-30,C,Manuel  Del Valle,11202 SW 2nd Street,,Miami,FL,33174,I,,CH,,3.00,,Del Valle
+Raquel Regalado,31,2015-07-30,C,Carol  Lopez,665 Ives Dairy Rd,,North Miami,FL,33179,I,,CH,,3.00,,Lopez
+Raquel Regalado,32,2015-07-30,C,Analey  Gomez,11930 SW 3rd St,,Miami,FL,33184,I,,CH,,3.00,,Gomez
+Raquel Regalado,33,2015-07-30,C,Berta  Torres,510 Harlem Avenue,,Opalocka,FL,33054,I,,CH,,3.00,,Torres
+Raquel Regalado,34,2015-07-30,C,Jose A Fulgueira,3122 NW Flagler St,,Miami,FL,33125,I,,CH,,10.00,,Fulgueira
+Raquel Regalado,35,2015-07-30,C,Orlando  Fuentes,13008 NW 9th Street,,Miami,FL,33182,I,,CH,,20.00,,Fuentes
+Raquel Regalado,36,2015-07-30,C,Back in Motion Physical Therap,2109 SW 27th Avenue,,Miami,FL,33145,B,Physical<br>Therapy,CH,,300.00,,Back in Motion Physical Therap
+Raquel Regalado,37,2015-07-30,C,Carlos  Reyes,12 NE 188th Street,,North Miami,FL,33179,I,,CH,,5.00,,Reyes
+Raquel Regalado,38,2015-07-30,C,Rita  Odio,8932 SW 40th Street,,Miami,FL,33165,I,,CH,,5.00,,Odio
+Raquel Regalado,39,2015-07-30,C,Barbara  Cabrera,2651 NE 214th Street,,Miami,FL,33180,I,,CH,,5.00,,Cabrera
+Raquel Regalado,40,2015-07-30,C,Hialeah West Clinic,5151 W 51 Place,,Hialeah,FL,33012,B,Healthcare,CH,,5.00,,Hialeah West Clinic
+Raquel Regalado,41,2015-07-30,C,Ramon  Perez,1285 W 44th PL,,Hialeah,FL,33012,I,,CH,,5.00,,Perez
+Raquel Regalado,42,2015-07-30,C,Raul  Gomez,11930 SW 3rd Street,,Miami,FL,33184,I,,CH,,5.00,,Gomez
+Raquel Regalado,43,2015-07-30,C,Blanca  Torres,3284 SW 13th Street,,Miami,FL,33143,I,,CH,,5.00,,Torres
+Raquel Regalado,44,2015-07-30,C,Maria  Gomez,950 NW 214 St,,Miami,FL,33169,I,,CH,,5.00,,Gomez
+Raquel Regalado,45,2015-07-30,C,Rocio  Del Valle,11202 SW 2nd Street,,Miami,FL,33174,I,,CH,,5.00,,Del Valle
+Raquel Regalado,46,2015-07-30,C,Lilian  Del Valle,11202 SW 2nd Street,,Miami,FL,33174,I,,CH,,5.00,,Del Valle
+Raquel Regalado,47,2015-07-30,C,Nelson  Torres,3122 NW Flagler Ter,,Miami,FL,33125,I,,CH,,5.00,,Torres
+Raquel Regalado,48,2015-07-30,C,Victor  Rodriguez,3142 NW Flagler Ter,,Miami,FL,33125,I,,CH,,5.00,,Rodriguez
+Raquel Regalado,49,2015-07-30,C,Josefa  Pacheco,145 NW 57th Ct,,Miami,FL,33126,I,,CH,,20.00,,Pacheco
+Raquel Regalado,50,2015-07-30,C,Maria C Martel,719 NW 128th Ct,,Miami,FL,33182,I,,CH,,25.00,,Martel
+Raquel Regalado,51,2015-07-30,C,"Glenn L Widom, PA",1501 Venera Avenue,Suite 201,Coral Gables,FL,33146,B,Law Firm,CH,,25.00,,"Glenn L Widom, PA"
+Raquel Regalado,52,2015-07-30,C,Madelin  Pacheco,145 NW 57th Court,,Miami,FL,33126,I,,CH,,25.00,,Pacheco
+Raquel Regalado,53,2015-07-30,C,"E & D Logistics, LLC",8455 SW 155 Terr,,Palmetto Bay,FL,33157,B,Logistics,CH,,50.00,,"E & D Logistics, LLC"
+Raquel Regalado,54,2015-07-30,C,Orlando  Rodriguez,13905 Denell Lane,,Tampa,FL,33624,I,,CH,,100.00,,Rodriguez
+Raquel Regalado,55,2015-07-30,C,"Best Dental Care, Inc.",1673 SW 27th Ave,,Miami,FL,33145,B,Dental<br>Office,CH,,500.00,,"Best Dental Care, Inc."
+Raquel Regalado,56,2015-07-30,C,JL Trading,1673 SW 27th Avenue,,Miami,FL,33145,B,Non<br>Durable<br>Goods,CH,,500.00,,JL Trading
+Raquel Regalado,57,2015-07-30,C,Miami Dade Community Services,1901 SW 1st Street,2nd Floor,Miami,FL,33135,B,Non<br>Profit-Mental<br>Healt,CH,,500.00,,Miami Dade Community Services
+Raquel Regalado,58,2015-07-30,C,Renaissance at the Gables Inc,2340 SW 32nd Avenue,,Miami,FL,33145,B,Banquet<br>Hall,CH,,500.00,,Renaissance at the Gables Inc
+Raquel Regalado,59,2015-07-30,C,Riverside Resort Inc,PO Box
+Raquel Regalado,60,2015-07-30,C,"OK Resort of PR, Inc.",PO Box
+Raquel Regalado,61,2015-07-30,C,Executive Fantasy Hotel,Carr 190 H2 K2,Sabana Abajo,Carolina,PR,00984,B,Hotel,CH,,1000.00,,Executive Fantasy Hotel
+Raquel Regalado,62,2015-07-30,C,Brickell Hotel Investment,6581 SW 8th Street,,Miami,FL,33144,B,Hotel,CH,,1000.00,,Brickell Hotel Investment
+Raquel Regalado,63,2015-07-30,C,Tropical Garden Investment,6925 SW 8th Street,,Miami,FL,33144,B,Hotel,CH,,1000.00,,Tropical Garden Investment
+Raquel Regalado,75,2015-07-30,C,Jose C Prado,1065 E 14th St,,Hialeah,FL,33010,I,Commodities-Import<br>Export,CH,,500.00,,Prado
+Raquel Regalado,64,2015-07-31,C,DC Concessions Corp.,501 NW 37th Avenue,,Miami,FL,33125,B,Restaurant,CH,,1000.00,,DC Concessions Corp.
+Raquel Regalado,65,2015-07-31,C,Mialba Enterprises Inc.,501 NW 37th Avenue,,Miami,FL,33125,B,Reataurant,CH,,1000.00,,Mialba Enterprises Inc.
+Raquel Regalado,66,2015-07-31,C,Don Camaron Seafood Grill,9491 NW 77th Court,,Hialeah Gardens,FL,33016,B,Restaurant,CH,,1000.00,,Don Camaron Seafood Grill
+Raquel Regalado,67,2015-07-31,C,Ruben A Valdes,2015 NW 20th Street,,Miami,FL,33142,I,Clothing<br>Store-Owner,CH,,1000.00,,Valdes
+Raquel Regalado,68,2015-07-31,C,Valsan of Miami Inc.,2015 NW 20th Street,,Miami,FL,33142,B,Clothing<br>Store,CH,,1000.00,,Valsan of Miami Inc.
+Raquel Regalado,69,2015-07-31,C,Valsan of SW Inc,2015 NW 20 St,,Miami,FL,33142,B,Clothing<br>Store,CH,,1000.00,,Valsan of SW Inc
+Raquel Regalado,70,2015-07-31,C,Valsan of Westchester Inc,8508 SW 24th Street,,Miami,FL,33155,B,Clothing<br>Store,CH,,1000.00,,Valsan of Westchester Inc
+Raquel Regalado,71,2015-07-31,C,Valsan of Perrine,2015 NW 20th Street,,Miami,FL,33142,B,Clothing<br>Store,CH,,1000.00,,Valsan of Perrine
+Raquel Regalado,72,2015-07-31,C,Elvis  Cruz,631 NE 57th Street,,Miami,FL,33137,I,Retired,CH,,500.00,,Cruz
+Raquel Regalado,73,2015-07-31,C,Maria P Rodriguez,177 Ocean Lane Dr,Apt 304,Key Biscayne,FL,33149,I,Public<br>Relations,CH,,1000.00,,Rodriguez
+Raquel Regalado,74,2015-07-31,C,Juan C Urquiola,880 NE 69th Street,
+Raquel Regalado,1,2015-08-04,C,Yolanda  Companioni,145 NW 57th Court,,Miami,FL,33126,I,,CH,,20.00,,Companioni
+Raquel Regalado,2,2015-08-04,C,Aabad R Melwani,110 Woodcrest Lane,,Key Biscayne,FL,33149,I,Marina<br>Owner,CH,,1000.00,,Melwani
+Raquel Regalado,3,2015-08-04,C,"Atlas Yacht, LLC",3301 Rickenbacker Cswy,,Key Biscayne,FL,33149,B,Marina,CH,,1000.00,,"Atlas Yacht, LLC"
+Raquel Regalado,4,2015-08-04,C,Atlas Marine Management LLC,110 Woodcrest Lane,,Key Biscayne,FL,33149,B,Marina<br>Management,CH,,1000.00,,Atlas Marine Management LLC
+Raquel Regalado,5,2015-08-04,C,Enviro Waste Services Group,4 SE 1st Street,2nd Floor,Miami,FL,33131,B,Waste<br>Services,CH,,500.00,,Enviro Waste Services Group
+Raquel Regalado,6,2015-08-10,C,Manuel A Alzugaray,5133 Donatello Street,,Coral Gables,FL,33146,I,Doctor,CH,,1000.00,,Alzugaray
+Raquel Regalado,7,2015-08-10,C,Peter  Kane,535 SW 10th Avenue,,Miami,FL,33130,I,Retired,CH,-,100.00,,Kane
+Raquel Regalado,8,2015-08-10,C,Gilberto  Rodriguez,1811 SW 4th Avenue,,Miami,FL,33129,I,Retired,CH,,100.00,,Rodriguez
+Raquel Regalado,9,2015-08-10,C,G&B Standard Inc.,190 SW 8th Street,,Miami,FL,33130,B,Auto<br>Repair<br>Shop,CH,,25.00,,G&B Standard Inc.
+Raquel Regalado,1,2015-08-18,E,Rodriguez Trueba & Co. CPA,1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1000.00,,Rodriguez Trueba & Co. CPA
+Raquel Regalado,10,2015-08-24,C,Francisco  Garcia,2981 SW 24th Terrace,,Miami,FL,33145,I,Retired,CH,,500.00,,Garcia
+Raquel Regalado,11,2015-08-24,C,XXI Century Investment Corp.,1901 SW 1st Street,2nd Floor,Miami,FL,33135,B,Investments,CH,,500.00,,XXI Century Investment Corp.
+Raquel Regalado,12,2015-08-25,C,Victoria D Fonseca,115 SW 42nd Avenue,
+Raquel Regalado,13,2015-08-25,C,Alexandra N Fonseca,604 SW 64th Avenue,,Miami,FL,33144,I,,CH,,50.00,,Fonseca
+Raquel Regalado,14,2015-08-25,C,Herbert  Fonseca,3511 NW 17th Street,,Miami,FL,33125,I,,CH,,50.00,,Fonseca
+Raquel Regalado,15,2015-08-25,C,Yolanda M Fonseca,115 SW 42nd Avenue,
+Raquel Regalado,2,2015-08-25,E,Newegg Business,17560 Rowland Street,,City of Industry,CA,91748,,,MO,Computer & Printer,1566.05,,Newegg Business
+Raquel Regalado,16,2015-08-25,C,Herbert S Fonseca,604 SW 64th Avenue,,Miami,FL,33144,I,Cultural<br>Center-President,CH,,250.00,,Fonseca
+Raquel Regalado,17,2015-08-25,C,Humberto E Hernandez,1311 Red Road,,West Miami,FL,33144,I,Attorney,CH,,250.00,,Hernandez
+Raquel Regalado,18,2015-08-25,C,William T Fonseca,2415 Arch Creek Dr,,North Miami,FL,33181,I,,CH,,50.00,,Fonseca
+Raquel Regalado,19,2015-08-25,C,"H.E.H. & Associates, Inc.",1311 Red Road,,Coral Gables,FL,33144,B,Accounting<br>Firm,CH,,250.00,,"H.E.H. & Associates, Inc."
+Raquel Regalado,20,2015-08-25,C,"National Public Adjusters, LLC",5001 SW 74th Court,Suite 105,Miami,FL,33155,B,Insurance<br>Adjusters,CH,,250.00,,"National Public Adjusters, LLC"
+Raquel Regalado,21,2015-08-27,C,Patrick  J Dowenes,50 Alhambra Circle,Apt 307,Coral Gables,FL,33134,I,Hospital<br>CEO,CH,,100.00,,Dowenes
+Raquel Regalado,22,2015-08-27,C,Antonio  Leon,6905 W 2nd Court,,Hialeah,FL,33014,I,General<br>Contractor,CH,,100.00,,Leon
+Raquel Regalado,23,2015-08-27,C,Rafael E Samlut,9315 NW 48th Doral Terrace,,Doral,FL,33178,I,Courier Co<br>owner,CH,,150.00,,Samlut
+Raquel Regalado,24,2015-08-27,C,Taste of Cuba Festival Inc.,871 SW 127th Court,,Miami,FL,33184,B,Cultural<br>Festival,CH,,150.00,,Taste of Cuba Festival Inc.
+Raquel Regalado,25,2015-08-27,C,Ramon  Sarmiento,638 NE 97th Street,,Miami Shores,FL,33138,I,Attorney,CH,,250.00,,Sarmiento
+Raquel Regalado,26,2015-08-27,C,Herberto  Pena,4102 SW 90th Court,,Miami,FL,33165,I,Adult Day<br>Care Owner,CH,,500.00,,Pena
+Raquel Regalado,27,2015-08-27,C,Jorge L Raad,6701 SW 72nd Court,,Miami,FL,33143,I,Healthcare,CH,,500.00,,Raad
+Raquel Regalado,28,2015-08-27,C,Hector P Ortiz,231 Atlantic Isle,,Sunny Isles Beach,FL,33160,I,Electrician,CH,,500.00,,Ortiz
+Raquel Regalado,29,2015-08-27,C,Jose R Fernandez,10750 SW 51st Drive,,Miami,FL,33165,I,Attorney,CH,,1000.00,,Fernandez
+Raquel Regalado,30,2015-08-27,C,Christopher  D Carr,46 Musket Ridge Rd,,Wilton,CT,06897,I,Advertising,CH,,1000.00,,Carr
+Raquel Regalado,31,2015-08-27,C,City Outdoor Muralis LLC,1333 Broadway,Suite 506,New York,NY,10018,B,Outdoor<br>Advertising,CH,,1000.00,,City Outdoor Muralis LLC
+Raquel Regalado,32,2015-08-27,C,Clinica las Mercedes,1479 NW 27th Avenue,,Miami,FL,33125,B,Clinic,CH,,1000.00,,Clinica las Mercedes
+Raquel Regalado,33,2015-08-27,C,Raul Eduardo Alvarez,8861 NW 151st Street,,Hialeah,FL,33018,I,,CH,,25.00,,Alvarez
+Raquel Regalado,34,2015-08-27,C,Pedro E Iriarte,4726 SW 67th Avenue,Apt F4,Miami,FL,33155,I,Hospital-Director,CH,,100.00,,Iriarte
+Raquel Regalado,35,2015-08-27,C,Rogelio F De La Rosa,9455 Collins Avenue,Apt 806,Surfside,FL,33154,I,Real<br>Estate,CH,,200.00,,De La Rosa
+Raquel Regalado,36,2015-08-27,C,Alexis A Abril,8220 SW 83rd Street,,Miami,FL,33143,I,Surgeon,CH,,250.00,,Abril
+Raquel Regalado,37,2015-08-27,C,Rafael  Trujillo,110 SW 12th Street,Apt 1502,Miami,FL,33130,I,Import<br>Export<br>Co-Owner,CH,,250.00,,Trujillo
+Raquel Regalado,38,2015-08-27,C,Fernando  Lopez,3260 Allamanda Street,,Miami,FL,33133,I,Auto Sales,CH,,250.00,,Lopez
+Raquel Regalado,39,2015-08-27,C,Sartori Amici II Corp.,1455 NW 107th Avenue,Suite 396,Doral,FL,33172,B,Clothing<br>Store,CH,,200.00,,Sartori Amici II Corp.
+Raquel Regalado,40,2015-08-27,C,Consulting Inc.  Professional Promotion &,5755 W Flagler Street,Suite 109,Miami,FL,33144,B,Advertising<br>Consulting,CH,,500.00,,Professional Promotion &
+Raquel Regalado,41,2015-08-27,C,"All Star Enterprises, Inc.",9960 NW 116th Way,Suite 9,Medley,FL,33178,B,Courier<br>Co.,CH,,150.00,,"All Star Enterprises, Inc."
+Raquel Regalado,42,2015-08-27,C,Medley Carrier Corp.,9960 NW 116th Way,Suite 9,Medley,FL,33178,B,Courier<br>Co.,CH,,150.00,,Medley Carrier Corp.
+Raquel Regalado,43,2015-08-27,C,"Luany Jewelers II, Inc.",300 SW 107th Ave,Suite 101,Miami,FL,33174,B,Jewelry<br>Store,CH,,500.00,,"Luany Jewelers II, Inc."
+Raquel Regalado,44,2015-08-27,C,"Luany Jewelers I, Inc.",9863 SW 40th Street,,Miami,FL,33165,B,Jewelry<br>Store,CH,,500.00,,"Luany Jewelers I, Inc."
+Raquel Regalado,45,2015-08-27,C,Las Mercedes Pharmacy Inc.,1479 NW 27th Avenue,,Miami,FL,33125,B,Pharmacy,CH,,1000.00,,Las Mercedes Pharmacy Inc.
+Raquel Regalado,46,2015-08-31,C,Raul  Fuentes,3257 SW 58th Avenue,,Miami,FL,33155,I,Retired,CH,,1000.00,,Fuentes
+Raquel Regalado,47,2015-08-31,C,Maria E Fuentes,3257 SW 58th Avenue,,Miami,FL,33155,I,Retired,CH,,1000.00,,Fuentes
+Raquel Regalado,48,2015-08-31,C,Esther J Nuhfer,2665 SW 37th Avenue,Apt 504,Miami,FL,33133,I,Governmental<br>Consultant,CH,,1000.00,,Nuhfer
+Raquel Regalado,49,2015-08-31,C,Graciela  Solares,60 SW 30th Road,,Miami,FL,33129,I,Attorney,CH,,500.00,,Solares
+Raquel Regalado,50,2015-08-31,C,Jose  Torres,3160 NW 101 Place,,Doral,FL,33172,I,Retired,CH,,500.00,,Torres
+Raquel Regalado,51,2015-08-31,C,Maria  Torres,3160 NW 101 Place,,Doral,FL,33172,I,Retired,CH,,500.00,,Torres
+Raquel Regalado,52,2015-08-31,C,Service of Ft Myers  RIteway Insurance Repair,2144 Johnson Street,,Hollywood,FL,33020,B,Insurance,CH,,100.00,,RIteway Insurance Repair
+Raquel Regalado,1,2015-09-04,E,Mario\'s Kids Photo Studio,1601 Le Jeune Rd,,Coral Gables,FL,33134,,,MO,Photography,1388.75,,Mario\'s Kids Photo Studio
+Raquel Regalado,2,2015-09-11,E,Rodriguez Trueba & Co. CPA,1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1275.00,,Rodriguez Trueba & Co. CPA
+Raquel Regalado,3,2015-09-12,E,Newwegg Business,17560 Rowland Street,,City of Industry,CA,91748,,,MO,Check<br>Voided,-1566.05,,Newwegg Business
+Raquel Regalado,4,2015-09-15,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,500.00,,Borcegue
+Raquel Regalado,5,2015-09-24,E,Outfront Media,8530 NW 23rd Street,,Doral,FL,33122,,,MO,Outdoor Advertising,7500.00,,Outfront Media
+Raquel Regalado,6,2015-09-24,E,Outfront Media,8530 NW 23rd Street,,Doral,FL,33122,,,MO,Advertising Production,525.00,,Outfront Media
+Raquel Regalado,7,2015-09-25,E,"Ennovva, Inc.",100 N Biscayne Blvd,Suite 2906,Miami,FL,33132,,,MO,Web Design,1500.00,,"Ennovva, Inc."
+Raquel Regalado,8,2015-09-25,E,"Ennovva, Inc.",100 N Biscayne Blvd,Suite 2906,Miami,FL,33132,,,MO,Advertising Production,3780.00,,"Ennovva, Inc."
+Raquel Regalado,9,2015-09-25,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,500.00,,Borcegue
+Raquel Regalado,1,2015-09-28,C,Ellen D Wolfson,9595 Journeys End Lane,,Coral Gables,FL,33156,I,Homemaker,CH,,1000.00,,Wolfson
+Raquel Regalado,2,2015-09-28,C,Louis  Wolfson III,9595 Journeys End Lane,,Coral Gables,FL,33156,I,Developer,CH,,1000.00,,Wolfson III
+Raquel Regalado,3,2015-09-28,C,Naulilus Spearfishing Corp.,6464 West Flagler Street,,Coral Gables,FL,33144,B,Dive Shop,CH,,5.00,,Naulilus Spearfishing Corp.
+Raquel Regalado,4,2015-09-28,C,"1250 Garcia Investments, LLC",PO Box
+Raquel Regalado,5,2015-09-28,C,"Caribe Cafe Restaurant, Inc.",3953 NW 7th Street,,Miami,FL,33126,B,Restaurant,CH,,400.00,,"Caribe Cafe Restaurant, Inc."
+Raquel Regalado,6,2015-09-28,C,"Caribe Restaurant, Inc.",7169 West Flagler Street,,Miami,FL,33144,B,Restaurant,CH,,400.00,,"Caribe Restaurant, Inc."
+Raquel Regalado,7,2015-09-30,C,"Herrera Tire Service, Inc.",2701 NW 7th Avenue,,Miami,FL,33127,B,Tire<br>Services,CH,,300.00,,"Herrera Tire Service, Inc."
+Raquel Regalado,8,2015-09-30,C,Molina Towing Inc.,2115 NW 7th Avenue,,Miami,FL,33127,B,Towing<br>Services,CH,,500.00,,Molina Towing Inc.
+Raquel Regalado,9,2015-09-30,C,Kaloti Metals & Logistics,55 NE 1st Street,Unit 34,Miami,FL,33132,B,Logistics,CH,,750.00,,Kaloti Metals & Logistics
+Raquel Regalado,1,2015-10-05,E,Communications Solutions,2665 SW 37th Avenue,Suite 504,Miami,FL,33133,,,MO,Fundraiser Consulting,800.00,,Communications Solutions
+Raquel Regalado,2,2015-10-09,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,1,2015-10-15,C,Julio  Regalado,1730 SW 1st Avenue,,Miami,FL,33129,I,Retired,CH,,100.00,,Regalado
+Raquel Regalado,3,2015-10-16,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,4,2015-10-20,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,650.00,,"Rodriguez Trueba & Co, CPA"
+Raquel Regalado,5,2015-10-21,E,Newwegg Business,17560 Rowland Street,,City of Industry,CA,91748,,,MO,Computer,1566.05,,Newwegg Business
+Raquel Regalado,2,2015-10-21,C,"Fon-On, Inc.",400 NE 67th Street,,Miami,FL,33138,B,Real<br>Estate,CH,,500.00,,"Fon-On, Inc."
+Raquel Regalado,3,2015-10-21,C,Maria A Morales,3431 NW 2nd Terrace,,Miami,FL,33125,I,Homemaker,CH,,500.00,,Morales
+Raquel Regalado,4,2015-10-21,C,"Terracon Group, Inc.",5601 SW 8th Street,,Miami,FL,33134,B,General<br>Contractor,CH,-,500.00,,"Terracon Group, Inc."
+Raquel Regalado,5,2015-10-21,C,"Metronomic, Inc.",717 Ponce de Leon Blvd,Sutie 324,Coral Gables,FL,33134,B,Business<br>Development,CH,,1000.00,,"Metronomic, Inc."
+Raquel Regalado,6,2015-10-23,E,Jose  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,7,2015-10-27,E,Outfront Media,2640 NW 17th Lane,,Pompano Beach,FL,33064,,,MO,Outdoor Advertising,7500.00,,Outfront Media
+Raquel Regalado,8,2015-10-27,E,SMGQ Law,201 Alhambra Circle,Suite 1205,Coral Gables,FL,33134,,,MO,Legal Services,3429.75,,SMGQ Law
+Raquel Regalado,9,2015-10-30,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,6,2015-10-30,C,Otto L Travieso,2950 SW 27th Ave,Suite 100,Miami,FL,33133,I,Real<br>Estate<br>Broker,CH,,150.00,,Travieso
+Raquel Regalado,7,2015-10-30,C,Floriberto A Puente,2950 SW 27th Ave,
+Raquel Regalado,8,2015-10-30,C,Luis  Derosa,17840 NE 6th Court,,Miami,FL,33162,I,Business<br>Development,CH,,200.00,,Derosa
+Raquel Regalado,9,2015-10-30,C,Patricia  Fernandez Alfonso,650 Valencia Ave,Apt 304,Coral Gables,FL,33134,I,Realtor,CH,,250.00,,Fernandez Alfonso
+Raquel Regalado,10,2015-10-30,C,Rosario Kennedy Associates,2645 S Bayshore Dr,
+Raquel Regalado,11,2015-10-30,C,"Down South, LLC",2950 SW 27th Avenue,,Miami,FL,33133,B,Real<br>Estate-Investments,CH,,1000.00,,"Down South, LLC"
+Raquel Regalado,12,2015-10-30,C,"Thirteen Tower, LLC",2950 SW 27th Ave,Suite 100,Miami,FL,33133,B,Real<br>Estate-Investments,CH,,1000.00,,"Thirteen Tower, LLC"
+Raquel Regalado,13,2015-10-30,C,Arza Consulting Group Inc.,7367 Water Dance Way,,Lake Worth,FL,33467,B,Governmental<br>Consulting,CH,,1000.00,,Arza Consulting Group Inc.
+Raquel Regalado,14,2015-10-30,C,"MV Real Estate Holdings, LLC",13943 SW 140th Street,,Miami,FL,33186,B,Real<br>Estate-Holdings,CH,,1000.00,,"MV Real Estate Holdings, LLC"
+Raquel Regalado,15,2015-10-30,C,Golden Security,2026 SW 1st Street,,Miami,FL,33135,B,Security<br>Services,CH,,1000.00,,Golden Security
+Raquel Regalado,16,2015-10-30,C,Instant Signs of South Florida,4701 SW 72nd Ave,,Miami,FL,33155,B,Signs Mfr,CH,,1000.00,,Instant Signs of South Florida
+Raquel Regalado,17,2015-10-30,C,Mar Azul Marine Group,6619 S Dixie Hwy,
+Raquel Regalado,18,2015-10-30,C,Specialty Restaurants Corp,8191 E Kaiser Blvd,,Anahem,CA,92808,B,Restaurant,CH,,1000.00,,Specialty Restaurants Corp
+Raquel Regalado,19,2015-10-30,C,"Valsan Modas, Inc.",2015 NW 20th Street,,Miami,FL,33142,B,Clothing<br>Store,CH,,1000.00,,"Valsan Modas, Inc."
+Raquel Regalado,20,2015-10-30,C,Excellence Insurance,3801 SW 107th Ave,,Miami,FL,33165,B,Insurance<br>Agency,CH,,75.00,,Excellence Insurance
+Raquel Regalado,21,2015-10-30,C,"1360 Garcia Investments, LLC",PO Box
+Raquel Regalado,22,2015-10-30,C,"Corvit, LLC",31 SE 5th Street,
+Raquel Regalado,23,2015-10-30,C,Nightlife Brewing Company,2950 SW 27th Ave,Suite 100,Miami,FL,33133,B,Brewing Co,CH,,500.00,,Nightlife Brewing Company
+Raquel Regalado,24,2015-10-30,C,"BAP Development Group, LLC",2601 S Bayshore Dr,10th Floor,Miami,FL,33134,B,Developer,CH,,1000.00,,"BAP Development Group, LLC"
+Raquel Regalado,25,2015-10-30,C,"Glasshouse Coconut Grove,LLC",2640 S Bayshore Dr,
+Raquel Regalado,26,2015-10-30,C,"347 SoMi, LLC",2640 S Bayshore Dr,
+Raquel Regalado,27,2015-10-30,C,Flagstone Island Gardens LLC,888 Macarthur Causeway,,Miami,FL,33132,B,Developers,CH,,1000.00,,Flagstone Island Gardens LLC
+Raquel Regalado,28,2015-10-30,C,"Grove Professional Bldg, LLC",2950 SW 27th Ave,Suite 100,Miami,FL,33133,B,Commercial<br>Real<br>-Estate,CH,,1000.00,,"Grove Professional Bldg, LLC"
+Raquel Regalado,29,2015-10-30,C,"ARG Summerville Lots, LLC",2950 SW 27th Ave,Suite 300,Miami,FL,33133,B,Real<br>Estate-Developer,CH,,1000.00,,"ARG Summerville Lots, LLC"
+Raquel Regalado,30,2015-10-30,C,All-Go Construction Systems,7400 SW 57th Cour,Suite 203,Miami,FL,3314.,B,Construction,CH,,1000.00,,All-Go Construction Systems
+Raquel Regalado,31,2015-10-30,C,R Bayventure Inc.,6619 S Dixie Hwy,Suite 254,Miami,FL,33143,B,Marina,CH,,1000.00,,R Bayventure Inc.
+Raquel Regalado,32,2015-10-30,C,SMART Management LLC,7990 SW 117th Ave,Suite 210,Miami,FL,33183,B,Education,CH,,1000.00,,SMART Management LLC
+Raquel Regalado,33,2015-10-30,C,Law Office of Ralph E Fernande,109 South Moody Ave,,Tampa,FL,33609,B,Law Firm,CH,,500.00,,Law Office of Ralph E Fernande
+Raquel Regalado,34,2015-10-30,C,Iliana  Cubas Braceras,4060 SW 137th Court,,Miami,FL,33175,I,,CH,,50.00,,Cubas Braceras
+Raquel Regalado,35,2015-10-30,C,Romero Tire Corp.,11025 SW 84th Street,Cottage
+Raquel Regalado,36,2015-10-30,C,Miami Horizon Corp.,11025 SW 84th St,,Miami,FL,33173,B,,CH,,100.00,,Miami Horizon Corp.
+Raquel Regalado,1,2015-11-03,C,Mercedes  Gazquez,1560 SW 139th Avenue,,Miami,FL,33184,I,Cosmetologist,CH,,50.00,,Gazquez
+Raquel Regalado,1,2015-11-06,E,Juan  Borcegue,541 SW 42nd Ave,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,2,2015-11-09,E,Jose  Regalado,2424 SW 20th Street,,Miami,FL,33145,,,MO,Advertising Production,1600.00,,Regalado
+Raquel Regalado,2,2015-11-10,C,Jorge  Ulla,115 East 87th Street,Apt 33C,New York,NY,10128,I,Film<br>Producer,CH,,1000.00,,Ulla
+Raquel Regalado,3,2015-11-10,C,Daisy T Exposito,115 East 87th Street,Apt 33C,New York,NY,10128,I,Advertising,CH,,1000.00,,Exposito
+Raquel Regalado,3,2015-11-10,E,Raquel  Regalado,1850 SW 36th Avenue,,Miami,FL,33145,,,RM,Campaign Expenses,664.93,,Regalado
+Raquel Regalado,1,2015-11-10,D,Cellular Zone,12800 SW 8th Street,,Miami,FL,33184,,2015~M11~3,,Cell phones & activation,302.00,,Cellular Zone
+Raquel Regalado,2,2015-11-10,D,Michaels,8354 South Dixie Hwy,,Miami,FL,33143,,2015~M11~3,,Office Supplies,126.17,,Michaels
+Raquel Regalado,3,2015-11-10,D,Office Depot,1906 Ponce de Leon Blvd,,Coral Gables,FL,33134,,2015~M11~3,,Office Supplies,55.47,,Office Depot
+Raquel Regalado,4,2015-11-10,D,Staples,2120 SW 32nd Avenue,,Coral Gables,FL,33145,,2015~M11~3,,Auto Feed Scanning,81.16,,Staples
+Raquel Regalado,5,2015-11-10,D,El Gallego,1551 SW 27th Avenue,,Miami,FL,33145,,2015~M11~3,,Meeting Food,100.13,,El Gallego
+Raquel Regalado,4,2015-11-10,E,USPS,1700 NW 97th Avenue,,Doral,FL,33145,,,MO,Stamps,490.00,,USPS
+Raquel Regalado,5,2015-11-13,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,6,2015-11-13,E,Erole  Emmanuel,20295 NW 2nd Avenue,Suite 204,Miami,FL,33169,,,MO,Live Radio Show Advertisement,1000.00,,Emmanuel
+Raquel Regalado,7,2015-11-13,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,750.00,,"Rodriguez Trueba & Co, CPA"
+Raquel Regalado,8,2015-11-20,E,Borcegue  Juan,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Juan
+Raquel Regalado,9,2015-11-23,E,Mario\'s Kids Photo Studio,1601 South LeJeune Rd,,Coral Gables,FL,33134,,,MO,Photography,1043.25,,Mario\'s Kids Photo Studio
+Raquel Regalado,10,2015-11-27,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,11,2015-11-30,E,"Graphicsland, Inc.",8061 186th Street,,Tinley Park,IL,60487,,,MO,Printing,1489.90,,"Graphicsland, Inc."
+Raquel Regalado,12,2015-11-30,E,Vistaprint Netherlands B.V.,PO Box
+Raquel Regalado,13,2015-11-30,E,National Victory Strategic LLC,PO Box
+Raquel Regalado,1,2015-12-01,E,National Victory Strategies,PO Box
+Raquel Regalado,2,2015-12-04,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,1,2015-12-09,C,Luis  Cruz,3535 S Ocean Dr,Suite 2301,Hollywood,FL,33019,I,Doctor,CH,,1000.00,,Cruz
+Raquel Regalado,2,2015-12-09,C,Dati Corporation,410 16th Street,,Miami Beach,FL,33139,B,Real<br>Estate<br>-Investment,CH,,1000.00,,Dati Corporation
+Raquel Regalado,3,2015-12-09,C,Gladisco USA Inc.,410 16th Street,,Miami Beach,FL,33139,B,Real<br>Estate<br>-Investment,CH,,1000.00,,Gladisco USA Inc.
+Raquel Regalado,3,2015-12-11,E,Juan  Borcegue,541 SW 42nd Avenue,,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,4,2015-12-14,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,950.00,,"Rodriguez Trueba & Co, CPA"
+Raquel Regalado,5,2015-12-18,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,6,2015-12-18,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,7,2015-12-18,E,Elaine  De Valle,10400 SW 82nd Avenue,,Miami,FL,33156,,,MO,Communications Consulting,1750.00,,De Valle
+Raquel Regalado,8,2015-12-18,E,SMGQ Law,201 Alhambra Circle,Suite 1205,Coral Gables,FL,33134,,,MO,Legal Services,2089.75,,SMGQ Law
+Raquel Regalado,9,2015-12-18,E,Vistaprint Netherlands BV,PO Box
+Raquel Regalado,10,2015-12-21,E,Graphicsland Inc.,8061 186th Street,,Tinley Park,IL,60487,,,RE,Printing<br>Canceled,-1489.90,,Graphicsland Inc.
+Raquel Regalado,4,2015-12-22,C,Marcelo  Maldonado,17921 NW 86th Avenue,,Hialeah,FL,33015,I,,CH,,40.00,,Maldonado
+Raquel Regalado,5,2015-12-22,C,Maria Carolina Supervielle,1800 NE 114th Street,Apt 1103,Miami,FL,33181,I,Attorney,CH,,100.00,,Supervielle
+Raquel Regalado,6,2015-12-22,C,Kathy  Barletta,6900 Bay Dr,Apt 5C,Miami Beach,FL,33141,I,Advertising,CH,,100.00,,Barletta
+Raquel Regalado,7,2015-12-22,C,Alberto Daniel Ancewicz,329 Alesio Avenue,,Coral Gables,FL,33134,I,Advertising,CH,,100.00,,Ancewicz
+Raquel Regalado,8,2015-12-22,C,Macho & Associados Consulting,1110 Brickell Avenue,Suite 806,Miami,FL,33131,B,Business<br>Development,CH,,150.00,,Macho & Associados Consulting
+Raquel Regalado,9,2015-12-22,C,Guillermo Cesar Palmeiro,11374 NW 66th Street,,Doral,FL,33178,I,Restaurant<br>Manager,CH,,300.00,,Palmeiro
+Raquel Regalado,10,2015-12-22,C,Beatriz N S De Spangaro,9482 NW 49th Doral Lane,,Miami,FL,33178,I,Public<br>Relations,CH,,500.00,,De Spangaro
+Raquel Regalado,11,2015-12-22,C,"19 Floor, LLC  Brickell Restaurant 1101",1550 Stillwater Dr,,Miami Beach,FL,33141,B,Restaurant,CH,,1000.00,,Brickell Restaurant 1101
+Raquel Regalado,11,2015-12-22,E,Raquel  Regalado,1850 SW 36th Avenue,,Miami,FL,33145,,,RM,Postcard Magnets,1332.43,,Regalado
+Raquel Regalado,1,2015-12-22,D,Vistaprint,PO Box
+Raquel Regalado,12,2015-12-25,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,12,2015-12-31,C,Graciela  Solares,60 SW 30th Road,,Miami,FL,33129,I,Paralegal,CH,,500.00,,Solares
+Raquel Regalado,13,2015-12-31,C,"Carroll & Associates, PA",44 W Flagler Street,Suite 900,Miami,FL,33130,B,Law Firm,CH,,1000.00,,"Carroll & Associates, PA"
+Raquel Regalado,14,2015-12-31,C,Jorge Luis Padron,255 Solano Prado,,Coral Gables,FL,33156,I,Cigar<br>Industry,CH,,500.00,,Padron
+Raquel Regalado,1,2016-01-01,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign<br>Work,250.00,,Borcegue
+Raquel Regalado,2,2016-01-01,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign<br>Work,720.00,,Mena Gomez
+Raquel Regalado,3,2016-01-01,E,"Gravitas Campaigns, LLC",3500 S DuPont Hwy,,Dover,DE,19901,,,MO,Collateral Material,3740.00,,"Gravitas Campaigns, LLC"
+Raquel Regalado,4,2016-01-07,E,Elaine  De Valle,10400 SW 82nd Avenue,,Miami,FL,33156,,,MO,Communications Consulting,3500.00,,De Valle
+Raquel Regalado,5,2016-01-08,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign<br>Work,250.00,,Borcegue
+Raquel Regalado,6,2016-01-13,E,"Onpoint Media, Inc.",2263 SW 37th Avenue,Suite 641,Miami,FL,33145,,,MO,Business Cards,406.60,,"Onpoint Media, Inc."
+Raquel Regalado,7,2016-01-15,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,8,2016-01-15,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,10,2016-01-18,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,950.00,,"Rodriguez Trueba & Co, CPA"
+Raquel Regalado,9,2016-01-18,E,Vistaprint Netherlands B.V.,PO Box
+Raquel Regalado,11,2016-01-21,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,1,2016-01-22,C,Nelson N Fernandez,7770 SW 32nd Street,,Miami,FL,33155,I,,CH,,20.00,,Fernandez
+Raquel Regalado,2,2016-01-22,C,Consolidated Companies Group,2655 Le Jeune Road,PH 1D,Coral Gables,FL,33134,B,Debt<br>Management,CH,,1000.00,,Consolidated Companies Group
+Raquel Regalado,3,2016-01-22,C,"Apex Marine, LLC",2051 NW 11th Street,,Miami,FL,33125,B,Marina,CH,,500.00,,"Apex Marine, LLC"
+Raquel Regalado,12,2016-01-22,E,"Gravitas Campaigns, LLC",3500 S DuPont Hwy,,Dover,DE,19901,,,MO,Data,3500.00,,"Gravitas Campaigns, LLC"
+Raquel Regalado,13,2016-01-27,E,Jose  Regalado,2424 SW 20th Street,,Miami,FL,33145,,,MO,Social Media Management,1600.00,,Regalado
+Raquel Regalado,4,2016-01-28,C,Robert  Fernandez,393 SW 5th Terrace,,Miami,FL,33134,I,,CH,,25.00,,Fernandez
+Raquel Regalado,5,2016-01-28,C,"Alfredo Quintero PE, PA",4865 NW 4th Street,,Miami,FL,33126,I,,CH,,50.00,,"Alfredo Quintero PE, PA"
+Raquel Regalado,6,2016-01-28,C,Eduardo  Barba,6021 North Kendall Drive,,South Miami,FL,33156,I,Enviro<br>Waste Co<br>/-CEO,CH,,500.00,,Barba
+Raquel Regalado,7,2016-01-28,C,USA Tax Financial Services,13170 SW 128th Street,Suite 202,Miami,FL,33186,B,Financial<br>Services,CH,,450.00,,USA Tax Financial Services
+Raquel Regalado,14,2016-01-29,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,15,2016-01-29,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,1,2016-02-02,E,Elaine  De Valle,10400 SW 82nd Avenue,,Miami,FL,33156,,,MO,Communications Consulting,3500.00,,De Valle
+Raquel Regalado,2,2016-02-04,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,3,2016-02-08,E,City of Miami,Miami Riverside Center,"444 SW 2nd Ave, #945",Miami,FL,33130,,,MO,Data,27.35,,City of Miami
+Raquel Regalado,4,2016-02-08,E,Mark  Goodrich,1700 NW 66th Avenue,Suite 113,Plantation,FL,33313,,,MO,Political Consulting,1000.00,,Goodrich
+Raquel Regalado,5,2016-02-09,E,"3dna, Corp d/b/a NationBuilder",520 S Grand Avenue,2nd Floor,Los Angeles,CA,90071,,,MO,Campaign Software,1099.50,,"3dna, Corp d/b/a NationBuilder"
+Raquel Regalado,6,2016-02-12,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,7,2016-02-12,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,8,2016-02-16,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1000.00,,"Rodriguez Trueba & Co, CPA"
+Raquel Regalado,9,2016-02-19,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,10,2016-02-19,E,Jose  Regalado,2424 SW 20th Street,,Miami,FL,33145,,,MO,Email Marketing,300.00,,Regalado
+Raquel Regalado,1,2016-02-19,C,Teresa  Regalado,4730 SW 1st Avenue,,Miami,FL,33129,I,,CH,,50.00,,Regalado
+Raquel Regalado,2,2016-02-19,C,Elizabeth  Padron,2614 Emathla Street,,Coconut Grove,FL,33133,I,Homemaker,CH,,500.00,,Padron
+Raquel Regalado,3,2016-02-19,C,Rodolfo  Padron,8530 SW 4th Street,,Miami,FL,33144,I,Cigar Co.<br>Manager,CH,,500.00,,Padron
+Raquel Regalado,4,2016-02-19,C,Orlando  Padron,9330 SW 59th Place,,Miami,FL,33156,I,Cigar Co.<br>CEO,CH,,500.00,,Padron
+Raquel Regalado,5,2016-02-19,C,Lisette A Padron-Martinez,4825 Hammock Lake Dr,,Coral Gables,FL,33156,I,Homemaker,CH,,500.00,,Padron-Martinez
+Raquel Regalado,6,2016-02-19,C,Jose O Padron,1335 N Venetian Way,,Miami,FL,33139,I,Cigar Co.<br>Chairman,CH,,500.00,,Padron
+Raquel Regalado,7,2016-02-19,C,Florinda  Padron,1335 N Venetian Way,,Miami,FL,33139,I,Homemaker,CH,,500.00,,Padron
+Raquel Regalado,8,2016-02-19,C,Advanced Technical Services NR,163 West 37th Street,,Hialeah,FL,33012,B,Physical<br>Therapy-Equipment,CH,,150.00,,Advanced Technical Services NR
+Raquel Regalado,9,2016-02-19,C,Emery  Samult,9315 NW 48th Doral Ter,,Doral,FL,33178,I,Healthcare<br>Admin,CH,,200.00,,Samult
+Raquel Regalado,10,2016-02-19,C,Marketing Faciltiy LLC,16504 SW 59th Terrace,,Miami,FL,33193,B,Marketing,CH,,500.00,,Marketing Faciltiy LLC
+Raquel Regalado,11,2016-02-19,C,Gonzalez Dental Lab,921 SW 122nd Avenue,,Miami,FL,33184,B,Dental Lab,CH,,500.00,,Gonzalez Dental Lab
+Raquel Regalado,12,2016-02-19,C,Moulin Rose Bakery,9869 SW 72nd Street,,Miami,FL,33173,B,Bakery,CH,,150.00,,Moulin Rose Bakery
+Raquel Regalado,13,2016-02-19,C,Advanced Care Medical Supplies,12975 SW 132nd Court,,Miami,FL,33186,B,Medical<br>Supplies,CH,,200.00,,Advanced Care Medical Supplies
+Raquel Regalado,14,2016-02-19,C,"Vista Insurnace Agency, Inc.",7751 W 28th Avenue,Unit 10,Hialeah,FL,33016,B,Insurance<br>Agency,CH,,300.00,,"Vista Insurnace Agency, Inc."
+Raquel Regalado,15,2016-02-19,C,Miami Banners & Signs Inc.,7250 NW 8th Street,Suite 1,Miami,FL,33126,B,Signs<br>Industry,CH,,1000.00,,Miami Banners & Signs Inc.
+Raquel Regalado,16,2016-02-19,C,Sergio\'s Cafeteria,122 Healeah Dr,,Hialeah,FL,33010,B,Restaurant,CH,,1000.00,,Sergio\'s Cafeteria
+Raquel Regalado,17,2016-02-19,C,Premium Home Health Care,2760 SW 97th Avenue,Suite 107,Miami,FL,33165,B,Healthcare,CH,,1000.00,,Premium Home Health Care
+Raquel Regalado,18,2016-02-19,C,Professional Marketing Inc.,8700 W Flagler Street,Suite 365,Miami,FL,33174,B,Marketing,CH,,1000.00,,Professional Marketing Inc.
+Raquel Regalado,11,2016-02-24,E,Orgullo Catracho Restaurant,2300 SW 8th Street,,Miami,FL,33135,,,MO,Fundraiser Food,439.20,,Orgullo Catracho Restaurant
+Raquel Regalado,19,2016-02-25,C,Javier  Zayas-Bazan,5241 SW 98th Court,,Miami,FL,33165,I,Property<br>Management,CH,,500.00,,Zayas-Bazan
+Raquel Regalado,20,2016-02-25,C,8th & 22nd Corporation,36th NE 1st Street,Suite 211,Miami,FL,33132,B,Real<br>Estate,CH,,500.00,,8th & 22nd Corporation
+Raquel Regalado,21,2016-02-25,C,"Lesamo Holdings, Corp.",1925 Brickell Avenue,Suite D-804,Miami,FL,33129,B,Real<br>Estate<br>Holdings,CH,,500.00,,"Lesamo Holdings, Corp."
+Raquel Regalado,22,2016-02-25,C,Choi Law Firm PA,1925 Brickell Avenue,Suite D-205,Miami,FL,33129,B,Law Firm,CH,,250.00,,Choi Law Firm PA
+Raquel Regalado,12,2016-02-26,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,13,2016-02-26,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,14,2016-02-26,E,Miami-Dade County,2700 NW 87th Avenue,,Doral,FL,33172,,,MO,Data,40.00,,Miami-Dade County
+Raquel Regalado,23,2016-02-29,C,Reinaldo  Acosta,7731 SW 131st Street,,Pinecrest,FL,33156,I,Developer,CH,,1000.00,,Acosta
+Raquel Regalado,24,2016-02-29,C,Daniel  Rodriguez,6301 Collins Avenue,Apt 1702,Miami Beach,FL,33141,I,Restaurant<br>Owner,CH,,1000.00,,Rodriguez
+Raquel Regalado,25,2016-02-29,C,Diego A Garcia,4693 SW 160th Place,,Miami,FL,33185,I,,CH,,10.00,,Garcia
+Raquel Regalado,26,2016-02-29,C,Manuel  Diaz,761 SE 4th Place,,Hialeah,FL,33010,I,,CH,,10.00,,Diaz
+Raquel Regalado,27,2016-02-29,C,Margarita Lozano PA,4693 SW 160th Place,,Miami,FL,33185,B,,CH,,20.00,,Margarita Lozano PA
+Raquel Regalado,28,2016-02-29,C,Jose  Barrios,1290 Sterling Avenue,,Miami Springs,FL,33166,I,Doctor,CH,,20.00,,Barrios
+Raquel Regalado,29,2016-02-29,C,Nereida  Fresco,4805 NW 7th Street,Apt 104,Miami,FL,33126,I,,CH,,25.00,,Fresco
+Raquel Regalado,30,2016-02-29,C,Elbert R.  Alfaro,5801 NW 151st Street,Suite 305,Miami Lakes,FL,33014,I,Attorney,CH,,100.00,,Alfaro
+Raquel Regalado,31,2016-02-29,C,"Superior Auto Glass, Inc",1140 NW 36th Street,,Miami,FL,33127,B,Auto Glass<br>Shop,CH,,100.00,,"Superior Auto Glass, Inc"
+Raquel Regalado,32,2016-02-29,C,"Florida Carrier, Inc.",9960 NW 116th Way,Suite 9,Medley,FL,33178,B,Trucking<br>Co,CH,,200.00,,"Florida Carrier, Inc."
+Raquel Regalado,33,2016-02-29,C,HPM Administrative LLC,7400 SW 57th Court,Suite 201,South Miami,FL,33143,B,Investment<br>Advisors,CH,,250.00,,HPM Administrative LLC
+Raquel Regalado,1,2016-03-01,E,Miami Chapter-Black Nurses,PO Box
+Raquel Regalado,2,2016-03-02,E,Elaine  De Valle,10400 SW 82nd Avenue,,Miami,FL,33156,,,MO,Communications Consulting,3500.00,,De Valle
+Raquel Regalado,3,2016-03-04,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,4,2016-03-07,E,Rodriguez Trueba & Co. CPA,1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1500.00,,Rodriguez Trueba & Co. CPA
+Raquel Regalado,5,2016-03-07,E,Artees Corp.,7718 NW 54th Street,,Doral,FL,33166,,,MO,T-shirts,643.85,,Artees Corp.
+Raquel Regalado,6,2016-03-08,E,Christina  Cicilia,489 SE 6th Street,,Hialeah,FL,33010,,,MO,Event Podium,293.38,,Cicilia
+Raquel Regalado,7,2016-03-10,E,Christina  Cicilia,489 SE 6th Street,,Hialeah,FL,33010,,,MO,Campaign<br>Coordinator,3500.00,,Cicilia
+Raquel Regalado,8,2016-03-11,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33129,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,9,2016-03-11,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,11,2016-03-17,E,"3dna,Corp d/b/a/ NationBuilder",520 S Grand Avenue,22nd Floor,Los Angeles,CA,90071,,,MO,Software,1099.50,,"3dna,Corp d/b/a/ NationBuilder"
+Raquel Regalado,10,2016-03-18,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,1,2016-03-18,C,Beatriz  Trueba,12905 SW 107th Court,,Miami,FL,33176,I,Teacher,CH,,500.00,,Trueba
+Raquel Regalado,23,2016-03-23,C,John  Karayan,PO Box 141309,,Coral Gables,FL,33114,I,Teacher,CH,,50.00,,Karayan
+Raquel Regalado,15,2016-03-23,E,Democracy Engine,2125 14th Street NW,,Washington,DC,20009,,,MO,Service Charge,2.07,,Democracy Engine
+Raquel Regalado,14,2016-03-24,E,Mark  Goodrich,1700 NW 66th Avenue,Suite 113,Plantation,FL,33313,,,MO,Political Consulting,1000.00,,Goodrich
+Raquel Regalado,12,2016-03-25,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,13,2016-03-25,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,2,2016-03-30,C,Manuel  Garcia Avila,2451 Brickell Avenue,Apt 8N,Miami,FL,33129,I,,CH,,40.00,,Garcia Avila
+Raquel Regalado,3,2016-03-30,C,Walid A Mnaymneh,8655 SW 54th Court,,Miami,FL,33143,I,Orthopedic<br>Surgeon,CH,,100.00,,Mnaymneh
+Raquel Regalado,4,2016-03-30,C,Alitza  Weiss,2127 Brickell Avenue,Suite 1106,Miami,FL,33129,I,Developer,CH,,100.00,,Weiss
+Raquel Regalado,5,2016-03-30,C,Rita  Dargham,***Protected***,,Hialeah,FL,33010,I,Dentist,CH,,200.00,,Dargham
+Raquel Regalado,6,2016-03-30,C,Jennifer  Freire,3660 SW 27th Street,,Miami,FL,33133,I,Insurance<br>Co.<br>Manager,CH,,200.00,,Freire
+Raquel Regalado,7,2016-03-30,C,Juan I Khoury,1238 Robin Avenue,,Miami Springs,FL,33166,I,Electric<br>Co.<br>Manager,CH,,200.00,,Khoury
+Raquel Regalado,8,2016-03-30,C,Javier  Zayas-Bazan,5241 SW 98th Avenue Rd,,Miami,FL,33165,I,Real<br>Estate,CH,,250.00,,Zayas-Bazan
+Raquel Regalado,9,2016-03-30,C,Luis  Chi,8621 SW 5th Street,,Miami,FL,33144,I,Overseas<br>Chinese-/Chairman,CH,,500.00,,Chi
+Raquel Regalado,10,2016-03-30,C,"Lobo Jack, Inc.",4545 NW 7th Street,Suite 1,Miami,FL,33126,B,,CH,,50.00,,"Lobo Jack, Inc."
+Raquel Regalado,11,2016-03-30,C,Joseph Club,1971 NW 7th Street,,Miami,FL,33125,B,Sports<br>Club,CH,,100.00,,Joseph Club
+Raquel Regalado,12,2016-03-30,C,US Latin America International,2710 NW 24th Street,,Miami,FL,33142,B,Tourism,CH,,200.00,,US Latin America International
+Raquel Regalado,13,2016-03-30,C,8th & 22nd Corporation,36th NE 1st Street,Suite 211,Miami,FL,33132,B,Real<br>Estate,CH,,500.00,,8th & 22nd Corporation
+Raquel Regalado,14,2016-03-30,C,"Imperial Tires, Inc.",2719 NW 24th Street,,Miami,FL,33142,B,Tire<br>Distributor,CH,,200.00,,"Imperial Tires, Inc."
+Raquel Regalado,15,2016-03-30,C,Airplane Parts Corporation,7211 NW 75th Street,,Medley,FL,33166,B,Airplane<br>Parts,CH,,500.00,,Airplane Parts Corporation
+Raquel Regalado,16,2016-03-30,C,Airplane Parts Corporation,7211 NW 75th Street,,Medley,FL,33166,B,Airplane<br>Parts,CH,,500.00,,Airplane Parts Corporation
+Raquel Regalado,17,2016-03-30,C,"Fortune of the Chi, Inc.",2710 NW 24th Street,,Miami,FL,33142,B,Poultry<br>Industry,CH,,500.00,,"Fortune of the Chi, Inc."
+Raquel Regalado,18,2016-03-30,C,Raymond  Caram,2300 SW 24th Avenue,,Miami,FL,33145,I,Import<br>Export,CH,,150.00,,Caram
+Raquel Regalado,19,2016-03-30,C,Sam  Ash,13000 Zambrana Street,,Coral Gables,FL,33156,I,Orthopedic<br>Surgeon,CH,,500.00,,Ash
+Raquel Regalado,20,2016-03-30,C,George R Bunassar,10951 SW 60th Avenue,,Miami,FL,33156,I,Real<br>Estate,CH,,500.00,,Bunassar
+Raquel Regalado,21,2016-03-30,C,Peter E Kilissanly,9735 SW 115th Terrace,,Miami,FL,33176,I,Car Dealer,CH,,1000.00,,Kilissanly
+Raquel Regalado,22,2016-03-30,C,Cedars Motors,6000 NW 97th Avenue,Unit 20,Doral,FL,33178,B,Auto<br>Dealership,CH,,500.00,,Cedars Motors
+Raquel Regalado,1,2016-04-01,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,2,2016-04-01,E,Christina  Cicilia,489 SE 6th Street,,Hialeah,FL,33010,,,MO,Campaign Work,3500.00,,Cicilia
+Raquel Regalado,3,2016-04-01,E,Mario\'s Kids Photo Studio,1601 South LeJeune Rd,,Coral Gables,FL,33134,,,MO,Photography,1546.15,,Mario\'s Kids Photo Studio
+Raquel Regalado,1,2016-04-04,C,Christine  Kotler,6141 SW 85th Street,,Miami,FL,33143,I,Marketing,CH,,100.00,,Kotler
+Raquel Regalado,2,2016-04-04,C,Raul  Ballaga,396 Alhambra Circle,,Coral Gables,FL,33134,I,Attorney,CH,,100.00,,Ballaga
+Raquel Regalado,3,2016-04-04,C,Brenton  VerPloeg,1980 Tigertail Avenue,,Miami,FL,33133,I,Attorney,CH,,100.00,,VerPloeg
+Raquel Regalado,5,2016-04-04,E,Democracy Engine,2125 14th Street NW,,Washington,DC,20009,,,MO,Service Charge,11.85,,Democracy Engine
+Raquel Regalado,4,2016-04-05,C,Supplies  China Hardware Building,720 NW 27th Avenue,,Miami,FL,33125,B,Building<br>Supplies,CH,,200.00,,China Hardware Building
+Raquel Regalado,5,2016-04-05,C,"99 Property Investments, Inc.",720 NW 27th Avenue,,Miami,FL,33125,B,Investments,CH,,500.00,,"99 Property Investments, Inc."
+Raquel Regalado,6,2016-04-05,C,Diego  Tejeda,1180 NW 8th Street,,Miami,FL,33136,I,Real<br>Estate,CA,,50.00,,Tejeda
+Raquel Regalado,7,2016-04-05,C,Trina  A Collins,3230 Gifford Lane,,Miami,FL,33133,I,,CH,,50.00,,Collins
+Raquel Regalado,8,2016-04-05,C,Carlos F. Miranda PA,339 SW 136th PL,,Miami,FL,33184,B,Real<br>Estate,CH,,200.00,,Carlos F. Miranda PA
+Raquel Regalado,9,2016-04-05,C,Tiffany  Lapciuc,4900 Pine Tree Dr,,Miami Beach,FL,33140,I,Homemaker,CH,,500.00,,Lapciuc
+Raquel Regalado,10,2016-04-05,C,Consultants  Fausto Commercial Realty,1180 NW 8th St,,Miami,FL,33136,B,Real<br>Estate,CH,,800.00,,Fausto Commercial Realty
+Raquel Regalado,11,2016-04-05,C,"Terracon Group, Inc.",5601 SW 8th Street,,Miami,FL,33134,B,General<br>Contractor,CH,,250.00,,"Terracon Group, Inc."
+Raquel Regalado,12,2016-04-05,C,Melissa L Fuller,8002 Ponce de Leon Rd,,Miami,FL,33143,I,Restaurant<br>Owner,CH,,1000.00,,Fuller
+Raquel Regalado,1,2016-04-05,C,"Terracon Group, Inc.",5601 SW 8th Street,,Miami,FL,33134,B,General Contractor,RE,,-250.00,A,"Terracon Group, Inc."
+Raquel Regalado,4,2016-04-06,E,Elaine  De Valle,10400 SW 82nd Avenue,,Miami,FL,33156,,,MO,Communications Consulting,3500.00,,De Valle
+Raquel Regalado,44,2016-04-06,C,Charles  Speakman,***Protected***,,Miami,FL,33183,I,Communications,CH,,100.00,,Speakman
+Raquel Regalado,17,2016-04-06,E,Democracy Engine,2125 14th Street NW,,Washington,DC,20009,,,MO,Service Charge,3.95,,Democracy Engine
+Raquel Regalado,6,2016-04-08,E,Yaraiky  Mena Gomez,511 NW 43rd PL,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,7,2016-04-08,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,8,2016-04-08,E,Mark  Goodrich,5722 South Flamingo Rd,
+Raquel Regalado,9,2016-04-13,E,"NationBuilder  3dna, Corp. d/b/a/",520 S Grand Avenue,"2nd Floor, #200",Los Angeles,CA,90071,,,MO,Software,1099.50,,"3dna, Corp. d/b/a/"
+Raquel Regalado,10,2016-04-13,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1000.00,,"Rodriguez Trueba & Co, CPA"
+Raquel Regalado,45,2016-04-13,C,Zoila M Sobrino,14000 SW 192nd Ave,,Miami,FL,33196,I,,CH,,50.00,,Sobrino
+Raquel Regalado,46,2016-04-13,C,Teri  D\'Amico,9101 E Bay Dr,Apt 206,Bay Harbor Islands,FL,33154,I,,CH,,50.00,,D\'Amico
+Raquel Regalado,18,2016-04-13,E,Democracy Engine,2125 14th St NW,,Washington,DC,20009,,,MO,Service Charge,4.14,,Democracy Engine
+Raquel Regalado,13,2016-04-14,C,Joaquin  Torres,6801 Harding Ave,Apr 216,Miami Beach,FL,33141,I,,CH,,10.00,,Torres
+Raquel Regalado,11,2016-04-15,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,12,2016-04-22,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,13,2016-04-22,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,14,2016-04-23,C,John B Ortuzar,3857 SW 24th Street,,Miami,FL,33145,I,Retired,CH,,100.00,,Ortuzar
+Raquel Regalado,15,2016-04-23,C,Cubaocho Art Center,1465 SW 8th Street,Suite 106-107,Miami,FL,33135,B,Art Center,CH,,150.00,,Cubaocho Art Center
+Raquel Regalado,16,2016-04-23,C,Mark  Durocher,3182 S LeJeune Road,,Miami,FL,33134,I,Insurance,CH,,250.00,,Durocher
+Raquel Regalado,17,2016-04-23,C,Michael  Alessandri,1614 Pennsylvania Avenue,Apt 2F,Miami Beach,FL,33139,I,Professor,CH,,500.00,,Alessandri
+Raquel Regalado,18,2016-04-23,C,Rhonda L Ginsburg,4100 Granada Blvd,,Coral Gables,FL,33146,I,Homemaker,CH,,500.00,,Ginsburg
+Raquel Regalado,19,2016-04-23,C,Maria  Palacio,712 Zamora Avenue,,Coral Gables,FL,33134,I,Teacher,CH,,1000.00,,Palacio
+Raquel Regalado,20,2016-04-23,C,Valledor Company Realtors,1450 Coral Way,,Miami,FL,33145,B,Real<br>Estate,CH,,200.00,,Valledor Company Realtors
+Raquel Regalado,21,2016-04-23,C,Gus  Machado Jr,2451 Brickell Avenue,Apt 4H,Miami,FL,33129,I,Business<br>Development,CH,,100.00,,Machado Jr
+Raquel Regalado,14,2016-04-27,E,"G&R Strategies, LLC",9363 Fontainebleau Blvd,H-106,Miami,FL,33172,,,MO,Campaign Consulting,5000.00,,"G&R Strategies, LLC"
+Raquel Regalado,15,2016-04-27,E,"EL-AL Signs, Inc.",546 NW 57th Avenue,,Miami,FL,33126,,,MO,Signs,2970.00,,"EL-AL Signs, Inc."
+Raquel Regalado,47,2016-04-27,C,Allie  Lopez-Cuadra,148 Newton
+Raquel Regalado,48,2016-04-27,C,Marcelo  Radice,42 Samara Dr,,Miami,FL,33133,I,Bellacello<br>/ CEO,CH,,50.00,,Radice
+Raquel Regalado,49,2016-04-27,C,Brenton  VerPloeg,1980 Tigertail Ave,,Coconut Grove,FL,33133,I,Attorney,CH,,100.00,,VerPloeg
+Raquel Regalado,50,2016-04-27,C,William  Harris,680 NE 64th Street,Unit A408,Miami,FL,33138,I,Financial<br>Rep,CH,,10.00,,Harris
+Raquel Regalado,51,2016-04-27,C,David  Capece,3824 W Santiago St,,Tampa,FL,33629,I,Marketing,CH,,100.00,,Capece
+Raquel Regalado,19,2016-04-27,E,Democracy Engine,2125 14th St NW,,Washington,DC,20009,,,MO,Service Charge,11.11,,Democracy Engine
+Raquel Regalado,16,2016-04-29,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,22,2016-04-29,C,Michael  Mut,14100 Almanda Avenue,,Miami,FL,33214,I,,CH,,50.00,,Mut
+Raquel Regalado,23,2016-04-30,C,Pedro E Fernandez,4900 SW 63rd Avenue,,Miami,FL,33155,I,,CH,,10.00,,Fernandez
+Raquel Regalado,24,2016-04-30,C,SPF Investment Inc.,4900 SW 63rd Avenue,,Miami,FL,33155,B,,CH,,10.00,,SPF Investment Inc.
+Raquel Regalado,25,2016-04-30,C,Manuel A Cueto,2665 SW 37th Avenue,Apt 707,Miami,FL,33133,I,,CH,,10.00,,Cueto
+Raquel Regalado,26,2016-04-30,C,Lourdes  Paradela,8910 SW 17th Street,,Miami,FL,33165,I,,CH,,10.00,,Paradela
+Raquel Regalado,27,2016-04-30,C,Caridad E Fernandez,6820 SW 21st Street,,Miami,FL,33155,I,,CH,,10.00,,Fernandez
+Raquel Regalado,28,2016-04-30,C,Vanessa Ana Diaz,1240 NW 31st Avenue,,Miami,FL,33125,I,,CH,,10.00,,Diaz
+Raquel Regalado,29,2016-04-30,C,Osmundo M Pina,9281 Dickens Avenue,,Surfside,FL,33154,I,,CH,,10.00,,Pina
+Raquel Regalado,30,2016-04-30,C,Maria Christina Cueto,2665 SW 37th Avenue,Apt 707,Miami,FL,33133,I,,CH,,10.00,,Cueto
+Raquel Regalado,31,2016-04-30,C,Jose  Fabregas,6831 SW 92nd Court,,Miami,FL,33173,I,,CH,-,15.00,,Fabregas
+Raquel Regalado,32,2016-04-30,C,Christina Elena Vilagoa,941 S Park Rd,Apt 103,Hollywood,FL,33021,I,,CH,,15.00,,Vilagoa
+Raquel Regalado,33,2016-04-30,C,"Pedro C. Roig, PA",PO Box
+Raquel Regalado,34,2016-04-30,C,Maria T Rodriguez,6740 SW 160th Place,,Miami,FL,33193,I,,CH,,10.00,,Rodriguez
+Raquel Regalado,35,2016-04-30,C,Sylvia A Fernandez,10850 SW 52nd Dr,,Miami,FL,33165,I,,CH,,10.00,,Fernandez
+Raquel Regalado,36,2016-04-30,C,Maria T Rodriguez,6740 SW 160th Place,,Miami,FL,33193,I,,CH,,10.00,,Rodriguez
+Raquel Regalado,37,2016-04-30,C,Manuel A Rodriguez,4981 SW 165th Avenue,,Miramar,FL,33027,I,,CH,,10.00,,Rodriguez
+Raquel Regalado,38,2016-04-30,C,Luis M Zuniga,465 W Park Dr,Apt 9,Miami,FL,33172,I,,CH,,100.00,,Zuniga
+Raquel Regalado,39,2016-04-30,C,Jaime  Suchlicki,1 Grove Isle Dr,Apt 1605,Coconut Grove,FL,33133,I,Professor,CH,,200.00,,Suchlicki
+Raquel Regalado,40,2016-04-30,C,Horacio  Garcia,23 Sidonia Avenue,,Coral Gables,FL,33136,I,Retired,CH,,250.00,,Garcia
+Raquel Regalado,41,2016-04-30,C,Alberto M Hernandez,145 madeira Ave,Suite 203,Coral Gables,FL,33134,I,Doctor,CH,,250.00,,Hernandez
+Raquel Regalado,42,2016-04-30,C,Gerardo F Santos,3101 San Vicente Street,,Coral Gables,FL,33146,I,Retired,CH,,250.00,,Santos
+Raquel Regalado,43,2016-04-30,C,Pedro V Roig,636 Navarre Ave,,Coral Gables,FL,33134,I,Retired,CH,,500.00,,Roig
+Raquel Regalado,1,2016-05-02,C,Olga  Pazos,8951 Abbott Avenue,,Surfside,FL,33154,I,Registered<br>Nurse,CH,,500.00,,Pazos
+Raquel Regalado,1,2016-05-02,E,Elaine  De Valle,10400 SW 82nd Ave,,Miami,FL,33156,,,MO,Communications Consulting,3500.00,,De Valle
+Raquel Regalado,3,2016-05-02,E,Christina  Cicilia,489 SW 6th Street,,Hialeah,FL,33010,,,MO,Campaign Coordinator,3500.00,,Cicilia
+Raquel Regalado,2,2016-05-04,E,Mark  Goodrich,5722 S Flamingo Road,
+Raquel Regalado,4,2016-05-06,E,Juan  Borcegue,541 SW 42nd Ave,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,5,2016-05-06,E,Yaraiky  Mena Gomez,511 NW 43rd PL,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,2,2016-05-09,C,Bennett  H Brummer,2050 NW 104th Way,,Gainsesville,FL,32606,I,,CH,,100.00,,Brummer
+Raquel Regalado,6,2016-05-09,E,"Love Fund, Inc.",10680 PBA Memorial Blvd,,Doral,FL,33172,,,MO,Gala Advertising,350.00,,"Love Fund, Inc."
+Raquel Regalado,7,2016-05-11,E,Marlene  Diaz,11915 SW 186th Street,,Miami,FL,33177,,,MO,Community Outreach,400.00,,Diaz
+Raquel Regalado,8,2016-05-11,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1250.00,,"Rodriguez Trueba & Co, CPA"
+Raquel Regalado,10,2016-05-11,E,USPS,1400 NW 97th Avenue,,Doral,FL,33172,,,MO,Stamps,94.00,,USPS
+Raquel Regalado,9,2016-05-13,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Office Work,250.00,,Borcegue
+Raquel Regalado,11,2016-05-16,E,"3dna,Corp d/b/a\""NationsBuilde",520 S Grand Avenue,,Los Angeles,CA,90071,,,MO,Software,1099.50,,"3dna,Corp d/b/a\""NationsBuilde"
+Raquel Regalado,12,2016-05-18,E,Economy Sign Supply,8047 NW 64th Street,,Miami,FL,33166,,,MO,Yard Signs,599.20,,Economy Sign Supply
+Raquel Regalado,13,2016-05-18,E,Miami-Dade County,2700 NW 87th Avenue,,Doral,FL,33172,,,MO,Data,60.00,,Miami-Dade County
+Raquel Regalado,3,2016-05-18,C,Steven  Greenberg,3640 Carlton Place,,Boca Raton,FL,33496,I,General<br>Contractor,CH,,1000.00,,Greenberg
+Raquel Regalado,4,2016-05-18,C,Cathey  Turner,8631 NW 4th Terrace,Apt 7,Miami,FL,33126,I,Retired,CH,,35.00,,Turner
+Raquel Regalado,17,2016-05-18,E,Democracy Engine,2125 14th Street NW,,Washington,DC,20009,,,MO,Service Charge,39.21,,Democracy Engine
+Raquel Regalado,14,2016-05-19,E,SMGQ Law,201 Alhambra Circle,Suite 1205,Coral Gables,FL,33134,,,MO,Legal Services,462.50,,SMGQ Law
+Raquel Regalado,15,2016-05-20,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,16,2016-05-20,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,20,2016-05-25,E,USPS,1700 NW 97th Ave,,Doral,FL,33172,,,MO,Stamps,940.00,,USPS
+Raquel Regalado,18,2016-05-26,E,Mark  Goodrich,5722 S Flamingo Road,Apt 522,Cooper City,FL,33330,,,MO,Political Consulting,185.00,,Goodrich
+Raquel Regalado,19,2016-05-27,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,5,2016-05-28,C,Maria C Doval,1700 SW 32nd Court,,Miami,FL,33145,I,,CH,,25.00,,Doval
+Raquel Regalado,6,2016-05-28,C,Alfredo  Del Rio Aisa,170 Ocean Lane Dr,Apt 805,Key Biscayne,FL,33149,I,Food &<br>Beverage-Dist.,CH,,150.00,,Del Rio Aisa
+Raquel Regalado,7,2016-05-28,C,Guadalupe  Martinez,330 Palmwood Lane,,Key Biscayne,FL,33149,I,Finance<br>Executive,CH,,150.00,,Martinez
+Raquel Regalado,8,2016-05-28,C,Gustavo C Civetta,350 Palmwood Lane,,Key Biscayne,FL,33149,I,Finance<br>Advisor,CH,,150.00,,Civetta
+Raquel Regalado,9,2016-05-28,C,Key Biscayne Rugby Rats,328 Crandon Blvd,Suite 225,Key Biscayne,FL,33149,B,Rugby Club,CH,,150.00,,Key Biscayne Rugby Rats
+Raquel Regalado,10,2016-05-28,C,Luis D Herrera,1181 SW 22nd Terrace,,Miami,FL,33129,I,Retired,CH,,200.00,,Herrera
+Raquel Regalado,11,2016-05-28,C,"Saintcorix1, LLC",6355 NW 36th Street,Suite 505,Virginia Gardens,FL,33166,B,Real<br>Estate,CH,,250.00,,"Saintcorix1, LLC"
+Raquel Regalado,12,2016-05-28,C,Christian  Garat,235 Cranwood Dr,,Key Biscayne,FL,33149,I,Finance<br>Consulting,CH,,250.00,,Garat
+Raquel Regalado,13,2016-05-28,C,Reynaldo  Figueredo,188 East 76th Street,Apt 18B,New York,NY,10021,I,Banker,CH,,250.00,,Figueredo
+Raquel Regalado,14,2016-05-28,C,"PAC Trading, LLC",365 Redwood Lane,,Key Biscayne,FL,33149,B,Food &<br>Beverage-Dist.,CH,,250.00,,"PAC Trading, LLC"
+Raquel Regalado,15,2016-05-28,C,Juan M Iribarne,1250 SW 16th Street,,Miami,FL,33145,I,Food &<br>Beverage-Co.<br>Exe,CH,,250.00,,Iribarne
+Raquel Regalado,16,2016-05-28,C,Juan  Gentile,101 Crandon Blvd,
+Raquel Regalado,17,2016-05-28,C,Tradermac Corporation,328 Crandon Blvd,Suite 222,Key Biscayne,FL,33149,B,Industrial<br>Equipment,CH,,250.00,,Tradermac Corporation
+Raquel Regalado,18,2016-05-28,C,Norberto Hernan Pisoni,330 Redwood,,Key Biscayne,FL,33149,I,Banker,CH,,250.00,,Pisoni
+Raquel Regalado,19,2016-05-28,C,1420 Garcia Investments LLC,11342 SW 100th Ave,,Miami,FL,33176,B,Real<br>Estate-Investments,CH,,100.00,,1420 Garcia Investments LLC
+Raquel Regalado,20,2016-05-28,C,Easy Mulch LLC,14181 SW 143rd Court,,Miami,FL,33186,B,Landscaping,CH,,200.00,,Easy Mulch LLC
+Raquel Regalado,21,2016-05-28,C,Key Biscayne Rugby Rats,328 Crandon Blvd,Suite 225,Key Biscayne,FL,33149,B,Rugby Club,CH,,296.00,,Key Biscayne Rugby Rats
+Raquel Regalado,22,2016-05-28,C,Sebastian  Salvat,670 Lake Rd,,Miami,FL,33137,I,Real<br>Estate<br>-Developer,CH,,300.00,,Salvat
+Raquel Regalado,23,2016-05-28,C,Maria Jimena  Lara,365 Redwood Lane,,Key Biscayne,FL,33149,I,Advertising,CH,,300.00,,Lara
+Raquel Regalado,24,2016-05-28,C,Hernan R Golod,1699 Tigertail Ave,,Miami,FL,33133,I,Realtor,CH,,500.00,,Golod
+Raquel Regalado,25,2016-05-31,C,Cirilo  Torres,534 NW 23rd Ave,,Miami,FL,33125,I,Retired,CH,,500.00,,Torres
+Raquel Regalado,1,2016-06-01,E,Christina  Cicilia,489 SE 6th Street,,Hialeah,FL,33010,,,MO,Campaign Coordinator,3500.00,,Cicilia
+Raquel Regalado,2,2016-06-01,E,Elaine  De Valle,10400 SW 82nd Avenue,,Miami,FL,33156,,,MO,Communications Consulting,3500.00,,De Valle
+Raquel Regalado,38,2016-06-01,C,Cathey  Turner,8631 NW 4th Terrace,Apt 7,Miami,FL,33126,I,Homemaker,CH,,35.00,,Turner
+Raquel Regalado,3,2016-06-02,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,4,2016-06-02,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign<br>Work,720.00,,Mena Gomez
+Raquel Regalado,5,2016-06-02,E,Mark  Goodrich,5722 S Flamingo Road,
+Raquel Regalado,6,2016-06-03,E,"TAMZ Social, Inc.",3250 NE 1st Ave,
+Raquel Regalado,39,2016-06-05,C,Leslie  Morrison,10201 SW 111th St,,Miami,FL,33176,I,Advertising<br>Sales,CH,,25.00,,Morrison
+Raquel Regalado,7,2016-06-06,E,Miami-Dade Coounty,2700 NW 87th Ave,,Doral,FL,33172,,,MO,Qualifying Fees,1800.00,,Miami-Dade Coounty
+Raquel Regalado,40,2016-06-07,C,John  Miquel,5378 S Lewiston St,,Centennial,CO,80015,I,Attorney,CH,,100.00,,Miquel
+Raquel Regalado,41,2016-06-08,C,Kevin  Guhl,426 Santander Ave,Apt 5,Coral Gables,FL,33134,I,Healthcare,CH,,50.00,,Guhl
+Raquel Regalado,42,2016-06-08,C,Raul  Enriquez,11670 SW 28th St,,Miami,FL,33165,I,Marine<br>Trailer-President,CH,,250.00,,Enriquez
+Raquel Regalado,43,2016-06-09,C,Marcelo  Radice,42 Samana Dr,,Miami,FL,33133,I,Bellacello<br>CEO,CH,,50.00,,Radice
+Raquel Regalado,1,2016-06-10,C,Inter-A-merican Cigar LLC,1876 NW 21st Terrace,,Miami,FL,33142,B,Cigar<br>Industry,CH,,25.00,,Inter-A-merican Cigar LLC
+Raquel Regalado,2,2016-06-10,C,Global Premium Cigars LLC,9310 SW 149th Street,,Miami,FL,33176,B,Cigar<br>Industry,CH,,200.00,,Global Premium Cigars LLC
+Raquel Regalado,3,2016-06-10,C,Eduardo R Ortega,441 Lakeview Dr,Apt 103,Weston,FL,33326,I,Cigar<br>Wholesaler,CH,,200.00,,Ortega
+Raquel Regalado,4,2016-06-10,C,Jose E Cala,17965 SW 104th Street,,Miami,FL,33196,I,Banker,CH,,250.00,,Cala
+Raquel Regalado,5,2016-06-10,C,Cano Tobacco Inc.,7351 NW 7th Street,Suite A,Miami,FL,33126,B,Cigar<br>Industry,CH,,100.00,,Cano Tobacco Inc.
+Raquel Regalado,6,2016-06-10,C,Cano Tobacco Inc.,7351 NW 7th Street,Suite A,Miami,FL,33126,B,Cigar<br>Industry,CH,,100.00,,Cano Tobacco Inc.
+Raquel Regalado,7,2016-06-10,C,Cigar Snob,9970 SW 12th Terrace,,Miami,FL,33174,B,Cigar<br>Industry,CH,,250.00,,Cigar Snob
+Raquel Regalado,8,2016-06-10,C,"Espinosa Cigars, LLC",10781 NW 89th Avenue,,Hialeah Gardens,FL,33018,B,Cigar<br>Industry,CH,,300.00,,"Espinosa Cigars, LLC"
+Raquel Regalado,9,2016-06-10,C,Reiss Engineering Inc.,1016 Spring Villas PT,,Winter Springs,FL,32708,B,Engineering,CH,,250.00,,Reiss Engineering Inc.
+Raquel Regalado,8,2016-06-10,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,9,2016-06-10,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1600.00,,"Rodriguez Trueba & Co, CPA"
+Raquel Regalado,44,2016-06-13,C,Juan  D\'Arce,11755 SW 18th St,,Miami,FL,33175,I,Litigation<br>Consultant,CH,,100.00,,D\'Arce
+Raquel Regalado,45,2016-06-13,C,Tim  Murphy,3838 S Douglas Rd,,Miami,FL,33133,I,Attorney,CH,,50.00,,Murphy
+Raquel Regalado,46,2016-06-14,C,Arthur  Furia,1717 N Bayshore Dr,Unit 4057,Miami,FL,33132,I,Attorney,CH,,500.00,,Furia
+Raquel Regalado,10,2016-06-16,E,"EL-AL Signs, Inc.",546 NW 57th Ave,,Miami,FL,33126,,,MO,Signs,9672.00,,"EL-AL Signs, Inc."
+Raquel Regalado,11,2016-06-16,E,"EL-AL Signs, Inc.",546 NW 57th Ave,,Miami,FL,33126,,,MO,Signs,2970.00,,"EL-AL Signs, Inc."
+Raquel Regalado,12,2016-06-16,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign<br>Work,720.00,,Mena Gomez
+Raquel Regalado,10,2016-06-17,C,"The Remarque Group, LLC",9737 NW 41st Street,Suite
+Raquel Regalado,13,2016-06-17,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,11,2016-06-20,C,Roberto  Fontanilla Roig,PO Box
+Raquel Regalado,12,2016-06-20,C,Misael L Amaro,6855 E Edgewater Dr,Apt 3A,Coral Gables,FL,33133,I,General<br>Contractor,CH,,250.00,,Amaro
+Raquel Regalado,13,2016-06-20,C,Felipe J Corina,1465 NW 126th Terrace,,Sunrise,FL,33323,I,Attorney,CH,,250.00,,Corina
+Raquel Regalado,14,2016-06-20,C,Cathy L Newman,***Protected***,,Miami,FL,33176,I,Homemaker,CH,,250.00,,Newman
+Raquel Regalado,15,2016-06-20,C,Edwards B Spicer,13722 SW 282nd Terrace,,Homestead,FL,33033,I,Construction<br>Manager,CH,,250.00,,Spicer
+Raquel Regalado,16,2016-06-20,C,Chad W Bumb,3564 Lakeview Dr,,Delray Beach,FL,33445,I,V.P.<br>Marketing,CH,,500.00,,Bumb
+Raquel Regalado,17,2016-06-20,C,Tyson J Di Petrillo,17375 32 Lane N.,,Loxahatchee,FL,33470,I,Construction<br>Project-Mgr,CH,,500.00,,Di Petrillo
+Raquel Regalado,18,2016-06-20,C,ER Fire Protection Engineerin,11123 SW 128th Place,,Miami,FL,33186,B,Engineering,CH,,500.00,,ER Fire Protection Engineerin
+Raquel Regalado,19,2016-06-20,C,Daniel F Sanger,6039 Collins Avenue,Apt 927,Miami Beach,FL,33140,I,Construction<br>Manager,CH,,500.00,,Sanger
+Raquel Regalado,20,2016-06-20,C,Omar A Jaimes,10357 NW 16th Court,,Coral Springs,FL,33071,I,Construction<br>Management,CH,,500.00,,Jaimes
+Raquel Regalado,21,2016-06-20,C,MV Self Storage LLC,13943 SW 140th Street,,Miami,FL,33186,B,Mini<br>Storage,CH,,1000.00,,MV Self Storage LLC
+Raquel Regalado,22,2016-06-20,C,Lynx Construction Management,45 Almeria Avenue,,Coral Gables,FL,33134,B,Construction<br>Management,CH,,1000.00,,Lynx Construction Management
+Raquel Regalado,23,2016-06-20,C,Coltec Engineering Inc.,12169 SW 131st Avenue,,Miami,FL,33186,B,Engineering,CH,,250.00,,Coltec Engineering Inc.
+Raquel Regalado,14,2016-06-21,E,TAMZ Social Inc.,3250 NE 1st Ave,
+Raquel Regalado,24,2016-06-23,C,Gus  Machado,2451 Brickell Avenue,,Miami,FL,33129,I,Travel<br>Specialist,CH,,100.00,,Machado
+Raquel Regalado,25,2016-06-23,C,La Bella Salon Inc.,2417 Galiano Street,,Coral Gables,FL,33134,B,Beauty<br>Salon,CH,,300.00,,La Bella Salon Inc.
+Raquel Regalado,26,2016-06-23,C,Nabil J Achkar,200 S Biscayne Blvd,
+Raquel Regalado,27,2016-06-23,C,Anthony  Lei,2135 Ixora Rd,,North Miami,FL,33181,I,Hardware<br>Store-Owner,CH,,500.00,,Lei
+Raquel Regalado,28,2016-06-23,C,Luis  Chi,8621 SW 5th Street,,Miami,FL,33144,I,Chinese<br>Assoc.-Chairman,CH,,500.00,,Chi
+Raquel Regalado,29,2016-06-23,C,"BIA & Company, Inc.",320 Sevilla Avenue,Suite 201,Coral Gables,FL,33134,B,Real<br>Estate,CH,-,100.00,,"BIA & Company, Inc."
+Raquel Regalado,30,2016-06-23,C,US Latin American Internation,2710 NW 24th Street,,Miami,FL,33142,B,Tourism,CH,,150.00,,US Latin American Internation
+Raquel Regalado,31,2016-06-23,C,Lucmar Gas & Diesel Services,7090 SW 2nd Street,,Miami,FL,33144,B,Petroleum<br>Products,CH,,500.00,,Lucmar Gas & Diesel Services
+Raquel Regalado,32,2016-06-23,C,PRX Incorporated,3601 NE Federal Hwy,Suite 125,Miami,FL,33137,B,Pharmacy,CH,,500.00,,PRX Incorporated
+Raquel Regalado,33,2016-06-23,C,USA Ornamental Iron Inc.,675 NW 5th Street,,Miami,FL,33128,B,Iron Works,CH,,500.00,,USA Ornamental Iron Inc.
+Raquel Regalado,34,2016-06-23,C,"Fortune of the Chi, Inc.",2710 NW 24th Street,,Miami,FL,33142,B,Real<br>Estate,CH,,500.00,,"Fortune of the Chi, Inc."
+Raquel Regalado,35,2016-06-23,C,"99 Property Investments, Inc.",720 NW 27th Aveneu,,Miami,FL,33125,B,Real<br>Estate<br>-Investment,CH,,500.00,,"99 Property Investments, Inc."
+Raquel Regalado,36,2016-06-23,C,"Fresh Florida Fisheries, LLC",2238 SW 57th Avenue,,Miami,FL,33155,B,Restaurant,CH,,500.00,,"Fresh Florida Fisheries, LLC"
+Raquel Regalado,37,2016-06-23,C,Casablanca Fish Market Inc.,404 NW North River Dr,,Miami,FL,33128,B,Restaurant,CH,,500.00,,Casablanca Fish Market Inc.
+Raquel Regalado,15,2016-06-24,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,16,2016-06-24,E,Democracy Engine,2125 14th Street NW,,Washington,DC,20009,,,MO,Service Charge,45.27,,Democracy Engine
+Raquel Regalado,1,2016-06-28,E,Foundation  Key Biscayne Community,50 W Mcintyre Street,Suite 200,Key Biscayne,FL,33149,,,MO,July 4th Parade Advertising,1000.00,,Key Biscayne Community
+Raquel Regalado,2,2016-06-28,E,"\""NationBuilder\""  3dna, Corp. d/b/a/",520 S Grand Avenue,,Los Angeles,CA,90071,,,MO,Software,2199.00,,"3dna, Corp. d/b/a/ "
+Raquel Regalado,3,2016-07-01,E,Christina  Cicilia,489 SE 6th Street,,Hialeah,FL,33010,,,MO,Campaign<br>Coordinator,3833.09,,Cicilia
+Raquel Regalado,4,2016-07-01,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,5,2016-07-01,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,6,2016-07-01,E,Mark  Goodrich,5722 S Flamingo Road,
+Raquel Regalado,7,2016-07-05,E,Elaine  De Valle,10400 SW 82nd Avenue,,Miami,FL,33156,,,MO,Communications Consulting,3500.00,,De Valle
+Raquel Regalado,8,2016-07-05,E,Biscayne Times,PO Box 370566,,Miami,FL,33137,,,MO,Advertising,665.00,,Biscayne Times
+Raquel Regalado,9,2016-07-07,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,1,2016-07-07,C,Hilda Margarita Garcia,761 SE 4th Place,,Hialeah,FL,33010,I,,CH,,25.00,,Garcia
+Raquel Regalado,2,2016-07-07,C,Jose M Almonte,5890 NW 186th Street,Apt 102,Hialeah,FL,33015,I,,CH,,25.00,,Almonte
+Raquel Regalado,3,2016-07-07,C,Edward  Paulino,15745 NW 52nd Avenue,Apt 208,Hialeah,FL,33014,I,,CH,,25.00,,Paulino
+Raquel Regalado,4,2016-07-07,C,Manuel  Diaz,765 SE 4th Place,,Hialeah,FL,33010,I,,CH,,50.00,,Diaz
+Raquel Regalado,5,2016-07-07,C,Herbert  M Levin,601 NE 36th Street,Apt 3107,Miami,FL,33137,I,Marketing,CH,,200.00,,Levin
+Raquel Regalado,6,2016-07-07,C,Insurance Appraisal Services,2350 Coral Way,Suite 403,Coral Gables,FL,33145,B,Insurance<br>Appraisal,CH,,20.00,,Insurance Appraisal Services
+Raquel Regalado,7,2016-07-07,C,Prime Cigar Brickell LLC,1106 S Miami Avenue,Suite 202,Miami,FL,33130,B,Cigar<br>Industry,CH,,1000.00,,Prime Cigar Brickell LLC
+Raquel Regalado,8,2016-07-07,C,"Woolpert, Inc.",4454 Idea Center Blvd,,Dayton,OH,45430,F,PAC,CH,,500.00,,"Woolpert, Inc."
+Raquel Regalado,9,2016-07-07,C,Elio  Mencia,1740 NW 3rd Street,,Miami,FL,33125,I,,CH,,10.00,,Mencia
+Raquel Regalado,10,2016-07-07,C,John  Cantillo,7842 NW 164th Street,,Miami Lakes,FL,33016,I,Insurance<br>Agent,CH,,100.00,,Cantillo
+Raquel Regalado,11,2016-07-07,C,Jorge  Camaraza,318 Atlantic Isle,,Sunny Isle,FL,33160,I,Sales/Field<br>Distributor,CH,,250.00,,Camaraza
+Raquel Regalado,12,2016-07-07,C,George  Bronstein,3261 SW 18th Terrace,,Miami,FL,33145,I,Accountant,CH,,50.00,,Bronstein
+Raquel Regalado,10,2016-07-07,E,Democracy Engine,2125 14th Street NW,,Washington,DC,20009,,,MO,Service Charge,16.16,,Democracy Engine
+Raquel Regalado,1,2016-07-13,E,Rodriguez Trueba & Co. CPA,1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1800.00,,Rodriguez Trueba & Co. CPA
+Raquel Regalado,2,2016-07-13,E,"G&R Strategies, LLC",9363 Fontainebleau Blvd,H-106,Miami,FL,33172,,,MO,Campaign Consulting,15000.00,,"G&R Strategies, LLC"
+Raquel Regalado,3,2016-07-14,E,Jose F Regalado,2424 SW 20th Street,,Miami,FL,33145,,,RM,E-mail<br>Marketing,1065.00,,Regalado
+Raquel Regalado,4,2016-07-14,E,"Tamzil, Inc.",911 SW 87th Terrace,,Plantation,FL,33324,,,MO,Video Production,6200.00,,"Tamzil, Inc."
+Raquel Regalado,1,2016-07-14,D,MailChimp,675 Ponce de Leon Ave NE,
+Raquel Regalado,1,2016-07-15,C,Juan E Puig,18768 SW 79th Ave,,Miami,FL,33157,I,Real<br>Estate,CH,,60.00,,Puig
+Raquel Regalado,2,2016-07-15,C,Rodolfo  Rodriguez,1022 NW 133rd Court,,Miami,FL,33182,I,Realtor,CH,,100.00,,Rodriguez
+Raquel Regalado,3,2016-07-15,C,The Gables at Temple Terrace,250 Giralda Ave,,Coral Gables,FL,33134,B,Real<br>Estate,CH,,100.00,,The Gables at Temple Terrace
+Raquel Regalado,4,2016-07-15,C,Eddy  Frances,3191 Coral Way,Suite 400,Miami,FL,33145,I,Architect,CH,,100.00,,Frances
+Raquel Regalado,5,2016-07-15,C,Stephan A Klumpp,1620 Micanopy Ave,,Miami,FL,33133,I,Real<br>Estate,CH,,200.00,,Klumpp
+Raquel Regalado,6,2016-07-15,C,Juan  Perez,7860 Camino Real,Apt L408,Miami,FL,33143,I,Real<br>Estate,CH,,100.00,,Perez
+Raquel Regalado,7,2016-07-15,C,Maria A Morales,3431 NW 2nd Terrace,,Miami,FL,33125,I,Retired,CH,,200.00,,Morales
+Raquel Regalado,8,2016-07-15,C,Aldo  Beretta,2041 Renaissance Blvd,Apt 102,Miramar,FL,33025,I,Construction<br>,CH,,200.00,,Beretta
+Raquel Regalado,9,2016-07-15,C,PPA Holdings,PO Box
+Raquel Regalado,10,2016-07-15,C,Juan E Puig,18768 SW 79th Ave,,Miami,FL,33157,I,Real<br>Estate,CH,,200.00,,Puig
+Raquel Regalado,11,2016-07-15,C,Farris C Joseph,369 SW 28th Road,,Miami,FL,33129,I,Retired,CH,,250.00,,Joseph
+Raquel Regalado,12,2016-07-15,C,Robert  Padron,266 Giralda Ave,,Coral Gables,FL,33134,I,Mortgage<br>Broker,CH,,300.00,,Padron
+Raquel Regalado,13,2016-07-15,C,Tavanier Farms LLC,14209 SW 8th Terrace,,Miami,FL,33184,B,Agriculture,CH,,100.00,,Tavanier Farms LLC
+Raquel Regalado,14,2016-07-15,C,Retamar Real Estate Co Inc.,1111 Crandon Blvd,Apt C904,Key Biscayne,FL,33149,B,Real<br>Estate,CH,,200.00,,Retamar Real Estate Co Inc.
+Raquel Regalado,15,2016-07-15,C,Piedras International,5717 SW 8th Street,,Miami,FL,33144,B,Granite<br>Dist,CH,,200.00,,Piedras International
+Raquel Regalado,16,2016-07-15,C,Medium Chief Inc.,1516 NW 27th Ave,,Miami,FL,33125,B,Liquor<br>Store,CH,,250.00,,Medium Chief Inc.
+Raquel Regalado,17,2016-07-15,C,Jensen\'s Liquor No 3,2150 NW 17th Ave,,Miami,FL,33142,B,Liquor<br>Store,CH,,250.00,,Jensen\'s Liquor No 3
+Raquel Regalado,18,2016-07-15,C,Miami Liquors,2159 NW 7th Street,,Miami,FL,33125,B,Liquor<br>Store,CH,,250.00,,Miami Liquors
+Raquel Regalado,19,2016-07-15,C,Jensens Liquors,1646 SW 27th Ave,,Miami,FL,33145,B,Liquor<br>Store,CH,,250.00,,Jensens Liquors
+Raquel Regalado,20,2016-07-15,C,Garcia Lorenzo & Associates,6527 Coral Way,,Miami,FL,33155,B,Insurance<br>Services,CH,,250.00,,Garcia Lorenzo & Associates
+Raquel Regalado,21,2016-07-15,C,44th Street Land Trust,7035 SW 44th Street,,Miami,FL,33155,B,Trust,CH,,250.00,,44th Street Land Trust
+Raquel Regalado,22,2016-07-15,C,"Heliplex, LLC",80 State Street,,Albany,NY,12207,B,Helicopter<br>Services,CH,,1000.00,,"Heliplex, LLC"
+Raquel Regalado,23,2016-07-15,C,"N.Y.H. Operating, Inc.",20 South Street,Pier 6,New York,NY,10004,B,Helicopter<br>Services,CH,,1000.00,,"N.Y.H. Operating, Inc."
+Raquel Regalado,24,2016-07-15,C,New York Helicopter Charter,20 South Street,Pier 6,New York,NY,10004,B,Helicopter<br>Services,CH,,1000.00,,New York Helicopter Charter
+Raquel Regalado,25,2016-07-15,C,Estate Investments Group LLC,4949 SW 75th Avenue,,Miami,FL,33155,B,Real<br>Estate-Investments,CH,,1000.00,,Estate Investments Group LLC
+Raquel Regalado,5,2016-07-15,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,6,2016-07-15,E,Juan  Borcegue,541 SW 42nd Ave,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,7,2016-07-18,E,Libertad News,825 SW 28th Road,,Miami,FL,33129,,,MO,Advertising,400.00,,Libertad News
+Raquel Regalado,8,2016-07-19,E,Libertad News,825 SW 28th Road,,Miami,FL,33129,,,MO,Advertising,1000.00,,Libertad News
+Raquel Regalado,9,2016-07-21,E,"G&R Strategies, LLC",9363 Fontainebleau Blvd,H-106,Miami,FL,33172,,,MO,Phone Bank,6050.00,,"G&R Strategies, LLC"
+Raquel Regalado,26,2016-07-21,C,Maria  Teresa Tanglia,18800 NE 29th Ave,Apt 915,Miami,FL,33180,I,,CH,,10.00,,Tanglia
+Raquel Regalado,27,2016-07-21,C,Luis A Arderi,6621 SW 137th Ct,Apt D,Miami,FL,33183,I,,CH,,10.00,,Arderi
+Raquel Regalado,28,2016-07-21,C,Gabriela P Serrano,13705 SW 84th St,Unit H,Miami,FL,33183,I,,CH,,10.00,,Serrano
+Raquel Regalado,29,2016-07-21,C,Freddy  Borges,1408 Brickell Bay Dr,Apt 1103,Miami,FL,33131,I,,CH,,10.00,,Borges
+Raquel Regalado,30,2016-07-21,C,Susana  Kinchen,558 NE 96th St,,Miami Shores,FL,33138,I,,CH,,10.00,,Kinchen
+Raquel Regalado,31,2016-07-21,C,Asuncion  Puri,1408 Brickell Bay Dr,Apt 1202,Miami,FL,33131,I,,CH,,10.00,,Puri
+Raquel Regalado,32,2016-07-21,C,Ana Marie Procacci,1430 Brickell Bay Dr,,Miami,FL,33131,I,,CH,,10.00,,Procacci
+Raquel Regalado,33,2016-07-21,C,Alba  Salix,1450 Brickell Bay Dr,Apt 2001,Miami,FL,33131,I,,CH,,15.00,,Salix
+Raquel Regalado,34,2016-07-21,C,Luis I Rosas Guyon,11401 SW 40th St,Suite 245,Miami,FL,33165,I,Engineer,CH,,250.00,,Rosas Guyon
+Raquel Regalado,35,2016-07-21,C,Elba  Martinez,1200 W 79th St,,Hialeah,FL,33014,I,,CH,,10.00,,Martinez
+Raquel Regalado,36,2016-07-21,C,Alba Lidia Jorge,12250 SW 30th St,,Miami,FL,33175,I,,CH,,10.00,,Jorge
+Raquel Regalado,37,2016-07-21,C,Aura  Santos,13953 SW 66th St,Apt 302B,Miami,FL,33183,I,,CH,,10.00,,Santos
+Raquel Regalado,38,2016-07-21,C,Judy  Santos,218 SE 14th St,Apt 1403,Miami,FL,33131,I,,CH,,10.00,,Santos
+Raquel Regalado,39,2016-07-21,C,Michael D Leibowitz,218 SE 14th St,Apt 803,Miami,FL,33131,I,,CH,,10.00,,Leibowitz
+Raquel Regalado,40,2016-07-21,C,Pablo  Perez-Cisneros,1420 Brickell Bay Dr,Apt 308,Miami,FL,33131,I,,CH,,10.00,,Perez-Cisneros
+Raquel Regalado,41,2016-07-21,C,Ana Maria Vivo,1420 Brickell Bay Dr,Apt 305,Miami,FL,33131,I,,CH,,10.00,,Vivo
+Raquel Regalado,42,2016-07-21,C,Ana  Maria Remenyi,1420 Brickell Dr,Apt 305,Miami,FL,33131,I,,CH,,10.00,,Remenyi
+Raquel Regalado,43,2016-07-21,C,Financial Services  1st Choice Automotive,8004 NW 154th Street,Suite 108,Miami Lakes,FL,33016,B,,CH,,10.00,,1st Choice Automotive
+Raquel Regalado,44,2016-07-21,C,Community Health Care PC,1601 NW 8th Ave,,Miami,FL,33136,F,PC,CH,,1000.00,,Community Health Care PC
+Raquel Regalado,10,2016-07-22,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,11,2016-07-22,E,"TAMZ Social, Inc.",3250 NE 1st Avenue,Suite 302,Miami,FL,33137,,,MO,Digital Media,500.00,,"TAMZ Social, Inc."
+Raquel Regalado,1,2016-07-28,E,Yaraiky  Mena Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena Gomez
+Raquel Regalado,2,2016-07-28,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,1,2016-07-29,C,RY Equipment Trading LLC,2479 NW 36th Street,,Miami,FL,33142,B,Truck<br>Dealer,CH,,300.00,,RY Equipment Trading LLC
+Raquel Regalado,2,2016-07-29,C,Miami Grandstand Entertainment,2330 W 79th Street,,Hialeah,FL,33016,B,Bleachers<br>Mfr,CH,,500.00,,Miami Grandstand Entertainment
+Raquel Regalado,3,2016-07-29,C,Carlos J Arboleya,1941 SW 23rd Street,,Miami,FL,33145,I,Retired,CH,,500.00,,Arboleya
+Raquel Regalado,4,2016-07-29,C,Harris Sanitation Inc.,2700 NW 478th Street,,Pompano Beach,FL,33073,B,Waste<br>Services,CH,,1000.00,,Harris Sanitation Inc.
+Raquel Regalado,5,2016-07-29,C,"Trail Ridge Landfill, INc.",2700 NW 48th Street,,Pompano,FL,33073,B,Landfill,CH,,500.00,,"Trail Ridge Landfill, INc."
+Raquel Regalado,6,2016-07-29,C,Extra Supermarket Group Inc,12890 SW 8th Street,,Miami,FL,33184,B,Supermarket,CH,,1000.00,,Extra Supermarket Group Inc
+Raquel Regalado,7,2016-07-29,C,Makers Shoes,2058 NW Miami Ct,,Miami,FL,33127,B,Shoe Mft,CH,,1000.00,,Makers Shoes
+Raquel Regalado,8,2016-07-29,C,Marcos A Ramos,2765 SW 32nd Court,,Miami,FL,33133,I,Retired,CH,,100.00,,Ramos
+Raquel Regalado,9,2016-07-29,C,H.S. Aguirre & Associates,2730 SW 3rd Avenue,,Miami,FL,33129,B,Mortgage<br>Broker,CH,,500.00,,H.S. Aguirre & Associates
+Raquel Regalado,1,2016-08-03,C,Evidio  Pereira,4670 W 3th Lane,Apt 501,Hialeah,FL,33012,I,Retired,CH,,100.00,,Pereira
+Raquel Regalado,2,2016-08-03,C,Paul  Nasar,8801 SE 52nd St,,Miami,FL,33165,I,Electric<br>Cigarette-Sales-,CH,,500.00,,Nasar
+Raquel Regalado,3,2016-08-03,C,Elie R Bunassar,801 Brickell Bay Dr,Apt 1061,Miami,FL,33131,I,IT<br>Specialist,CH,,500.00,,Bunassar
+Raquel Regalado,4,2016-08-03,C,Don Cash Inc.,3012 NW 2nd Avenue,,Miami,FL,33127,B,Pawn Shop,CH,,500.00,,Don Cash Inc.
+Raquel Regalado,5,2016-08-03,C,North  United Teachers of Dade Tiger,2200 Biscayne Blvd,,Miami,FL,33137,F,PC,CH,,1000.00,,United Teachers of Dade Tiger
+Raquel Regalado,6,2016-08-03,C,"Cope, Inc.  United Teachers of Dade Tiger",2200 Biscayne Blvd,,Miami,FL,33137,F,PC,CH,,1000.00,,United Teachers of Dade Tiger
+Raquel Regalado,7,2016-08-03,C,Cope South  United Teachers of Dade Tiger,2200 Biscayne Blvd,,Miami,FL,33137,F,PC,CH,,1000.00,,United Teachers of Dade Tiger
+Raquel Regalado,8,2016-08-03,C,Dade County PBA,10680 NW 25th Street,,Miami,FL,33172,F,PAC,CH,,1000.00,,Dade County PBA
+Raquel Regalado,9,2016-08-03,C,"By The People, For The People",10680 NW 25th Street,,Doral,FL,33172,F,PAC,CH,,1000.00,,"By The People, For The People"
+Raquel Regalado,10,2016-08-03,C,International Longshoreman Ass,816 NW 2nd Avenue,,Miami,FL,33136,F,PAC,CH,,1000.00,,International Longshoreman Ass
+Raquel Regalado,11,2016-08-03,C,Maritime Leadership Committee,1007 N America Way,Suite 407,Miami,FL,33132,F,PAC,CH,,500.00,,Maritime Leadership Committee
+Raquel Regalado,1,2016-08-03,E,"G&R Strategies, LLC",9363 Fontainebleau Blvd,H-106,Miami,FL,33172,,,MO,Phone Bank,6050.00,,"G&R Strategies, LLC"
+Raquel Regalado,2,2016-08-03,E,Elaine  De Valle,10400 SW 82nd Avenue,,Miami,FL,33156,,,MO,Communications Consulting,3500.00,,De Valle
+Raquel Regalado,3,2016-08-03,E,Biscayne Times,PO Box
+Raquel Regalado,4,2016-08-03,E,Christina  Cicilia,489 SE 6th Street,,Hialeah,FL,33010,,,MO,Campaign Coordinator,5544.19,,Cicilia
+Raquel Regalado,5,2016-08-03,E,Mark  Goodrich,5722 S Flamingo Rd,
+Raquel Regalado,6,2016-08-03,E,Mark  Goodrich,5722 S Flamingo Rd,
+Raquel Regalado,7,2016-08-03,E,"EL-AL Signs, Inc.",546 NW 57th Aveneu,,Miami,FL,33126,,,MO,Signs,500.00,,"EL-AL Signs, Inc."
+Raquel Regalado,8,2016-08-03,E,"EL-AL Signs, Inc.",546 NW 57th Avenue,,Miami,FL,33126,,,MO,Signs,1485.00,,"EL-AL Signs, Inc."
+Raquel Regalado,9,2016-08-03,E,China Hardware Bldg Supplies,720 NW 27th Ave,,Miami,FL,33125,,,MO,Hardware,163.55,,China Hardware Bldg Supplies
+Raquel Regalado,10,2016-08-03,E,"Yvannka Consultants, Inc.",6500 Arthur Street,,Hollywood,FL,33024,,,MO,Radio Advertising,500.00,,"Yvannka Consultants, Inc."
+Raquel Regalado,11,2016-08-03,E,Jean  Alisma,1474 NE 178th St,,N Miami Beach,FL,33162,,,MO,Radio Advertising,500.00,,Alisma
+Raquel Regalado,12,2016-08-03,E,"Radio Kalbas, LLC",PO Box
+Raquel Regalado,13,2016-08-03,E,Economy Sign Supply,8047 NW 64th Street,,Miami,FL,33166,,,MO,Sign Stakes,299.60,,Economy Sign Supply
+Raquel Regalado,14,2016-08-03,E,"3dna, Corp. d/b/a NationBilder",520 S Grand Avenue,"2nd Floor, #200",Los Angeles,CA,90071,,,MO,Software,1099.50,,"3dna, Corp. d/b/a NationBilder"
+Raquel Regalado,12,2016-08-04,C,Wayne M Louk,13203 SW 40th Ter,,Miami,FL,33175,I,Retired,CH,,100.00,,Louk
+Raquel Regalado,13,2016-08-04,C,Yack  Chong,11450 SW 32nd Street,,Miami,FL,33165,I,Retired,CH,,100.00,,Chong
+Raquel Regalado,14,2016-08-04,C,Wayne M Louk,13203 SW 40th Ter,,Miami,FL,33175,I,Retired,CH,,100.00,,Louk
+Raquel Regalado,15,2016-08-04,C,Patricia M Coronel,2726 SW 5th Avenue,,Miami,FL,33129,I,Teacher,CH,,100.00,,Coronel
+Raquel Regalado,16,2016-08-04,C,Eileen C Gusasola,1800 Columbus Blvd,,Miami,FL,33134,I,News<br>Anchor,CH,,100.00,,Gusasola
+Raquel Regalado,17,2016-08-04,C,Mirtha  Batista,5754 Coral Way,,Miami,FL,33155,I,Retired,CH,,150.00,,Batista
+Raquel Regalado,18,2016-08-04,C,"ARC Investments Partners, LLC",530 Sabal Palm Road,,Miami,FL,33137,B,Real<br>Estate-Investments,CH,,250.00,,"ARC Investments Partners, LLC"
+Raquel Regalado,19,2016-08-04,C,Maria  E Lora,115 NW 196th Street,,Miami,FL,33160,I,Sales<br>Associate,CH,,250.00,,Lora
+Raquel Regalado,20,2016-08-04,C,Eduardo  Barba,6021 N Kendall Dr,,South Miami,FL,33156,I,Enviro<br>Waste /<br>CFO,CH,,500.00,,Barba
+Raquel Regalado,21,2016-08-04,C,Jacqueline  Barba,6021 SW 88th Street,,South Miami,FL,33156,I,FIU<br>Finance<br>Director,CH,,500.00,,Barba
+Raquel Regalado,22,2016-08-04,C,3PI LLC,18001 Old Cutler Rd,Suite 554,Miami,FL,33157,B,Real<br>Estate,CH,,500.00,,3PI LLC
+Raquel Regalado,23,2016-08-04,C,Yum Yum Chinese Restaurant,3104 Coral Way,,Miami,FL,33145,B,Restaurant,CH,,1000.00,,Yum Yum Chinese Restaurant
+Raquel Regalado,15,2016-08-05,E,Juan  Borcegue,541 SW 42nd Ave,Apt 126,Miami,FL,33164,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,1,2016-08-08,C,Steven  Marcus,20411 NE 22nd Place,,Miami,FL,33180,I,CEO/Health<br>Foundation,CH,,100.00,,Marcus
+Raquel Regalado,2,2016-08-08,C,Hilda  Alonso,345 SW 25th Road,,33129,FL,50,I,Express<br>Staffing-Recruiter,CH,,50.00,,Alonso
+Raquel Regalado,3,2016-08-08,C,Franky  Faze,222 NE 25th Street,Apt 110,Miami,FL,33137,I,Entrepreneur,CH,,50.00,,Faze
+Raquel Regalado,4,2016-08-08,C,Charles  Kersey,824 Osceola Street,,Lakeland,FL,33801,I,Computer<br>technician,CH,,10.00,,Kersey
+Raquel Regalado,1,2016-08-08,E,Democracy Engine,2125 14th Street NW,,Washington,DC,20009,,,MO,Service<br>Charge,8.66,,Democracy Engine
+Raquel Regalado,2,2016-08-08,E,Mark  Goodrich,5722 S Flamingo Rd,
+Raquel Regalado,3,2016-08-08,E,"Image Plus Graphics, Inc.",1440 NE 131st Street,Suite 1205,North Miami,FL,33134,,,MO,Printing Handfans,3593.06,,"Image Plus Graphics, Inc."
+Raquel Regalado,4,2016-08-08,E,"TAMZ Social, Inc.",3250 NE 1st Ave,
+Raquel Regalado,5,2016-08-08,E,City of Hialeah,501 Palm Avenue,,Hialeah,FL,33010,,,MO,Signs Bond,150.00,,City of Hialeah
+Raquel Regalado,6,2016-08-09,E,Miami Dade County,2700 NW 87th Avenue,,Doral,FL,33172,,,MO,Data,300.00,,Miami Dade County
+Raquel Regalado,7,2016-08-09,E,Mark  Goodrich,5711 S Flamingo Rd,
+Raquel Regalado,8,2016-08-09,E,Artees Corp.,7718 NW 54th Street,,Doral,FL,33166,,,MO,Print T-Shirts,1178.85,,Artees Corp.
+Raquel Regalado,5,2016-08-10,C,Harold  Mandell,3037 SW 138th Avenue,,Miramar,FL,33027,I,,CH,,100.00,,Mandell
+Raquel Regalado,9,2016-08-10,E,iTech2Fix,8552 SW 8th Street,,Miami,FL,33144,,,MO,Tablets,650.00,,iTech2Fix
+Raquel Regalado,6,2016-08-12,C,Kun W Lo,13903 NW 11th Place,,Pembroke Pines,FL,33028,I,Retired,CH,,200.00,,Lo
+Raquel Regalado,7,2016-08-12,C,Wei Kuen Li,16323 NW 23rd Street,,Pembroke Pines,FL,33028,I,Retired,CH,,100.00,,Li
+Raquel Regalado,8,2016-08-12,C,Shui  Po,2887 W 72nd Terrace,,Hialeah,FL,33018,I,Retired,CH,,100.00,,Po
+Raquel Regalado,10,2016-08-12,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,11,2016-08-12,E,Yaraiky  Mena-Gomez,511 NW 43rd Place,,Miami,FL,33126,,,MO,Campaign Work,720.00,,Mena-Gomez
+Raquel Regalado,12,2016-08-12,E,"EL-AL Signs, Inc.",546 NW 57th Avenue,,Miami,FL,33126,,,MO,Signs,170.00,,"EL-AL Signs, Inc."
+Raquel Regalado,13,2016-08-12,E,"Rodriguez Trueba & Co, CPA",1985 NW 88th Court,Suite 101,Doral,FL,33172,,,MO,Accounting & Reporting Services,1300.00,,"Rodriguez Trueba & Co, CPA"
+Raquel Regalado,1,2016-08-15,C,Hugo  Arza,1768 SW 15th Street,,Miami,FL,33145,I,Attorney,CH,,1000.00,,Arza
+Raquel Regalado,2,2016-08-15,C,Rosa  Castro Feinberg,2660 SW 119th Court,,Miami,FL,33175,I,Retired<br>Educator,CH,,10.00,,Castro Feinberg
+Raquel Regalado,3,2016-08-15,C,Carlos  Mejia,1629 NW 35th Street,Apt A1,Miami,FL,33142,I,,CH,,10.00,,Mejia
+Raquel Regalado,4,2016-08-15,C,John  Cantillo,7842 NW 164th Street,,Miami Lakes,FL,33016,I,Underwriter<br>/ Aetna,CH,,75.00,,Cantillo
+Raquel Regalado,1,2016-08-15,E,Mark  Goodrich,5722 S Flamingo Road,
+Raquel Regalado,2,2016-08-15,E,Democracy Engine,2125 14th Street NW,,Washington,DC,20009,,,MO,Service Charge,41.85,,Democracy Engine
+Raquel Regalado,5,2016-08-16,C,Raul  Enriquez,9005 NW 93rd Street,,Medley,FL,33178,I,Marine<br>Trailer-/President,CH,,500.00,,Enriquez
+Raquel Regalado,6,2016-08-16,C,Zoila M Sobrino,14000 SW 192nd Avenue,,Miami,FL,33196,I,,CH,,50.00,,Sobrino
+Raquel Regalado,7,2016-08-16,C,Connie  Meras,9 Island Avenue,Apt 703,Miami Beach,FL,33139,I,,CH,,25.00,,Meras
+Raquel Regalado,11,2016-08-16,E,Democracy Engine,2125 14th Street NW,,Washington,DC,20009,,,MO,Service Charge,22.15,,Democracy Engine
+Raquel Regalado,8,2016-08-17,C,Maria Elena Prio,1550 Tigertail Avenue,,Miami,FL,33133,I,Attorney,CH,,25.00,,Prio
+Raquel Regalado,9,2016-08-17,C,Jorge  Triana,130 NW 87th St,H208,Miami,FL,33172,I,Healthcare,CH,,10.00,,Triana
+Raquel Regalado,10,2016-08-17,C,Margar  Mendez,5261 SW 4th Street,
+Raquel Regalado,3,2016-08-17,E,Democracy Engine,2125 14th Street NW,,Washington,DC,20009,,,MO,Service Charge,11.27,,Democracy Engine
+Raquel Regalado,5,2016-08-18,E,"Image Plus Graphics, Inc.",1440 NE 131st Street,,North Miami,FL,33161,,,MO,Printing,1489.44,,"Image Plus Graphics, Inc."
+Raquel Regalado,11,2016-08-19,C,Russell L Weaver,2100 S Ocean Dr,Apt 16H,Ft Lauderdale,FL,33316,I,Real<br>Estate,CH,,150.00,,Weaver
+Raquel Regalado,12,2016-08-19,C,Ruben A Hernandez-Gregorat,5616 NW 112th Psge,,Doral,FL,33178,I,Engineer,CH,,250.00,,Hernandez-Gregorat
+Raquel Regalado,13,2016-08-19,C,Humberto P Alonso,500 SW 26th Road,,Miami,FL,33129,I,Teacher,CH,,250.00,,Alonso
+Raquel Regalado,14,2016-08-19,C,Martha A Perez-Tamayo,1660 Coral Gate Dr,,Miami,FL,33145,I,Homemaker,CH,,250.00,,Perez-Tamayo
+Raquel Regalado,15,2016-08-19,C,Norma G Rodriguez,5700 SW 97th Street,,Miami,FL,33156,I,Homemaker,CH,,500.00,,Rodriguez
+Raquel Regalado,16,2016-08-19,C,Segafredo Espresso,412 Espanola Way,,Miami Beach,FL,33139,B,Restaurant,CH,,500.00,,Segafredo Espresso
+Raquel Regalado,17,2016-08-19,C,Chao Cajun
+Raquel Regalado,18,2016-08-19,C,"Miami Cubano, LLC",412 Espanola Way,,Miami Beach,FL,33139,B,Restaurant,CH,,500.00,,"Miami Cubano, LLC"
+Raquel Regalado,4,2016-08-19,E,Juan  Borcegue,541 SW 42nd Avenue,Apt 126,Miami,FL,33134,,,MO,Campaign Work,250.00,,Borcegue
+Raquel Regalado,6,2016-08-19,E,"G&R Strategies, LLC",9363 Fontainebleau Blvd,H-106,Miami,FL,33172,,,MO,Campaign Consulting,5000.00,,"G&R Strategies, LLC"
+Raquel Regalado,8,2016-08-19,E,Mark  Goodrich,5722 S Flamingo Rd,
+Raquel Regalado,9,2016-08-19,E,Christina  Cicilia,489 SE 6th Street,,Hialeah,FL,33010,,,MO,Campaign<br>Coordinator,816.50,,Cicilia
+Raquel Regalado,10,2016-08-19,E,"Image Plus Graphics, Inc.",1440 NE 131st Street,,North Miami,FL,33161,,,MO,Mailer,8466.59,,"Image Plus Graphics, Inc."
+Raquel Regalado,7,2016-08-20,E,"G&R Strategies, LLC",9363 Fontainebleau Blvd,H-106,Miami,FL,33172,,,MO,Radio<br>Advertising,25000.00,,"G&R Strategies, LLC"
+Raquel Regalado,19,2016-08-23,C,Alfredo C Sanchez,4200 Alton Road,,Miami Beach,FL,33140,I,Real<br>Estate,CH,,250.00,,Sanchez
+Raquel Regalado,20,2016-08-23,C,George M Cabrera Jr,5200 SW 96th Court,,Miami,FL,33165,I,Youth<br>Center/President,CH,,500.00,,Cabrera Jr
+Raquel Regalado,21,2016-08-24,C,"WYN 560, LLC",120 NE 27th Street,Suite 200,Miami,FL,33137,B,Real<br>Estate,CH,,1000.00,,"WYN 560, LLC"
+Raquel Regalado,12,2016-08-24,E,"EL-AL Signs, Inc.",546 NW 57th Avenue,,Miami,FL,33126,,,MO,Signs,1055.00,,"EL-AL Signs, Inc."
+Raquel Regalado,22,2016-08-24,C,Maria A Lima,11751 SW 15th St,,Miami,FL,33184,I,Administrative<br>Assistant,CH,,50.00,,Lima
+Raquel Regalado,23,2016-08-24,C,Janet  Landin,11620 SW 80th Ter,,Miami,FL,33173,I,Auto part<br>sales,CH,,100.00,,Landin
+Raquel Regalado,24,2016-08-24,C,Richard  Meruelo,404 Ave Consitucion,Suite 2403,San Juan,PR,00901,I,Developer,CH,,1000.00,,Meruelo
+Raquel Regalado,25,2016-08-24,C,Homero F Meruelo,5101 Collins Ave,Ph E,Miami Beach,FL,33140,I,Developer,CH,,1000.00,,Meruelo
+Raquel Regalado,26,2016-08-24,C,Isela M Fiterre,9974 SW 31st Terr,,Miami,FL,33165,I,Homemaker,CH,,1000.00,,Fiterre
+Raquel Regalado,27,2016-08-24,C,Marine Trailer Enterprises Inc,9005 NW 93rd St,,Medley,FL,33178,B,Trailer<br>Rental,CH,,300.00,,Marine Trailer Enterprises Inc
+Raquel Regalado,28,2016-08-24,C,Celia E Enriquez CustomsBroker,9005 NW 93rd St,,Medley,FL,33178,B,Customs<br>Broker,CH,,300.00,,Celia E Enriquez CustomsBroker
+Raquel Regalado,29,2016-08-24,C,"Erick L Deeb, PA",2350 Coral Way,Suite 401,Miami,FL,33145,B,Law Firm,CH,,200.00,,"Erick L Deeb, PA"
+Raquel Regalado,30,2016-08-24,C,"AAL Enterprises, Inc.",7750 NW 103rd St,Suite 101,Hialeah,FL,33016,B,Business<br>Consultant,CH,,250.00,,"AAL Enterprises, Inc."
+Raquel Regalado,31,2016-08-24,C,American Towing Service,9180 NW 118th,
+Raquel Regalado,32,2016-08-24,C,Zinssia  Barra,8060 SW 152nd Ave,Apt 510,Miami,FL,33193,I,Secretary,CH,,100.00,,Barra
+Raquel Regalado,33,2016-08-24,C,Maria C De La Roza,3051 SW 20th Street,,Miami,FL,33145,I,,CH,,100.00,,De La Roza
+Raquel Regalado,34,2016-08-24,C,Osel  Gonzalez,1420 SW 12th Avenue,,Miami,FL,33129,I,,CH,,100.00,,Gonzalez
+Raquel Regalado,35,2016-08-24,C,Ofelia  Echemendia Selva,9201 SW 88th St,,Miami,FL,33175,I,Real<br>Estate<br>Investor,CH,,150.00,,Echemendia Selva
+Raquel Regalado,36,2016-08-24,C,Haydee  Penaranda,2800 SW 117th Ct,,Miami,FL,33175,I,Retired,CH,,150.00,,Penaranda
+Raquel Regalado,37,2016-08-24,C,Herbert M Levin,601 NE 36th St,Apt 3107,Miami,FL,33137,I,Marketing,CH,,300.00,,Levin
+Raquel Regalado,38,2016-08-24,C,Pedro J Fuentes-Cid,255 Alhambra Cir,Suite 700,Coral Gables,FL,33134,I,Attorney,CH,,300.00,,Fuentes-Cid
+Raquel Regalado,39,2016-08-24,C,Eduardo  Caballero,624 Majorca Ave,,Coral Gables,FL,33134,I,Retired,CH,,300.00,,Caballero
+Raquel Regalado,40,2016-08-24,C,E  Mario Fernandez,6425 SW 102nd Avenue,,Miami,FL,33173,I,Retired,CH,,500.00,,Fernandez
+Raquel Regalado,41,2016-08-24,C,Translutum Inc.,1201 Poplar Street,,Denver,CO,80220,B,Eye care,CH,,500.00,,Translutum Inc.
+Raquel Regalado,42,2016-08-24,C,Maria C Crego,12340 SW 98th St,,Miami,FL,33186,I,Homemaker,CH,,500.00,,Crego
+Raquel Regalado,43,2016-08-24,C,"Caribe Investments, Inc.",109 NW 32nd Place,,Miami,FL,33125,B,Real<br>Estate,CH,,500.00,,"Caribe Investments, Inc."
+Raquel Regalado,44,2016-08-24,C,USA Transequipment Corp,2121 NW 139th St,Suite 24,Opa Locka,FL,33054,B,Industrial<br>Equipment,CH,,300.00,,USA Transequipment Corp
+Raquel Regalado,45,2016-08-24,C,City Tow Corp.,220 S Flagler Avenue,
+Raquel Regalado,46,2016-08-24,C,Herrera Tire Service Inc.,2701 NW 7th Ave,,Miami,FL,33127,B,Tire Sales,CH,,500.00,,Herrera Tire Service Inc.
+Raquel Regalado,47,2016-08-24,C,GT Used Trucks Inc.,2190 NW 7th Ave,,Miami,FL,33127,B,Truck<br>Sales,CH,,500.00,,GT Used Trucks Inc.
+Raquel Regalado,48,2016-08-24,C,Inc.  Caribe Cafeteria Restaurant,2660 SW 137th Ave,,Miami,FL,33175,B,Restaurant,CH,,500.00,,Caribe Cafeteria Restaurant
+Raquel Regalado,49,2016-08-24,C,Inc.  Caribe Restaurant of 27th Ave,891 NW 35th Ave,,Miami,FL,33125,B,Restaurant,CH,,500.00,,Caribe Restaurant of 27th Ave
+Raquel Regalado,50,2016-08-24,C,Sales Inc.  Atlantic Trailer Leasing &,2287 NW 36th St,,Miami,FL,33142,B,Trailer<br>Rental,CH,,1000.00,,Atlantic Trailer Leasing &
+Raquel Regalado,51,2016-08-24,C,Magic Towing & Recovery Inc.,7851 22nd Ave,,Hialeah,FL,33016,B,Towing<br>Services,CH,,1000.00,,Magic Towing & Recovery Inc.
+Raquel Regalado,52,2016-08-24,C,Midtown Towing of Miami Inc,551 NW 72nd St,,Miami,FL,33150,B,Towing<br>Services,CH,,1000.00,,Midtown Towing of Miami Inc
+Raquel Regalado,53,2016-08-24,C,American Towing of Miami LLC,2246 NW 25th Ave,,Miami,FL,33142,B,Towing<br>Services,CH,,1000.00,,American Towing of Miami LLC
+Raquel Regalado,54,2016-08-24,C,"Kings Wrecker Service, Inc.",1529 NW 37th St,,Miami,FL,33142,B,Towing<br>Services,CH,,1000.00,,"Kings Wrecker Service, Inc."
+Raquel Regalado,55,2016-08-24,C,Downtown Towing Company,1451 NW 20th St,,Miami,FL,33142,B,Towing<br>Services,CH,,1000.00,,Downtown Towing Company
+Raquel Regalado,13,2016-08-25,E,City of Homestead,PO Box
+Raquel Regalado,14,2016-08-25,E,Artees Corp.,7718 NW 54th Street,,Doral,FL,33166,,,MO,T-shirts,613.11,,Artees Corp.
+Raquel Regalado,56,2016-08-25,C,Lorenzo  De Toro,2960 SW 109th Avenue,,Miami,FL,33165,I,Optical<br>Store<br>Owner,CH,,250.00,,De Toro
+Raquel Regalado,57,2016-08-25,C,"Banos Towing Services, Corp.",2112 NW 17th Avenue,,Miami,FL,33142,B,Towing<br>Services,CH,,500.00,,"Banos Towing Services, Corp."
+Raquel Regalado,58,2016-08-25,C,Transtour Motor Coach Inc,2800 Biscayne Blvd,Suite 700,Miami,FL,33137,B,Charter<br>Bus Co,CH,,1000.00,,Transtour Motor Coach Inc
+Raquel Regalado,59,2016-08-25,C,Osvaldo F Plana,5600 Collins Ave,Apt 121,Miami Beach,FL,33140,I,Real<br>Estate,CH,,1000.00,,Plana
+Raquel Regalado,60,2016-08-25,C,Francisco M Martinez,2020 N Bayshore Dr,Apt 1705,Miami,FL,33137,I,Real<br>Estate,CH,,1000.00,,Martinez
+Raquel Regalado,61,2016-08-25,C,Olga Monson PA,2020 N Bayshore Dr,
+Raquel Regalado,62,2016-08-25,C,Francisco  Martinez Celeiro,180 Island Dr,,Key Biscayne,FL,33149,I,Real<br>Estate<br>Management,CH,,1000.00,,Martinez Celeiro
+Raquel Regalado,63,2016-08-25,C,Mercedes del Carmen Piedra,154 SW 17th Ave,Apt 213,Miami,FL,33135,I,Engineer,CH,,1000.00,,Piedra
+Raquel Regalado,64,2016-08-25,C,Andrea  Araujo,1800 Sans Souci Blvd,Apt 403,North Miami,FL,33181,I,Real<br>Estate,CH,,1000.00,,Araujo
+Raquel Regalado,65,2016-08-25,C,Rumasa Corp.,180 Island Dr,,Key Biscayne,FL,33149,B,Real<br>Estate,CH,,1000.00,,Rumasa Corp.
+Raquel Regalado,66,2016-08-25,C,Paco\'s Holding Corp.,555 NE 15th Street,
+Raquel Regalado,67,2016-08-25,C,O.J.A. Development Co Ltd,555 NE 15th Street,Suite 100,Miami,FL,33132,B,Developer,CH,,1000.00,,O.J.A. Development Co Ltd
+Raquel Regalado,68,2016-08-25,C,Pegaso Tours Corp.,555 NE 15th Street,Suite 100,Miami,FL,33132,B,Tour<br>Services,CH,,1000.00,,Pegaso Tours Corp.
+Raquel Regalado,69,2016-08-25,C,"South Beach Hotels 1, Inc.",555 NE 15th Street,Suite 100,Miami,FL,33132,B,Hotel,CH,,1000.00,,"South Beach Hotels 1, Inc."
+Raquel Regalado,70,2016-08-25,C,"Maxtoy 15, Inc.",180 Island Drive,,Key Biscayne,FL,33149,B,Real<br>Estate<br>Management,CH,,1000.00,,"Maxtoy 15, Inc."
+Raquel Regalado,71,2016-08-25,C,Centauro Corp.,555 NE 15th Street,Suite 934,Miami,FL,33132,B,Commercial<br>Real<br>Estate,CH,,1000.00,,Centauro Corp.
+Raquel Regalado,72,2016-08-25,C,"Casa Bella Toy 14, Inc.",180 Iland Drive,,Key Biscayne,FL,33149,B,Hotel,CH,,1000.00,,"Casa Bella Toy 14, Inc."
+Raquel Regalado,73,2016-08-25,C,"Doral Boulevard Hotel, LLC",555 NE 15th Street,Suite 100,Miami,FL,33132,B,Hotel,CH,,1000.00,,"Doral Boulevard Hotel, LLC"
+Raquel Regalado,74,2016-08-25,C,Gelmax Corporation,555 NE 15th Street,Suite 100,Miami,FL,33132,B,Real<br>Estate,CH,,1000.00,,Gelmax Corporation
+Raquel Regalado,75,2016-08-25,C,Bora Bora Beach Hotel Inc.,180 Island Drive,,Key Biscayne,FL,33149,B,Hotel,CH,,1000.00,,Bora Bora Beach Hotel Inc.
+Raquel Regalado,76,2016-08-25,C,Ocean Surf Blue Hotel,180 Island Drive,,Key Biscayne,FL,33149,B,Hotel,CH,,1000.00,,Ocean Surf Blue Hotel
+Raquel Regalado,77,2016-08-25,C,Motel Bianco,555 NE 15th Street,Suite 100,Miami,FL,33132,B,Motel,CH,,1000.00,,Motel Bianco
+Raquel Regalado,78,2016-08-25,C,Calipolis Corporation,555 NE 15th Street,Suite 100,Miami,FL,33132,B,Real<br>Estate,CH,,1000.00,,Calipolis Corporation
+Raquel Regalado,79,2016-08-25,C,Pegaso Corp.,555 NE 15th Street,Suite 934,Miami,FL,33132,B,Commercial<br>Real<br>Estate,CH,,1000.00,,Pegaso Corp.
+Raquel Regalado,80,2016-08-25,C,"Toy 13, Inc.",555 NE 15th Street,Suite 100,Miami,FL,33132,B,Real<br>Estate<br>Management,CH,,1000.00,,"Toy 13, Inc."
+Raquel Regalado,81,2016-08-25,C,"Toymax 2000, Inc.",555 NE 15th Street,Suite 100,Miami,FL,33132,B,Real<br>Estate,CH,,1000.00,,"Toymax 2000, Inc."
+Raquel Regalado,82,2016-08-25,C,Performing Arts Media Center,555 NE 15th Street,Suite 100,Miami,FL,33132,B,Event<br>Organizer,CH,,1000.00,,Performing Arts Media Center
+Raquel Regalado,83,2016-08-25,C,Picaso Tower Inc.,555 NE 15th Street,Suite 100,Miami,FL,33132,B,Lodging,CH,,1000.00,,Picaso Tower Inc.
+Raquel Regalado,84,2016-08-25,C,"Baypoint Office Tower, Inc.",555 NE 15th Street,Suite 100,Miami,FL,33132,B,Building<br>Management,CH,,1000.00,,"Baypoint Office Tower, Inc."
+Raquel Regalado,85,2016-08-25,C,Fraisant Enterprises Company,555 NE 15th Street,Suite 100,Miami,FL,33132,B,Apartments,CH,,1000.00,,Fraisant Enterprises Company
+Raquel Regalado,86,2016-08-25,C,"Paradise Mall, Inc.",555 NE 15th Street,Suite 934,Miami,FL,33132,B,Shopping<br>Center,CH,,1000.00,,"Paradise Mall, Inc."
+Raquel Regalado,87,2016-08-25,C,Babylon International,555 NE 15th Street,Suite 934,Miami,FL,33132,B,Real<br>Estate<br>Management,CH,,1000.00,,Babylon International
