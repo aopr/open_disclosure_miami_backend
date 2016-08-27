@@ -5,11 +5,11 @@ namespace :import_candidate do
   desc "Import Candidate Monies"
   task candidates: :environment do
 
-  candidates = ["miguel_eizmendiz_mayor.csv", "carlos_gimenez_mayor.csv"]
+  candidates = ['miguel_eizmendiz_mayor.csv', 'AlfredSantamariaMayor.csv', 'carlos_gimenez_mayor.csv', 'raquel_regalado.csv', 'dennis_moss.csv', 'burino_barreiro.csv']
 
   candidates.each do |canidate|
 
-  file = Rails.root.join("lib","seeds",candidate)
+    file = Rails.root.join("lib","seeds",candidate)
 
     CSV.foreach(file, headers: true, return_headers: false, header_converters: :symbol, encoding: 'cp1256') do |line|
       Mony.create!(
